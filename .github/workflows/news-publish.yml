@@ -8,6 +8,10 @@ on:
       only:
         description: "하나만 지금 게시 (예: tr/temple/carousel)"
         required: false
+      ping:
+        description: "게시 없이 연결만 확인"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -41,6 +45,7 @@ jobs:
           MEDIA_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/posts
         run: |
           cd uploader
+          if [ "${{ inputs.ping }}" = "true" ]; then python3 news_publish.py --ping; exit 0; fi
           if [ -n "${{ inputs.only }}" ]; then python3 news_publish.py --only "${{ inputs.only }}"; else python3 news_publish.py; fi
       - name: Save state
         run: |

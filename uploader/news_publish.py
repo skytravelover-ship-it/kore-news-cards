@@ -201,7 +201,21 @@ def main():
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--only")
+    ap.add_argument("--ping", action="store_true", help="게시 없이 토큰·계정·한도만 확인")
     a = ap.parse_args()
+
+    if a.ping:
+        for lang in ("tr", "es"):
+            if not os.environ.get(f"IG_ACCESS_TOKEN_{lang.upper()}"):
+                print(f"[{lang}] 토큰 없음")
+                continue
+            try:
+                api = Api(lang)
+                me = api.call("GET", api.user, fields="username,account_type,media_count")
+                print(f"[{lang}] 연결 OK: @{me.get('username')} ({me.get('account_type','?')}), 게시물 {me.get('media_count')}개, 오늘 남은 한도 {api.quota_left()}")
+            except Exception as e:
+                print(f"[{lang}] 연결 실패: {e}")
+        return
 
     accounts = jload(HERE / "accounts.json")
     queue = jload(HERE / "queue.json", [])
