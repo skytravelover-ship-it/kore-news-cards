@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-31T16:38:31+00:00",
+ "collected_at": "2026-10-31T21:37:31+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -51,8 +51,8 @@
    "account_day": {
     "reach": 0,
     "views": 0,
-    "accounts_engaged": 0,
-    "total_interactions": 0,
+    "accounts_engaged": 1,
+    "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
