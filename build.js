@@ -6,6 +6,7 @@ const { execFileSync } = require("child_process");
 global.window = {};
 eval(fs.readFileSync(path.join(__dirname, "src/data.js"), "utf8"));
 
+const noEmoji = (t) => t.replace(/[\p{Extended_Pictographic}\uFE0F]/gu, "").replace(/\s+$/, "").replace(/ {2,}/g, " ");
 const strip = (h) => h.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
 
 const BASE_TAGS = {
@@ -22,8 +23,8 @@ const TOPIC_TAGS = {
 // 인스타는 2025-12부터 해시태그 최대 5개: 계정 태그 1 + 국가 2 + 주제 2
 const tags = (lang, id) => [BASE_TAGS[lang][4], BASE_TAGS[lang][0], BASE_TAGS[lang][3], ...((TOPIC_TAGS[id] || {})[lang] || []).slice(0, 2)].join(" ");
 const T = {
-  tr: { more: "Detaylar için kaydır 👉", src: "Kaynak", word: "Günün Korecesi" },
-  es: { more: "Desliza para el contexto 👉", src: "Fuente", word: "Palabra del día" },
+  tr: { more: "Detaylar için kaydır →", src: "Kaynak", word: "Günün Korecesi" },
+  es: { more: "Desliza para el contexto →", src: "Fuente", word: "Palabra del día" },
 };
 
 for (const [lang, L] of Object.entries(window.NEWS)) {
@@ -38,20 +39,20 @@ for (const [lang, L] of Object.entries(window.NEWS)) {
 
     const t = T[lang];
     const caption = [
-      `🇰🇷 ${strip(p.headline)}`,
+      strip(p.headline),
       "",
-      ...p.slides[0].items.map((x) => `▪️ ${strip(x)}`),
+      ...p.slides[0].items.map((x) => `— ${strip(x)}`),
       "",
       t.more,
       "",
-      `💬 ${p.question}`,
+      noEmoji(p.question),
       "",
       `${t.src}: ${p.source}`,
       `${p.credit}`,
       "",
       tags(lang, p.id),
     ].join("\n");
-    const comment = `📌 ${t.word}: ${p.word.ko} (${p.word.rom}) = ${p.word.mean}\n${p.word.exKo}\n→ ${p.word.exTr}`;
+    const comment = `${t.word}: ${p.word.ko} (${p.word.rom}) = ${p.word.mean}\n${p.word.exKo}\n→ ${p.word.exTr}`;
     fs.writeFileSync(path.join(dst, "caption.txt"), caption + "\n");
     fs.writeFileSync(path.join(dst, "comment.txt"), comment + "\n");
     // 장별 대체텍스트 (시각장애인 접근성 + 검색 신호)
@@ -59,7 +60,7 @@ for (const [lang, L] of Object.entries(window.NEWS)) {
       `${p.word.ko} (${p.word.rom}) = ${p.word.mean}. ${p.word.exTr}`];
     fs.writeFileSync(path.join(dst, "alt.json"), JSON.stringify(alt, null, 1) + "\n");
     // Threads용 짧은 글 (500자 제한)
-    fs.writeFileSync(path.join(dst, "threads.txt"), [`🇰🇷 ${strip(p.headline)}`, "", ...p.slides[1].items.slice(0, 2).map((x) => `▪️ ${strip(x)}`), "", `💬 ${p.question}`].join("\n").slice(0, 490) + "\n");
+    fs.writeFileSync(path.join(dst, "threads.txt"), [strip(p.headline), "", ...p.slides[1].items.slice(0, 2).map((x) => `— ${strip(x)}`), "", p.question].join("\n").slice(0, 490) + "\n");
 
     // 릴스: 영상·표지 복사 + 짧은 캡션 (자세한 내용은 캐러셀로 보내기)
     let reel = "";
@@ -67,11 +68,11 @@ for (const [lang, L] of Object.entries(window.NEWS)) {
       fs.copyFileSync(path.join(pngDir, "reel.mp4"), path.join(dst, "reel.mp4"));
       fs.copyFileSync(path.join(pngDir, "reel_cover.jpg"), path.join(dst, "reel_cover.jpg"));
       const reelCap = [
-        `🇰🇷 ${strip(p.headline)}`,
+        strip(p.headline),
         "",
-        `💬 ${p.question}`,
+        noEmoji(p.question),
         "",
-        `📌 ${t.word}: ${p.word.ko} (${p.word.rom}) = ${p.word.mean}`,
+        `${t.word}: ${p.word.ko} (${p.word.rom}) = ${p.word.mean}`,
         `${t.src}: ${p.source} · ${p.credit}`,
         "",
         tags(lang, p.id),
