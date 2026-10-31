@@ -211,8 +211,8 @@ def main():
                 continue
             try:
                 api = Api(lang)
-                me = api.call("GET", api.user, fields="username,account_type,media_count")
-                print(f"[{lang}] 연결 OK: @{me.get('username')} ({me.get('account_type','?')}), 게시물 {me.get('media_count')}개, 오늘 남은 한도 {api.quota_left()}")
+                me = api.call("GET", api.user, fields="username,media_count")
+                print(f"[{lang}] 연결 OK: @{me.get('username')}, 게시물 {me.get('media_count')}개, 오늘 남은 한도 {api.quota_left()}")
             except Exception as e:
                 print(f"[{lang}] 연결 실패: {e}")
         return
