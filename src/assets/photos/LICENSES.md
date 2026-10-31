@@ -1,0 +1,10 @@
+# 사진 라이선스 기록 (사진 1장 = 한 줄)
+
+| 파일 | 작가 | 출처 | 라이선스 | 사용 게시물 |
+|---|---|---|---|---|
+| halloween.jpg | zero take | https://unsplash.com/photos/68CopG3fmrg | Unsplash License | 10/31 핼러윈 |
+| temple.jpg | KS KYUNG | https://unsplash.com/photos/3Ud2n9GIdD8 | Unsplash License | 10/31 온라인 산사 |
+| baseball.jpg | Yanhao Fang | https://unsplash.com/photos/3ob3USJGu8Y | Unsplash License | 10/31 노시환 (ES) |
+| rural.jpg | Daniel Bernard | https://unsplash.com/photos/QNEzbAABsxg | Unsplash License | 10/31 기본소득 |
+| street.jpg | rawkkim | https://unsplash.com/photos/9klnaHaMi84 | Unsplash License | 예비 |
+| altman.jpg | TechCrunch | https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg | CC BY 2.0 | 10/31 올트먼 (TR) |

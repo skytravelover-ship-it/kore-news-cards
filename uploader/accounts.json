@@ -1,0 +1,4 @@
+{
+  "tr": {"handle": "korede.bugun", "utc_offset": "+03:00", "note": "터키 시간"},
+  "es": {"handle": "hoy.encorea", "utc_offset": "+01:00", "note": "마드리드 겨울 시간 (멕시코시티 = 마드리드 - 7시간)"}
+}

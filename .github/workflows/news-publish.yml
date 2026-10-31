@@ -1,0 +1,53 @@
+name: News publish (korede.bugun / hoy.encorea)
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # 15분마다 (GitHub가 몇 분 늦출 수 있음)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "하나만 지금 게시 (예: tr/temple/carousel)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publish due items
+        env:
+          IG_USER_ID_TR: ${{ secrets.IG_USER_ID_TR }}
+          IG_ACCESS_TOKEN_TR: ${{ secrets.IG_ACCESS_TOKEN_TR }}
+          IG_USER_ID_ES: ${{ secrets.IG_USER_ID_ES }}
+          IG_ACCESS_TOKEN_ES: ${{ secrets.IG_ACCESS_TOKEN_ES }}
+          THREADS_USER_ID_TR: ${{ secrets.THREADS_USER_ID_TR }}
+          THREADS_TOKEN_TR: ${{ secrets.THREADS_TOKEN_TR }}
+          THREADS_USER_ID_ES: ${{ secrets.THREADS_USER_ID_ES }}
+          THREADS_TOKEN_ES: ${{ secrets.THREADS_TOKEN_ES }}
+          IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.instagram.com' }}
+          # GitHub Pages: mp4를 video/mp4 로 보내므로 릴스가 올라간다
+          MEDIA_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/posts
+        run: |
+          cd uploader
+          if [ -n "${{ inputs.only }}" ]; then python3 news_publish.py --only "${{ inputs.only }}"; else python3 news_publish.py; fi
+      - name: Save state
+        run: |
+          if [ -n "$(git status --porcelain uploader/state.json)" ]; then
+            git config user.name "news-bot"
+            git config user.email "news-bot@users.noreply.github.com"
+            git add uploader/state.json
+            git commit -m "Record published items"
+            git pull --rebase && git push
+          fi
