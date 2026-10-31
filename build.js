@@ -55,6 +55,9 @@ for (const [lang, L] of Object.entries(window.NEWS)) {
     const comment = `${t.word}: ${p.word.ko} (${p.word.rom}) = ${p.word.mean}\n${p.word.exKo}\n→ ${p.word.exTr}`;
     fs.writeFileSync(path.join(dst, "caption.txt"), caption + "\n");
     fs.writeFileSync(path.join(dst, "comment.txt"), comment + "\n");
+    // 분석용 메타데이터 (insights/report.py 가 카테고리·주제별 비교에 사용)
+    fs.writeFileSync(path.join(dst, "meta.json"), JSON.stringify({ lang, id: p.id, date: L.date, cat: p.cat, short: p.short,
+      headline: strip(p.headline), word: p.word.ko, photo: p.photo, slides: pngs.length, question: noEmoji(p.question) }, null, 1) + "\n");
     // 장별 대체텍스트 (시각장애인 접근성 + 검색 신호)
     const alt = [strip(p.headline), ...p.slides.map((d) => `${strip(d.label)} ${d.items.map(strip).join(" ")}`),
       `${p.word.ko} (${p.word.rom}) = ${p.word.mean}. ${p.word.exTr}`];

@@ -1,0 +1,41 @@
+name: Insights (6시간마다)
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-publish   # 게시 워크플로와 동시에 커밋하지 않도록 같은 그룹
+  cancel-in-progress: false
+
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect and report
+        env:
+          IG_USER_ID_TR: ${{ secrets.IG_USER_ID_TR }}
+          IG_ACCESS_TOKEN_TR: ${{ secrets.IG_ACCESS_TOKEN_TR }}
+          IG_USER_ID_ES: ${{ secrets.IG_USER_ID_ES }}
+          IG_ACCESS_TOKEN_ES: ${{ secrets.IG_ACCESS_TOKEN_ES }}
+          IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
+        run: |
+          cd uploader
+          python3 insights.py
+          python3 report.py
+      - name: Save
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add insights
+          git diff --cached --quiet || (git commit -m "Insights snapshot" && git pull --rebase && git push)
