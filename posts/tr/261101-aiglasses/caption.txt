@@ -1,0 +1,14 @@
+Akıllı gözlükle kopya deneyi: yapay zekâ SAT sorularının %83'ünü doğru çözdü
+
+— Almanya'daki Halle-Wittenberg Martin Luther Üniversitesi'nden araştırmacılar, ABD'nin üniversite sınavı SAT'ten 720 eski soruyu yapay zekâya verdi.
+— Soru görüntüleri, akıllı gözlükle uzaktan ve eğik bakılmış gibi bulanık ve yamuk yapıldı. Google'ın Gemini modeli yine de %83 doğru yaptı. Matematikte oran %88.
+— OpenAI'ın GPT-4o modeli %76 doğru yaptı. Not: Bu bir benzetimdi. Gerçek bir sınav salonunda deneme yapılmadı.
+
+Detaylar için kaydır →
+
+Sence sınavlarda akıllı gözlük nasıl engellenmeli? YKS'de de böyle bir kontrol gerekir mi?
+
+Kaynak: Yonhap
+Fotoğraf: Nguyen Dang Hoang Nhu / Unsplash · temsili görsel
+
+#koredebugun #güneykore #korehaberleri #yapayzeka #sınav

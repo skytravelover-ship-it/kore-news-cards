@@ -8,3 +8,4 @@
 | rural.jpg | Daniel Bernard | https://unsplash.com/photos/QNEzbAABsxg | Unsplash License | 10/31 기본소득 |
 | street.jpg | rawkkim | https://unsplash.com/photos/9klnaHaMi84 | Unsplash License | 예비 |
 | altman.jpg | TechCrunch | https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg | CC BY 2.0 | 10/31 올트먼 (TR) |
+| aiglasses.jpg | Nguyen Dang Hoang Nhu | https://unsplash.com/photos/cbEvoHbJnIE | Unsplash License | 11/01 AI 안경 커닝 (TR·ES) |

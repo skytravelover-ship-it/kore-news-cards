@@ -1,0 +1,14 @@
+Copiar con gafas inteligentes: una IA acertó el 83% de las preguntas del SAT
+
+— Investigadores de la Universidad Martin Luther de Halle-Wittenberg (Alemania) le dieron a la IA 720 preguntas antiguas del SAT, el examen de admisión universitaria de EE. UU.
+— Deformaron y desenfocaron las imágenes para imitar lo que ve la cámara de unas gafas inteligentes. Aun así, Gemini de Google acertó el 83%, y el 88% en matemáticas.
+— GPT-4o de OpenAI acertó el 76%. Ojo: fue una simulación, no una prueba en un salón de examen real.
+
+Desliza para el contexto →
+
+¿Cómo se evita que los estudiantes copien en los exámenes de tu país?
+
+Fuente: Yonhap
+Foto: Nguyen Dang Hoang Nhu / Unsplash · imagen ilustrativa
+
+#hoyencorea #coreadelsur #noticiasdecorea #inteligenciaartificial #examen
