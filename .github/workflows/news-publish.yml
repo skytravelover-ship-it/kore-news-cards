@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: news-publish
@@ -47,12 +48,23 @@ jobs:
           cd uploader
           if [ "${{ inputs.ping }}" = "true" ]; then python3 news_publish.py --ping; exit 0; fi
           if [ -n "${{ inputs.only }}" ]; then python3 news_publish.py --only "${{ inputs.only }}"; else python3 news_publish.py; fi
+      - name: 2-hour post report
+        if: ${{ !inputs.ping }}
+        continue-on-error: true
+        env:
+          IG_USER_ID_TR: ${{ secrets.IG_USER_ID_TR }}
+          IG_ACCESS_TOKEN_TR: ${{ secrets.IG_ACCESS_TOKEN_TR }}
+          IG_USER_ID_ES: ${{ secrets.IG_USER_ID_ES }}
+          IG_ACCESS_TOKEN_ES: ${{ secrets.IG_ACCESS_TOKEN_ES }}
+          IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
+          GH_TOKEN: ${{ github.token }}
+        run: cd uploader && python3 post_report.py
       - name: Save state
         run: |
-          if [ -n "$(git status --porcelain uploader/state.json)" ]; then
+          if [ -n "$(git status --porcelain uploader/state.json insights/post_reports)" ]; then
             git config user.name "news-bot"
             git config user.email "news-bot@users.noreply.github.com"
-            git add uploader/state.json
-            git commit -m "Record published items"
+            git add uploader/state.json insights/post_reports
+            git commit -m "Record published items / 2h reports"
             git pull --rebase && git push
           fi
