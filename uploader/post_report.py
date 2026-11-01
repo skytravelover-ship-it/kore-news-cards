@@ -95,6 +95,8 @@ def build(key, rec, now, index):
     if not token:
         return None
     m, link = media_metrics(token, rec["media_id"], kind)
+    if rec.get("comment_id") and m.get("comments"):
+        m["comments"] -= 1  # 우리가 단 "오늘의 한국어" 댓글은 빼고 센다
     followers = get(token, user, fields="followers_count").get("followers_count") if user else None
     pub = datetime.fromisoformat(rec["published_at"])
     age = now - pub
