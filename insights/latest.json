@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-01T22:04:16+00:00",
+ "collected_at": "2026-11-02T06:09:28+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 4
    },
    "account_day": {
-    "reach": 137,
-    "views": 155,
+    "reach": 208,
+    "views": 233,
     "accounts_engaged": 1,
     "total_interactions": 2,
     "profile_views": 0,
@@ -69,15 +69,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 32,
-      "views": 40,
+      "reach": 103,
+      "views": 114,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4827,
-      "ig_reels_video_view_total_time": 154474
+      "ig_reels_avg_watch_time": 4693,
+      "ig_reels_video_view_total_time": 478712
      }
     },
     {
@@ -109,17 +109,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 2
+    "media_count": 3
    },
    "account_day": {
-    "reach": 0,
-    "views": 0,
+    "reach": 1,
+    "views": 6,
     "accounts_engaged": 1,
     "total_interactions": 2,
-    "profile_views": 1,
+    "profile_views": 2,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18063635069800329",
+     "key": "es/halloween/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-02T02:28:17+0000",
+     "permalink": "https://www.instagram.com/reel/DfOO73oEyda/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "ig_reels_video_view_total_time": 0
+     }
+    },
     {
      "id": "18103280525645514",
      "key": "es/261101-aiglasses/carousel",
@@ -130,8 +151,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -151,8 +172,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
