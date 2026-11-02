@@ -1,10 +1,10 @@
-// 2026-11-01 한국 뉴스. 출처: 연합뉴스(2026-11-01 송고, 독일 할레-비텐베르크대 연구 소개 + 교육부 수능 대책).
+// 2026-11-02 한국 뉴스. 출처: 연합뉴스(2026-11-02 송고, 한국보건사회연구원 보고서 '중고령층 소득공백의 현황과 대응 방안').
 // 사진: Unsplash 라이선스(무료·상업 사용 가능). 언론사 사진은 쓰지 않는다.
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "1 KASIM 2026",
+    date: "2 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -13,35 +13,35 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261101-aiglasses",
-        cat: "EĞİTİM",
-        photo: "aiglasses.jpg",
+        id: "261102-pensiongap",
+        cat: "EKONOMİ",
+        photo: "pension.jpg",
         pos: "center",
         source: "Yonhap",
-        credit: "Fotoğraf: Nguyen Dang Hoang Nhu / Unsplash · temsili görsel",
-        headline: "Akıllı gözlükle kopya deneyi: yapay zekâ SAT sorularının <em>%83'ünü</em> doğru çözdü",
-        sub: "Kore'de bu gözlüklerle kopya çeken adaylar yakalandı. Büyük üniversite sınavı da yaklaşıyor.",
-        short: "Akıllı gözlükle kopya",
+        credit: "Fotoğraf: inyoung jung / Unsplash · temsili görsel",
+        headline: "Kore'de işten emeklilik ile emekli maaşı arasında <em>3 yıllık</em> boşluk",
+        sub: "60 yaşında işten ayrılanların çoğu, maaş başlayana kadar geçici işlerde çalışıyor.",
+        short: "3 yıllık gelir boşluğu",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Almanya'daki Halle-Wittenberg Martin Luther Üniversitesi'nden araştırmacılar, ABD'nin üniversite sınavı SAT'ten <b>720</b> eski soruyu yapay zekâya verdi.",
-              "Soru görüntüleri, akıllı gözlükle uzaktan ve eğik bakılmış gibi <b>bulanık ve yamuk</b> yapıldı. Google'ın Gemini modeli yine de <b>%83</b> doğru yaptı. Matematikte oran <b>%88</b>.",
-              "OpenAI'ın GPT-4o modeli <b>%76</b> doğru yaptı. Not: Bu bir benzetimdi. Gerçek bir sınav salonunda deneme yapılmadı.",
+              "Kore Sağlık ve Sosyal İşler Enstitüsü (KIHASA) yeni bir rapor yayımladı. Kore'de yasal emeklilik yaşı <b>60</b>. Ama devletin emekli maaşı daha geç başlıyor.",
+              "1961-1964 doğumlular maaşı <b>63</b> yaşında alıyor. Zorunlu sigorta ise 59 yaşında bitiyor. Yani <b>60-62</b> yaş arasında ne maaş var ne de prim.",
+              "60 yaşından sonra yeniden iş bulanların <b>%61,3</b>'ü geçici ya da gündelik işte çalışıyor. Kadrolu iş bulanlar sadece <b>%22,1</b>.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Kore'de bu artık teori değil. Geçen ay Yonsei ve Seul Şehir Üniversitesi'nin yazılı sınavlarında, kontrolden sonra <b>gözlüğünü akıllı gözlükle değiştiren</b> adaylar yakalandı. Bu yıl devlet sertifika sınavlarında <b>5</b> vaka daha var.",
-              "Bu ay Kore'nin üniversite sınavı <b>Suneung</b> yapılacak. O gün ülke neredeyse durur. İngilizce dinleme bölümünde uçakların iniş ve kalkışı bile durdurulur.",
-              "Eğitim Bakanlığı her sınav binasına <b>1</b> gözlük kontrol görevlisi koyacak. Akıllı gözlük takan adayın sınavı geçersiz sayılacak. Sınav yasağının 1 yıldan <b>3 yıla</b> çıkarılması planlanıyor.",
+              "1998 reformuyla maaş yaşı adım adım yükseliyor: 2013'te 61'di, <b>2033</b>'te 65 olacak. Yasal emeklilik yaşı 60'ta kalırsa boşluk <b>5 yıla</b> çıkacak.",
+              "60-64 yaş grubunda işgücüne katılım 2011'de <b>%57</b> idi, 2025'te <b>%66,7</b> oldu. Geliri sert düşen hanelerin yaklaşık <b>%70</b>'i ay sonunu açıkla kapatıyor.",
+              "Araştırmacılar, emeklilik yaşının maaş yaşına göre kademeli yükseltilmesini öneriyor. Bir öneri daha var: maaşın sadece gereken kısmını almayı sağlayan <b>kısmi emekli maaşı</b>.",
             ],
           },
         ],
-        word: { ko: "커닝", rom: "keoning", mean: "sınavda kopya", exKo: "시험에서 커닝하면 안 된다.", exTr: "Sınavda kopya çekilmez." },
-        question: "Sence sınavlarda akıllı gözlük nasıl engellenmeli? YKS'de de böyle bir kontrol gerekir mi?",
+        word: { ko: "정년", rom: "jeongnyeon", mean: "yasal emeklilik yaşı", exKo: "아버지는 내년에 정년퇴직하신다.", exTr: "Babam seneye emekli oluyor." },
+        question: "Sence emeklilikten sonra da çalışmak gerekir mi? Senin çevrende durum nasıl?",
       },
     ],
   },
@@ -49,7 +49,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "1 NOV 2026",
+    date: "2 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -58,35 +58,35 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261101-aiglasses",
-        cat: "EDUCACIÓN",
-        photo: "aiglasses.jpg",
+        id: "261102-pensiongap",
+        cat: "ECONOMÍA",
+        photo: "pension.jpg",
         pos: "center",
         source: "Yonhap",
-        credit: "Foto: Nguyen Dang Hoang Nhu / Unsplash · imagen ilustrativa",
-        headline: "Copiar con gafas inteligentes: una IA acertó el <em>83%</em> de las preguntas del SAT",
-        sub: "En Corea ya descubrieron a aspirantes copiando con estas gafas, y el gran examen nacional está cerca.",
-        short: "Copiar con gafas inteligentes",
+        credit: "Foto: inyoung jung / Unsplash · imagen ilustrativa",
+        headline: "Retiro a los 60, pensión a los 63: el hueco de <em>3 años</em> sin ingresos en Corea",
+        sub: "La mayoría vuelve a trabajar, pero en empleos temporales y mal pagados.",
+        short: "El hueco de 3 años",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "Investigadores de la Universidad Martin Luther de Halle-Wittenberg (Alemania) le dieron a la IA <b>720</b> preguntas antiguas del SAT, el examen de admisión universitaria de EE. UU.",
-              "Deformaron y desenfocaron las imágenes para imitar lo que ve la cámara de unas <b>gafas inteligentes</b>. Aun así, Gemini de Google acertó el <b>83%</b>, y el <b>88%</b> en matemáticas.",
-              "GPT-4o de OpenAI acertó el <b>76%</b>. Ojo: fue una simulación, no una prueba en un salón de examen real.",
+              "Un informe del Instituto Coreano de Salud y Asuntos Sociales (KIHASA) analizó qué pasa tras el retiro. En Corea, la edad legal de retiro es <b>60</b> años, pero la pensión pública llega después.",
+              "Los nacidos entre 1961 y 1964 cobran la pensión a los <b>63</b>. Y la cotización obligatoria termina a los 59. Así, de los <b>60 a los 62</b> años no cotizan ni cobran.",
+              "De quienes consiguen un trabajo nuevo después de los 60, el <b>61,3%</b> tiene un empleo temporal o por día. Solo el <b>22,1%</b> logra un puesto fijo.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "En Corea ya pasó. El mes pasado, en exámenes de redacción de las universidades Yonsei y de la Ciudad de Seúl, descubrieron a aspirantes que se cambiaron sus <b>gafas normales por unas inteligentes</b> tras el control. Este año hubo <b>5</b> casos más en exámenes de certificación del Estado.",
-              "Este mes llega el <b>Suneung</b>, el examen de acceso a la universidad. Ese día el país casi se detiene: durante la prueba de comprensión auditiva de inglés, incluso se suspenden despegues y aterrizajes.",
-              "El Ministerio de Educación pondrá <b>1</b> encargado de revisar gafas en cada sede. Si alguien usa unas inteligentes, su examen se anula. Además, planea ampliar la prohibición de volver a presentarlo de 1 a <b>3 años</b>.",
+              "Por una reforma de 1998, la edad de la pensión sube poco a poco: era 61 en 2013 y será 65 en <b>2033</b>. Si la edad de retiro se queda en 60, el hueco llegará a <b>5 años</b>.",
+              "La tasa de actividad de las personas de 60 a 64 años pasó del <b>57%</b> en 2011 al <b>66,7%</b> en 2025. Y cerca del <b>70%</b> de los hogares cuyo ingreso cayó con fuerza gasta más de lo que gana.",
+              "Los investigadores proponen subir la edad de retiro al ritmo de la pensión. También una <b>pensión parcial</b>: cobrar solo la parte que necesitas mientras sigues trabajando.",
             ],
           },
         ],
-        word: { ko: "커닝", rom: "keoning", mean: "copiar en un examen", exKo: "시험에서 커닝하면 안 된다.", exTr: "No se debe copiar en un examen." },
-        question: "¿Cómo se evita que los estudiantes copien en los exámenes de tu país?",
+        word: { ko: "정년", rom: "jeongnyeon", mean: "edad legal de retiro", exKo: "아버지는 내년에 정년퇴직하신다.", exTr: "Mi padre se jubila el próximo año." },
+        question: "¿A qué edad se jubila la gente en tu país? ¿Alcanza la pensión para vivir?",
       },
     ],
   },
