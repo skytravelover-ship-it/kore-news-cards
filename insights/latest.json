@@ -1,22 +1,43 @@
 {
- "collected_at": "2026-11-03T14:19:40+00:00",
+ "collected_at": "2026-11-03T23:25:18+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 6
+    "media_count": 7
    },
    "account_day": {
-    "reach": 105,
-    "views": 110,
+    "reach": 207,
+    "views": 218,
     "accounts_engaged": 1,
     "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18124256014980639",
+     "key": "tr/261103-seoulspend/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-03T16:43:07+0000",
+     "permalink": "https://www.instagram.com/reel/DfSVkXfEmL9/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 102,
+      "views": 108,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3919,
+      "ig_reels_video_view_total_time": 399788
+     }
+    },
     {
      "id": "18119552414104500",
      "key": "tr/261102-pensiongap/reel",
@@ -151,17 +172,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 5
+    "media_count": 6
    },
    "account_day": {
     "reach": 9,
     "views": 10,
     "accounts_engaged": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18494096260106924",
+     "key": "es/261103-seoulspend/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-03T22:03:57+0000",
+     "permalink": "https://www.instagram.com/p/DfS6UJaF4WW/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18034598234890656",
      "key": "es/261102-pensiongap/reel",
