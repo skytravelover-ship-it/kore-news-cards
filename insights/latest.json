@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-03T00:59:56+00:00",
+ "collected_at": "2026-11-03T14:19:40+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,10 +9,10 @@
     "media_count": 6
    },
    "account_day": {
-    "reach": 316,
-    "views": 343,
+    "reach": 105,
+    "views": 110,
     "accounts_engaged": 1,
-    "total_interactions": 2,
+    "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
@@ -151,17 +151,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 4
+    "media_count": 5
    },
    "account_day": {
-    "reach": 1,
-    "views": 6,
+    "reach": 9,
+    "views": 10,
     "accounts_engaged": 1,
-    "total_interactions": 2,
-    "profile_views": 2,
+    "total_interactions": 1,
+    "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18034598234890656",
+     "key": "es/261102-pensiongap/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-03T01:56:22+0000",
+     "permalink": "https://www.instagram.com/reel/DfQwFOMEYnX/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 9,
+      "views": 10,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4171,
+      "ig_reels_video_view_total_time": 41717
+     }
+    },
     {
      "id": "18147901807600758",
      "key": "es/261102-pensiongap/carousel",
@@ -200,8 +221,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 0,
-      "ig_reels_video_view_total_time": 0
+      "ig_reels_avg_watch_time": 2428,
+      "ig_reels_video_view_total_time": 2428
      }
     },
     {
