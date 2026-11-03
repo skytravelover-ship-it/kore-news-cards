@@ -1,22 +1,43 @@
 {
- "collected_at": "2026-11-02T15:58:04+00:00",
+ "collected_at": "2026-11-03T00:59:56+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 5
+    "media_count": 6
    },
    "account_day": {
-    "reach": 208,
-    "views": 233,
+    "reach": 316,
+    "views": 343,
     "accounts_engaged": 1,
     "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18119552414104500",
+     "key": "tr/261102-pensiongap/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-02T19:52:43+0000",
+     "permalink": "https://www.instagram.com/reel/DfQGdiWk-Yq/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 104,
+      "views": 111,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4562,
+      "ig_reels_video_view_total_time": 469982
+     }
+    },
     {
      "id": "18350343583248935",
      "key": "tr/261102-pensiongap/carousel",
@@ -90,15 +111,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 103,
-      "views": 114,
+      "reach": 104,
+      "views": 115,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4693,
-      "ig_reels_video_view_total_time": 478712
+      "ig_reels_avg_watch_time": 4637,
+      "ig_reels_video_view_total_time": 482278
      }
     },
     {
@@ -130,17 +151,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 3
+    "media_count": 4
    },
    "account_day": {
     "reach": 1,
     "views": 6,
     "accounts_engaged": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_views": 2,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18147901807600758",
+     "key": "es/261102-pensiongap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-02T19:53:39+0000",
+     "permalink": "https://www.instagram.com/p/DfQGmxDmkVW/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18063635069800329",
      "key": "es/halloween/reel",

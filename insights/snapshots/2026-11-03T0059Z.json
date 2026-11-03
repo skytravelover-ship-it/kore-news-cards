@@ -1,0 +1,253 @@
+{
+ "collected_at": "2026-11-03T00:59:56+00:00",
+ "accounts": {
+  "tr": {
+   "account": {
+    "username": "korede.bugun",
+    "followers_count": 0,
+    "follows_count": 0,
+    "media_count": 6
+   },
+   "account_day": {
+    "reach": 316,
+    "views": 343,
+    "accounts_engaged": 1,
+    "total_interactions": 2,
+    "profile_views": 0,
+    "follows_and_unfollows": null
+   },
+   "media": [
+    {
+     "id": "18119552414104500",
+     "key": "tr/261102-pensiongap/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-02T19:52:43+0000",
+     "permalink": "https://www.instagram.com/reel/DfQGdiWk-Yq/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 104,
+      "views": 111,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4562,
+      "ig_reels_video_view_total_time": 469982
+     }
+    },
+    {
+     "id": "18350343583248935",
+     "key": "tr/261102-pensiongap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-02T09:46:38+0000",
+     "permalink": "https://www.instagram.com/p/DfPBI_jFzUo/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18119816155791143",
+     "key": "tr/261101-aiglasses/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-01T19:38:11+0000",
+     "permalink": "https://www.instagram.com/reel/DfNgALMIE5e/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 107,
+      "views": 119,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3425,
+      "ig_reels_video_view_total_time": 376790
+     }
+    },
+    {
+     "id": "17886692598688675",
+     "key": "tr/261101-aiglasses/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-01T15:05:13+0000",
+     "permalink": "https://www.instagram.com/p/DfNAziVl9_h/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "17988920973093187",
+     "key": "tr/halloween/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-01T15:04:15+0000",
+     "permalink": "https://www.instagram.com/reel/DfNAp0yCJZ1/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 104,
+      "views": 115,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4637,
+      "ig_reels_video_view_total_time": 482278
+     }
+    },
+    {
+     "id": "17981142144137953",
+     "key": "tr/halloween/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-10-31T16:08:35+0000",
+     "permalink": "https://www.instagram.com/p/DfKjQQqF5nz/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    }
+   ],
+   "errors": []
+  },
+  "es": {
+   "account": {
+    "username": "hoy.encorea",
+    "followers_count": 0,
+    "follows_count": 0,
+    "media_count": 4
+   },
+   "account_day": {
+    "reach": 1,
+    "views": 6,
+    "accounts_engaged": 1,
+    "total_interactions": 2,
+    "profile_views": 2,
+    "follows_and_unfollows": null
+   },
+   "media": [
+    {
+     "id": "18147901807600758",
+     "key": "es/261102-pensiongap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-02T19:53:39+0000",
+     "permalink": "https://www.instagram.com/p/DfQGmxDmkVW/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18063635069800329",
+     "key": "es/halloween/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-02T02:28:17+0000",
+     "permalink": "https://www.instagram.com/reel/DfOO73oEyda/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "ig_reels_video_view_total_time": 0
+     }
+    },
+    {
+     "id": "18103280525645514",
+     "key": "es/261101-aiglasses/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-01T19:38:58+0000",
+     "permalink": "https://www.instagram.com/p/DfNgIWgmpop/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 1,
+      "views": 3,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18117991334013708",
+     "key": "es/halloween/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-10-31T16:35:17+0000",
+     "permalink": "https://www.instagram.com/p/DfKmUytG9Kg/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 1,
+      "views": 3,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    }
+   ],
+   "errors": []
+  }
+ }
+}
