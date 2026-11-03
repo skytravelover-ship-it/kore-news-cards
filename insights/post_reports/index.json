@@ -176,5 +176,19 @@
    "ig_reels_video_view_total_time": 34240
   },
   "at": "2026-11-03T08:46:31+00:00"
+ },
+ "tr/261103-seoulspend/reel": {
+  "metrics": {
+   "reach": 79,
+   "views": 88,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 3552,
+   "ig_reels_video_view_total_time": 280686
+  },
+  "at": "2026-11-03T22:04:02+00:00"
  }
 }
