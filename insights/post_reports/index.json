@@ -134,5 +134,33 @@
    "follows": 0
   },
   "at": "2026-11-02T19:53:45+00:00"
+ },
+ "tr/261102-pensiongap/reel": {
+  "metrics": {
+   "reach": 104,
+   "views": 111,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 4562,
+   "ig_reels_video_view_total_time": 469982
+  },
+  "at": "2026-11-03T01:56:30+00:00"
+ },
+ "es/261102-pensiongap/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-03T01:56:30+00:00"
  }
 }
