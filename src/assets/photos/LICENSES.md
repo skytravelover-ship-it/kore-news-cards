@@ -10,3 +10,4 @@
 | altman.jpg | TechCrunch | https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg | CC BY 2.0 | 10/31 올트먼 (TR) |
 | aiglasses.jpg | Nguyen Dang Hoang Nhu | https://unsplash.com/photos/cbEvoHbJnIE | Unsplash License | 11/01 AI 안경 커닝 (TR·ES) |
 | pension.jpg | inyoung jung | https://unsplash.com/photos/mX0ceGLoXBg | Unsplash License | 11/02 정년-연금 소득 공백 (TR·ES) |
+| seoulspend.jpg | Cait Ellis | https://unsplash.com/photos/Erld-XTqXv0 | Unsplash License | 11/03 서울 외국인 카드 지출 (TR·ES) |
