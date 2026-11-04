@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-03T23:25:18+00:00",
+ "collected_at": "2026-11-04T06:26:44+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -172,17 +172,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 6
+    "media_count": 7
    },
    "account_day": {
-    "reach": 9,
-    "views": 10,
+    "reach": 11,
+    "views": 12,
     "accounts_engaged": 1,
     "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18106910339306680",
+     "key": "es/261103-seoulspend/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-04T01:57:16+0000",
+     "permalink": "https://www.instagram.com/reel/DfTU-XCiJXM/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 2,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2301,
+      "ig_reels_video_view_total_time": 4602
+     }
+    },
     {
      "id": "18494096260106924",
      "key": "es/261103-seoulspend/carousel",
