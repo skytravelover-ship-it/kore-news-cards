@@ -11,3 +11,4 @@
 | aiglasses.jpg | Nguyen Dang Hoang Nhu | https://unsplash.com/photos/cbEvoHbJnIE | Unsplash License | 11/01 AI 안경 커닝 (TR·ES) |
 | pension.jpg | inyoung jung | https://unsplash.com/photos/mX0ceGLoXBg | Unsplash License | 11/02 정년-연금 소득 공백 (TR·ES) |
 | seoulspend.jpg | Cait Ellis | https://unsplash.com/photos/Erld-XTqXv0 | Unsplash License | 11/03 서울 외국인 카드 지출 (TR·ES) |
+| packimage.jpg | Zoshua Colah | https://unsplash.com/photos/ZDPEItfYyP4 | Unsplash License | 11/04 포장 이미지 vs 실물 (TR·ES) |
