@@ -218,5 +218,19 @@
    "ig_reels_video_view_total_time": 10758
   },
   "at": "2026-11-04T08:19:43+00:00"
+ },
+ "tr/261104-packimage/reel": {
+  "metrics": {
+   "reach": 109,
+   "views": 123,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 3835,
+   "ig_reels_video_view_total_time": 418087
+  },
+  "at": "2026-11-04T22:03:02+00:00"
  }
 }
