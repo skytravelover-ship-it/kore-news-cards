@@ -1,22 +1,43 @@
 {
- "collected_at": "2026-11-04T06:26:44+00:00",
+ "collected_at": "2026-11-04T19:48:08+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 7
+    "media_count": 8
    },
    "account_day": {
-    "reach": 207,
-    "views": 218,
-    "accounts_engaged": 1,
-    "total_interactions": 1,
+    "reach": 209,
+    "views": 228,
+    "accounts_engaged": 0,
+    "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18142236238615327",
+     "key": "tr/261104-packimage/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-04T16:27:30+0000",
+     "permalink": "https://www.instagram.com/reel/DfU4kealQSR/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 107,
+      "views": 122,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3760,
+      "ig_reels_video_view_total_time": 402331
+     }
+    },
     {
      "id": "18124256014980639",
      "key": "tr/261103-seoulspend/reel",
@@ -175,10 +196,10 @@
     "media_count": 7
    },
    "account_day": {
-    "reach": 11,
-    "views": 12,
+    "reach": 4,
+    "views": 4,
     "accounts_engaged": 1,
-    "total_interactions": 2,
+    "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
@@ -193,15 +214,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 2,
-      "views": 2,
+      "reach": 3,
+      "views": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2301,
-      "ig_reels_video_view_total_time": 4602
+      "ig_reels_avg_watch_time": 3586,
+      "ig_reels_video_view_total_time": 10758
      }
     },
     {
