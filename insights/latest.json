@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-04T19:48:08+00:00",
+ "collected_at": "2026-11-05T06:51:22+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 8
    },
    "account_day": {
-    "reach": 209,
-    "views": 228,
+    "reach": 211,
+    "views": 230,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
@@ -27,15 +27,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 107,
-      "views": 122,
+      "reach": 109,
+      "views": 123,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3760,
-      "ig_reels_video_view_total_time": 402331
+      "ig_reels_avg_watch_time": 3835,
+      "ig_reels_video_view_total_time": 418087
      }
     },
     {
@@ -193,17 +193,59 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 7
+    "media_count": 9
    },
    "account_day": {
     "reach": 4,
     "views": 4,
     "accounts_engaged": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18155365018538769",
+     "key": "es/261104-packimage/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-05T02:22:45+0000",
+     "permalink": "https://www.instagram.com/reel/DfV8sULE8o6/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "ig_reels_video_view_total_time": 0
+     }
+    },
+    {
+     "id": "18118252085105560",
+     "key": "es/261104-packimage/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-04T22:02:53+0000",
+     "permalink": "https://www.instagram.com/p/DfVe_zHgIaO/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18106910339306680",
      "key": "es/261103-seoulspend/reel",
