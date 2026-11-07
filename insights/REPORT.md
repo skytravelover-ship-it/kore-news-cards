@@ -1,5 +1,5 @@
 # 인사이트 리포트
-- 수집 시각: 2026-11-07T06:00:54+00:00 (UTC)
+- 수집 시각: 2026-11-07T13:05:56+00:00 (UTC)
 - 점수 = 도달 1,000명당 (공유×4 + 저장×3 + 팔로우×5 + 댓글×2 + 좋아요)
 
 ## 다음 행동
@@ -13,23 +13,23 @@
 ## 게시물별
 | 언어 | 제목 | 형식 | 카테고리 | 게시 후 | 도달 | 24h 도달 | 좋아요 | 댓글 | 저장 | 공유 | 팔로우 | 저장률 | 공유률 | 점수 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| es | [Copiar con gafas inteligentes](https://www.instagram.com/p/DfNgIWgmpop/) | 캐러셀 | EDUCACIÓN | 130h | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 2,000 |
-| es | [Halloween en Seúl](https://www.instagram.com/p/DfKmUytG9Kg/) | 캐러셀 | 사회 | 157h | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 2,000 |
-| es | [Fotos de paquete con IA](https://www.instagram.com/reel/DfV8sULE8o6/) | 릴스 | CONSUMO | 52h | 11 | 11 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Fotos de paquete con IA](https://www.instagram.com/p/DfVe_zHgIaO/) | 캐러셀 | CONSUMO | 56h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| es | [Récord de gasto turístico](https://www.instagram.com/reel/DfTU-XCiJXM/) | 릴스 | TURISMO | 76h | 3 | 3 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Récord de gasto turístico](https://www.instagram.com/p/DfS6UJaF4WW/) | 캐러셀 | TURISMO | 80h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| es | [El hueco de 3 años](https://www.instagram.com/reel/DfQwFOMEYnX/) | 릴스 | 경제 | 100h | 9 | 9 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [El hueco de 3 años](https://www.instagram.com/p/DfQGmxDmkVW/) | 캐러셀 | 경제 | 106h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| es | [Halloween en Seúl](https://www.instagram.com/reel/DfOO73oEyda/) | 릴스 | 사회 | 124h | 0 | 0 | 0 | 0 | 0 | 0 | – | – | – | – |
-| tr | [Paket görseli tartışması](https://www.instagram.com/reel/DfU4kealQSR/) | 릴스 | TÜKETİCİ | 62h | 109 | 109 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Seul'de turist harcaması rekor](https://www.instagram.com/reel/DfSVkXfEmL9/) | 릴스 | TURİZM | 85h | 102 | 102 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/reel/DfQGdiWk-Yq/) | 릴스 | 경제 | 106h | 104 | 104 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/p/DfPBI_jFzUo/) | 캐러셀 | 경제 | 116h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| tr | [Akıllı gözlükle kopya](https://www.instagram.com/reel/DfNgALMIE5e/) | 릴스 | EĞİTİM | 130h | 107 | 107 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Akıllı gözlükle kopya](https://www.instagram.com/p/DfNAziVl9_h/) | 캐러셀 | EĞİTİM | 135h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/reel/DfNAp0yCJZ1/) | 릴스 | 사회 | 135h | 104 | 103 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/p/DfKjQQqF5nz/) | 캐러셀 | 사회 | 158h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| es | [Copiar con gafas inteligentes](https://www.instagram.com/p/DfNgIWgmpop/) | 캐러셀 | EDUCACIÓN | 137h | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 2,000 |
+| es | [Halloween en Seúl](https://www.instagram.com/p/DfKmUytG9Kg/) | 캐러셀 | 사회 | 165h | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 2,000 |
+| es | [Fotos de paquete con IA](https://www.instagram.com/reel/DfV8sULE8o6/) | 릴스 | CONSUMO | 59h | 11 | 11 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Fotos de paquete con IA](https://www.instagram.com/p/DfVe_zHgIaO/) | 캐러셀 | CONSUMO | 63h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| es | [Récord de gasto turístico](https://www.instagram.com/reel/DfTU-XCiJXM/) | 릴스 | TURISMO | 83h | 3 | 3 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Récord de gasto turístico](https://www.instagram.com/p/DfS6UJaF4WW/) | 캐러셀 | TURISMO | 87h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| es | [El hueco de 3 años](https://www.instagram.com/reel/DfQwFOMEYnX/) | 릴스 | 경제 | 107h | 9 | 9 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [El hueco de 3 años](https://www.instagram.com/p/DfQGmxDmkVW/) | 캐러셀 | 경제 | 113h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| es | [Halloween en Seúl](https://www.instagram.com/reel/DfOO73oEyda/) | 릴스 | 사회 | 131h | 0 | 0 | 0 | 0 | 0 | 0 | – | – | – | – |
+| tr | [Paket görseli tartışması](https://www.instagram.com/reel/DfU4kealQSR/) | 릴스 | TÜKETİCİ | 69h | 109 | 109 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Seul'de turist harcaması rekor](https://www.instagram.com/reel/DfSVkXfEmL9/) | 릴스 | TURİZM | 92h | 102 | 102 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/reel/DfQGdiWk-Yq/) | 릴스 | 경제 | 113h | 104 | 104 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/p/DfPBI_jFzUo/) | 캐러셀 | 경제 | 123h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| tr | [Akıllı gözlükle kopya](https://www.instagram.com/reel/DfNgALMIE5e/) | 릴스 | EĞİTİM | 137h | 107 | 107 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Akıllı gözlükle kopya](https://www.instagram.com/p/DfNAziVl9_h/) | 캐러셀 | EĞİTİM | 142h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/reel/DfNAp0yCJZ1/) | 릴스 | 사회 | 142h | 104 | 103 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/p/DfKjQQqF5nz/) | 캐러셀 | 사회 | 165h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
 
 ## 형식별
 | 언어 | 묶음 | 개수 | 평균 도달(24h 우선) | 평균 점수 |
@@ -67,5 +67,5 @@
 | tr | 22 | 2 (표본 부족) | 106 | 0 |
 
 ## 팔로워 추이
-- tr: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0
-- es: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0
+- tr: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0
+- es: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0
