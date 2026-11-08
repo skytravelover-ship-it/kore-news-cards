@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-08T06:04:59+00:00",
+ "collected_at": "2026-11-08T13:28:06+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -34,8 +34,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3852,
-      "ig_reels_video_view_total_time": 423751
+      "ig_reels_avg_watch_time": 3890,
+      "ig_reels_video_view_total_time": 431883
      }
     },
     {
@@ -55,8 +55,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3919,
-      "ig_reels_video_view_total_time": 399788
+      "ig_reels_avg_watch_time": 3946,
+      "ig_reels_video_view_total_time": 406503
      }
     },
     {
@@ -76,8 +76,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4562,
-      "ig_reels_video_view_total_time": 469982
+      "ig_reels_avg_watch_time": 4546,
+      "ig_reels_video_view_total_time": 472813
      }
     },
     {
@@ -118,8 +118,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3425,
-      "ig_reels_video_view_total_time": 376790
+      "ig_reels_avg_watch_time": 3410,
+      "ig_reels_video_view_total_time": 378538
      }
     },
     {
@@ -160,8 +160,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4637,
-      "ig_reels_video_view_total_time": 482278
+      "ig_reels_avg_watch_time": 4628,
+      "ig_reels_video_view_total_time": 486000
      }
     },
     {
@@ -200,7 +200,7 @@
     "views": 0,
     "accounts_engaged": 0,
     "total_interactions": 0,
-    "profile_views": 1,
+    "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
@@ -221,8 +221,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 1360,
-      "ig_reels_video_view_total_time": 13600
+      "ig_reels_avg_watch_time": 1696,
+      "ig_reels_video_view_total_time": 18658
      }
     },
     {
