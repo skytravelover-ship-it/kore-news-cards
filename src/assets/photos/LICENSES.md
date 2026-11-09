@@ -14,3 +14,4 @@
 | packimage.jpg | Zoshua Colah | https://unsplash.com/photos/ZDPEItfYyP4 | Unsplash License | 11/04 포장 이미지 vs 실물 (TR·ES) |
 | fireworks.jpg | Sung Jin Cho | https://unsplash.com/photos/4yFWmNgwMv8 | Unsplash License | 11/08 부산불꽃축제 암표·자릿세 단속 (TR) |
 | kbofinal.jpg | Seungyun Oh | https://unsplash.com/photos/rNGHa4xUGnU | Unsplash License | 11/08 삼성 한국시리즈 우승 (ES) |
+| delivery.jpg | Rowan Freeman | https://unsplash.com/photos/clYlmCaQbzY | Unsplash License | 11/09 배민·쿠팡이츠 과징금 (TR·ES) |
