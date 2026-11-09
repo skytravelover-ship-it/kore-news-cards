@@ -1,22 +1,64 @@
 {
- "collected_at": "2026-11-09T06:36:22+00:00",
+ "collected_at": "2026-11-09T22:24:58+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 8
+    "media_count": 10
    },
    "account_day": {
     "reach": 0,
     "views": 0,
-    "accounts_engaged": 0,
-    "total_interactions": 0,
+    "accounts_engaged": 1,
+    "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18012762930005909",
+     "key": "tr/261109-delivery/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-09T20:54:27+0000",
+     "permalink": "https://www.instagram.com/p/DfiPI7vAAqc/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18091604285251979",
+     "key": "tr/261108-fireworks/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-09T10:19:57+0000",
+     "permalink": "https://www.instagram.com/p/DfhGhrXDtVv/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18142236238615327",
      "key": "tr/261104-packimage/reel",
@@ -193,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 11
+    "media_count": 12
    },
    "account_day": {
     "reach": 7,
     "views": 7,
     "accounts_engaged": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_views": 1,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18015039074994685",
+     "key": "es/261109-delivery/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-09T20:53:39+0000",
+     "permalink": "https://www.instagram.com/p/DfiPDG0jU9b/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18376093039244223",
      "key": "es/261108-kbofinal/reel",
