@@ -302,5 +302,57 @@
    "follows": 0
   },
   "at": "2026-11-09T20:54:45+00:00"
+ },
+ "es/261109-delivery/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-10T03:03:05+00:00"
+ },
+ "es/story_digest_261109.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-10T03:03:05+00:00"
+ },
+ "tr/261109-delivery/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-10T03:03:05+00:00"
+ },
+ "tr/story_digest_261109.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-10T03:03:05+00:00"
  }
 }
