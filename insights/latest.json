@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-09T22:24:58+00:00",
+ "collected_at": "2026-11-10T07:21:49+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 12
+    "media_count": 13
    },
    "account_day": {
-    "reach": 7,
-    "views": 7,
+    "reach": 24,
+    "views": 24,
     "accounts_engaged": 1,
     "total_interactions": 2,
     "profile_views": 1,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "17929599555441289",
+     "key": "es/261109-delivery/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-10T03:02:57+0000",
+     "permalink": "https://www.instagram.com/reel/Dfi5Qsngm7U/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 17,
+      "views": 17,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3386,
+      "ig_reels_video_view_total_time": 57578
+     }
+    },
     {
      "id": "18015039074994685",
      "key": "es/261109-delivery/carousel",
