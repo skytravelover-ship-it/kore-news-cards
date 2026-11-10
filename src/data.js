@@ -1,12 +1,13 @@
-// 2026-11-09 한국 뉴스. 출처: 연합뉴스 (2026-11-09 송고)
-//  - TR·ES 공통: 공정위, 배민·쿠팡이츠에 과징금 합계 6,319억원(잠정) (AKR20261109070200002)
-// 사진: Unsplash 라이선스(무료·상업 사용 가능). 언론사 사진은 쓰지 않는다.
-// 인사이트 반영(11/09): '왜 중요한가' 장을 숫자 비교 + 직접 해 볼 방법 중심으로.
+// 2026-11-10 한국 뉴스. 출처: 한국소비자원 시험 결과 (2026-11-10 발표), Korea Herald·Korea Times 보도로 대조
+//  - TR·ES 공통: 소비자원, 라면 12종 맵기·나트륨 시험. 가장 매운 제품 틈새라면 650mg/kg
+//  - 연합뉴스 페이지는 오늘 자동 수집이 막혀 영문 매체 2곳으로 숫자를 대조함. 한 매체에만 나온 숫자는 쓰지 않음.
+// 사진: Wikimedia Commons CC BY 2.0 (Hyeon-Jeong Suk). 언론사 사진은 쓰지 않는다.
+// 인사이트 반영(11/10): 릴스가 캐러셀보다 도달이 높아 릴스를 그날 첫 슬롯에 게시(queue 순서 변경).
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "9 KASIM 2026",
+    date: "10 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -15,35 +16,35 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261109-delivery",
+        id: "261110-ramyeon",
         cat: "TÜKETİCİ",
-        photo: "delivery.jpg",
-        pos: "center 55%",
-        source: "Yonhap",
-        credit: "Fotoğraf: Rowan Freeman / Unsplash · temsili görsel",
-        headline: "Kore'de iki yemek uygulamasına <em>631,9 milyar won</em> rekor ceza",
-        sub: "Rekabet Kurumu, pazarın yüzde 90'ından fazlasını tutan Baemin ve Coupang Eats'in restoranlara aynı koşulları dayattığını söyledi.",
-        short: "Yemek uygulamalarına rekor ceza",
+        photo: "ramyeon.jpg",
+        pos: "center 45%",
+        source: "Kore Tüketici Ajansı",
+        credit: "Fotoğraf: Hyeon-Jeong Suk / Wikimedia (CC BY 2.0) · temsili görsel",
+        headline: "Kore'de 12 hazır erişte test edildi: en acısı <em>650 mg/kg</em>",
+        sub: "Zirvede ne Shin Ramyun ne de Buldak var. En acı çıkan ürün Paldo'nun Teumsae Ramen'i oldu.",
+        short: "En acı ramyeon hangisi?",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Kore Rekabet Kurumu 9 Kasım'da iki büyük yemek siparişi uygulamasına ceza verdi: Baemin'e <b>331,1 milyar won</b>, Coupang Eats'e <b>300,8 milyar won</b>. Tutarlar şimdilik geçici.",
-              "Kuruma göre iki şirket, restoranlardan menü fiyatı ve minimum sipariş gibi koşulları diğer uygulamadakinden kötü tutmamasını istedi. İkisinin toplam pazar payı <b>%90</b>'ın üzerinde.",
-              "Baemin ayrıca restoranın kendi kuryesini uygulamada daha yavaş gösterdi. Gerçekte <b>1,4 dakika</b> daha hızlıydı, ama ekranda <b>13 dakika</b> daha yavaş görünüyordu.",
+              "Kore Tüketici Ajansı 10 Kasım'da <b>12</b> popüler hazır eriştenin test sonucunu açıkladı. <b>7</b>'si çorbalı, <b>5</b>'i suyu süzülüp sosla karıştırılan ürün.",
+              "Acılık, biberi acı yapan madde olan kapsaisinoid miktarıyla ölçüldü. En yüksek değer <b>650 mg/kg</b> ile Paldo'nun Teumsae Ramen'inde çıktı.",
+              "<b>4</b> ürün en üst seviye olan \"çok acı\" notunu aldı: Teumsae, Shin Ramyun The Red, Samyang Ramen Spicy ve Buldak Bokkeum Myeon.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Uygulamalar komisyonla değil, koşullarla yarıştı. Baemin, Ağustos 2024'te komisyonunu <b>%6,8</b>'den Coupang ile aynı seviyeye, <b>%9,8</b>'e çıkardı. Kurum, bunun menü fiyatlarını da artırdığını söyledi.",
-              "Coupang, koşullara uymayan restoranı üyelerine indirim yapılan listeden çıkardı. Listedeki restoran oranı <b>%13</b>'ten <b>%94</b>'e çıktı. Çoğu restoranın başka seçeneği yoktu.",
-              "Kore'de sipariş veriyorsan: Aynı menünün fiyatını uygulamada ve restoranı telefonla arayarak karşılaştır. Gel-al seçersen <b>teslimat ücreti</b> ödemezsin.",
+              "Asıl risk tuz olabilir. Çorbalı ürünlerde bir pakette <b>1.611–2.080 mg</b> sodyum var. Bu, günlük referans değer olan 2.000 mg'ın <b>%81–104</b>'ü.",
+              "Acı ve tuz aynı şey değil. En acı ürün Teumsae, ama en tuzlu ürün Shin Ramyun The Red: tek pakette <b>2.080 mg</b>, yani günlük değerin üstünde.",
+              "Denemek istersen: Suyun hepsini içme, baharat paketinin <b>yarısıyla</b> başla. Acıya alışık değilsen aç karnına yeme. Paketin arkasındaki sodyum satırına bak.",
             ],
           },
         ],
-        word: { ko: "수수료", rom: "susuryo", mean: "komisyon", exKo: "배달앱 수수료가 올랐다.", exTr: "Yemek uygulamasının komisyonu arttı." },
-        question: "Sen yemek siparişini uygulamadan mı veriyorsun, restoranı doğrudan mı arıyorsun? Fiyat farkı var mı?",
+        word: { ko: "맵다", rom: "maepda", mean: "acı (olmak)", exKo: "이 라면은 너무 매워요.", exTr: "Bu ramyeon çok acı." },
+        question: "Sen hangi Kore eriştesini denedin? Acılığına 10 üzerinden kaç verirsin?",
       },
     ],
   },
@@ -51,7 +52,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "9 NOV 2026",
+    date: "10 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -60,35 +61,35 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261109-delivery",
+        id: "261110-ramyeon",
         cat: "CONSUMO",
-        photo: "delivery.jpg",
-        pos: "center 55%",
-        source: "Yonhap",
-        credit: "Foto: Rowan Freeman / Unsplash · imagen ilustrativa",
-        headline: "Multa récord en Corea a sus 2 grandes apps de comida: <em>631.900 millones de wones</em>",
-        sub: "La autoridad de competencia dice que Baemin y Coupang Eats, con más del 90% del mercado, impusieron condiciones a los restaurantes.",
-        short: "Multa récord a apps de comida",
+        photo: "ramyeon.jpg",
+        pos: "center 45%",
+        source: "Agencia de Consumo de Corea",
+        credit: "Foto: Hyeon-Jeong Suk / Wikimedia (CC BY 2.0) · imagen ilustrativa",
+        headline: "Corea midió el picante de 12 fideos instantáneos: el más fuerte, <em>650 mg/kg</em>",
+        sub: "No ganó Shin Ramyun ni Buldak. El más picante fue el Teumsae Ramen de Paldo.",
+        short: "¿Cuál es el ramyeon más picante?",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "El 9 de noviembre, la autoridad de competencia de Corea multó a Baemin con <b>331.100 millones de wones</b> y a Coupang Eats con <b>300.800 millones</b>. Las cifras son provisionales.",
-              "Según la autoridad, las dos apps exigieron a los restaurantes no dar peores condiciones que en la otra app, como precio del menú o pedido mínimo. Juntas tienen más del <b>90%</b> del mercado.",
-              "Baemin además mostraba más lento el reparto propio del restaurante. En realidad era <b>1,4 minutos</b> más rápido, pero en la app aparecía <b>13 minutos</b> más lento.",
+              "El 10 de noviembre, la Agencia de Consumo de Corea publicó una prueba de <b>12</b> fideos instantáneos populares: <b>7</b> con caldo y <b>5</b> salteados, sin caldo.",
+              "El picante se midió por la cantidad de capsaicinoides, la sustancia que hace picar al chile. El valor más alto fue <b>650 mg/kg</b>, en el Teumsae Ramen de Paldo.",
+              "<b>4</b> productos recibieron la nota máxima, \"muy picante\": Teumsae, Shin Ramyun The Red, Samyang Ramen Spicy y Buldak Bokkeum Myeon.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "Las apps no compitieron con comisiones, sino con condiciones. En agosto de 2024, Baemin subió su comisión de <b>6,8%</b> a <b>9,8%</b>, igual que Coupang. La autoridad dice que eso también subió los precios del menú.",
-              "Coupang sacaba de su lista de descuentos para socios al restaurante que no cumplía. Los restaurantes en esa lista pasaron de <b>13%</b> a <b>94%</b>. La mayoría no tenía otra opción.",
-              "Si pides comida en Corea: compara el precio del mismo menú en la app y llamando al restaurante. Si eliges recoger en el local, no pagas el <b>costo de envío</b>.",
+              "El mayor riesgo puede ser la sal. Los fideos con caldo tienen entre <b>1.611 y 2.080 mg</b> de sodio por paquete: del <b>81%</b> al <b>104%</b> del valor diario de referencia, 2.000 mg.",
+              "Picante y salado no son lo mismo. El más picante es Teumsae, pero el más salado es Shin Ramyun The Red: <b>2.080 mg</b> en un solo paquete, más que el valor diario.",
+              "Si lo vas a probar: no te tomes todo el caldo y empieza con la <b>mitad</b> del sobre de condimento. Si no estás acostumbrado al picante, no lo comas en ayunas. Revisa el sodio en la etiqueta.",
             ],
           },
         ],
-        word: { ko: "수수료", rom: "susuryo", mean: "comisión", exKo: "배달앱 수수료가 올랐다.", exTr: "La comisión de la app de comida subió." },
-        question: "¿Pides comida por app o llamas directo al restaurante? ¿Notas diferencia de precio?",
+        word: { ko: "맵다", rom: "maepda", mean: "picar, ser picante", exKo: "이 라면은 너무 매워요.", exTr: "Este ramyeon pica mucho." },
+        question: "¿Qué fideo coreano has probado? Del 1 al 10, ¿qué tan picante te pareció?",
       },
     ],
   },
