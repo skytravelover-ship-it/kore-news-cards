@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-10T19:45:48+00:00",
+ "collected_at": "2026-11-11T06:27:12+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -233,19 +233,61 @@
   "es": {
    "account": {
     "username": "hoy.encorea",
-    "followers_count": 1,
+    "followers_count": 2,
     "follows_count": 0,
-    "media_count": 13
+    "media_count": 15
    },
    "account_day": {
-    "reach": 32,
-    "views": 53,
+    "reach": 36,
+    "views": 72,
     "accounts_engaged": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_views": 2,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18011713712778569",
+     "key": "es/261110-ramyeon/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-11T03:02:37+0000",
+     "permalink": "https://www.instagram.com/p/DfleDaFFOop/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 1,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "17940208872127483",
+     "key": "es/261110-ramyeon/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-10T23:43:53+0000",
+     "permalink": "https://www.instagram.com/reel/DflHR7RE877/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 2,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 1861,
+      "ig_reels_video_view_total_time": 3723
+     }
+    },
     {
      "id": "17929599555441289",
      "key": "es/261109-delivery/reel",
@@ -256,15 +298,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 32,
-      "views": 32,
+      "reach": 35,
+      "views": 35,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3282,
-      "ig_reels_video_view_total_time": 105024
+      "ig_reels_avg_watch_time": 3138,
+      "ig_reels_video_view_total_time": 109844
      }
     },
     {
@@ -277,8 +319,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 2,
+      "reach": 2,
+      "views": 5,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -319,8 +361,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 4,
+      "reach": 2,
+      "views": 5,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -340,7 +382,7 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 12,
+      "reach": 13,
       "views": 11,
       "saved": 0,
       "shares": 0,
@@ -361,8 +403,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 2,
+      "reach": 2,
+      "views": 5,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -403,8 +445,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 2,
+      "reach": 2,
+      "views": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -424,15 +466,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 10,
-      "views": 11,
+      "reach": 11,
+      "views": 12,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 5595,
-      "ig_reels_video_view_total_time": 61554
+      "ig_reels_avg_watch_time": 5396,
+      "ig_reels_video_view_total_time": 64754
      }
     },
     {
@@ -445,8 +487,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 1,
+      "reach": 2,
+      "views": 2,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -487,8 +529,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 2,
-      "views": 4,
+      "reach": 3,
+      "views": 5,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -508,8 +550,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 2,
-      "views": 5,
+      "reach": 3,
+      "views": 6,
       "saved": 0,
       "shares": 0,
       "likes": 0,
