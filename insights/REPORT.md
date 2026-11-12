@@ -1,5 +1,5 @@
 # 인사이트 리포트
-- 수집 시각: 2026-11-12T07:14:47+00:00 (UTC)
+- 수집 시각: 2026-11-12T19:57:31+00:00 (UTC)
 - 점수 = 도달 1,000명당 (공유×4 + 저장×3 + 팔로우×5 + 댓글×2 + 좋아요)
 
 ## 다음 행동
@@ -14,31 +14,31 @@
 ## 게시물별
 | 언어 | 제목 | 형식 | 카테고리 | 게시 후 | 도달 | 24h 도달 | 좋아요 | 댓글 | 저장 | 공유 | 팔로우 | 저장률 | 공유률 | 점수 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| es | [¿Cuál es el ramyeon más picante?](https://www.instagram.com/p/DfleDaFFOop/) | 캐러셀 | CONSUMO | 28h | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
-| es | [Multa récord a apps de comida](https://www.instagram.com/p/DfiPDG0jU9b/) | 캐러셀 | CONSUMO | 58h | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
-| es | [Samsung, campeón](https://www.instagram.com/p/DffhvqemE4L/) | 캐러셀 | 스포츠 | 84h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
-| es | [Fotos de paquete con IA](https://www.instagram.com/p/DfVe_zHgIaO/) | 캐러셀 | CONSUMO | 177h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
-| es | [Récord de gasto turístico](https://www.instagram.com/p/DfS6UJaF4WW/) | 캐러셀 | TURISMO | 201h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
-| es | [El hueco de 3 años](https://www.instagram.com/p/DfQGmxDmkVW/) | 캐러셀 | 경제 | 227h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
-| es | [Copiar con gafas inteligentes](https://www.instagram.com/p/DfNgIWgmpop/) | 캐러셀 | EDUCACIÓN | 252h | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 667 |
-| es | [Halloween en Seúl](https://www.instagram.com/p/DfKmUytG9Kg/) | 캐러셀 | 사회 | 279h | 3 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 667 |
-| es | [¿Cuál es el ramyeon más picante?](https://www.instagram.com/reel/DflHR7RE877/) | 릴스 | CONSUMO | 32h | 5 | 5 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Multa récord a apps de comida](https://www.instagram.com/reel/Dfi5Qsngm7U/) | 릴스 | CONSUMO | 52h | 35 | 35 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Samsung, campeón](https://www.instagram.com/reel/DfgRwBoFTZj/) | 릴스 | 스포츠 | 77h | 8 | 7 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Fotos de paquete con IA](https://www.instagram.com/reel/DfV8sULE8o6/) | 릴스 | CONSUMO | 173h | 13 | 11 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Récord de gasto turístico](https://www.instagram.com/reel/DfTU-XCiJXM/) | 릴스 | TURISMO | 197h | 4 | 3 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [El hueco de 3 años](https://www.instagram.com/reel/DfQwFOMEYnX/) | 릴스 | 경제 | 221h | 11 | 9 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| es | [Halloween en Seúl](https://www.instagram.com/reel/DfOO73oEyda/) | 릴스 | 사회 | 245h | 1 | 0 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Yemek uygulamalarına rekor ceza](https://www.instagram.com/p/DfiPI7vAAqc/) | 캐러셀 | TÜKETİCİ | 58h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| tr | [Kumsalda yer parası](https://www.instagram.com/p/DfhGhrXDtVv/) | 캐러셀 | 사회 | 69h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| tr | [Paket görseli tartışması](https://www.instagram.com/reel/DfU4kealQSR/) | 릴스 | TÜKETİCİ | 183h | 109 | 109 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Seul'de turist harcaması rekor](https://www.instagram.com/reel/DfSVkXfEmL9/) | 릴스 | TURİZM | 207h | 102 | 102 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/reel/DfQGdiWk-Yq/) | 릴스 | 경제 | 227h | 104 | 104 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/p/DfPBI_jFzUo/) | 캐러셀 | 경제 | 237h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| tr | [Akıllı gözlükle kopya](https://www.instagram.com/reel/DfNgALMIE5e/) | 릴스 | EĞİTİM | 252h | 107 | 107 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Akıllı gözlükle kopya](https://www.instagram.com/p/DfNAziVl9_h/) | 캐러셀 | EĞİTİM | 256h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
-| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/reel/DfNAp0yCJZ1/) | 릴스 | 사회 | 256h | 104 | 103 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
-| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/p/DfKjQQqF5nz/) | 캐러셀 | 사회 | 279h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| es | [¿Cuál es el ramyeon más picante?](https://www.instagram.com/p/DfleDaFFOop/) | 캐러셀 | CONSUMO | 41h | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
+| es | [Multa récord a apps de comida](https://www.instagram.com/p/DfiPDG0jU9b/) | 캐러셀 | CONSUMO | 71h | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
+| es | [Samsung, campeón](https://www.instagram.com/p/DffhvqemE4L/) | 캐러셀 | 스포츠 | 96h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
+| es | [Fotos de paquete con IA](https://www.instagram.com/p/DfVe_zHgIaO/) | 캐러셀 | CONSUMO | 190h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
+| es | [Récord de gasto turístico](https://www.instagram.com/p/DfS6UJaF4WW/) | 캐러셀 | TURISMO | 214h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
+| es | [El hueco de 3 años](https://www.instagram.com/p/DfQGmxDmkVW/) | 캐러셀 | 경제 | 240h | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 1,000 |
+| es | [Copiar con gafas inteligentes](https://www.instagram.com/p/DfNgIWgmpop/) | 캐러셀 | EDUCACIÓN | 264h | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 667 |
+| es | [Halloween en Seúl](https://www.instagram.com/p/DfKmUytG9Kg/) | 캐러셀 | 사회 | 291h | 3 | 0 | 0 | 1 | 0 | 0 | 0 | 0.0% | 0.0% | 667 |
+| es | [¿Cuál es el ramyeon más picante?](https://www.instagram.com/reel/DflHR7RE877/) | 릴스 | CONSUMO | 44h | 5 | 5 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Multa récord a apps de comida](https://www.instagram.com/reel/Dfi5Qsngm7U/) | 릴스 | CONSUMO | 65h | 35 | 35 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Samsung, campeón](https://www.instagram.com/reel/DfgRwBoFTZj/) | 릴스 | 스포츠 | 89h | 8 | 7 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Fotos de paquete con IA](https://www.instagram.com/reel/DfV8sULE8o6/) | 릴스 | CONSUMO | 186h | 13 | 11 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Récord de gasto turístico](https://www.instagram.com/reel/DfTU-XCiJXM/) | 릴스 | TURISMO | 210h | 4 | 3 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [El hueco de 3 años](https://www.instagram.com/reel/DfQwFOMEYnX/) | 릴스 | 경제 | 234h | 11 | 9 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| es | [Halloween en Seúl](https://www.instagram.com/reel/DfOO73oEyda/) | 릴스 | 사회 | 257h | 1 | 0 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Yemek uygulamalarına rekor ceza](https://www.instagram.com/p/DfiPI7vAAqc/) | 캐러셀 | TÜKETİCİ | 71h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| tr | [Kumsalda yer parası](https://www.instagram.com/p/DfhGhrXDtVv/) | 캐러셀 | 사회 | 82h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| tr | [Paket görseli tartışması](https://www.instagram.com/reel/DfU4kealQSR/) | 릴스 | TÜKETİCİ | 196h | 109 | 109 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Seul'de turist harcaması rekor](https://www.instagram.com/reel/DfSVkXfEmL9/) | 릴스 | TURİZM | 219h | 102 | 102 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/reel/DfQGdiWk-Yq/) | 릴스 | 경제 | 240h | 104 | 104 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [3 yıllık gelir boşluğu](https://www.instagram.com/p/DfPBI_jFzUo/) | 캐러셀 | 경제 | 250h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| tr | [Akıllı gözlükle kopya](https://www.instagram.com/reel/DfNgALMIE5e/) | 릴스 | EĞİTİM | 264h | 107 | 107 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Akıllı gözlükle kopya](https://www.instagram.com/p/DfNAziVl9_h/) | 캐러셀 | EĞİTİM | 269h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
+| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/reel/DfNAp0yCJZ1/) | 릴스 | 사회 | 269h | 104 | 103 | 0 | 0 | 0 | 0 | – | 0.0% | 0.0% | 0 |
+| tr | [Seul'de Cadılar Bayramı kalabalığı](https://www.instagram.com/p/DfKjQQqF5nz/) | 캐러셀 | 사회 | 292h | 0 | 0 | 0 | 1 | 0 | 0 | 0 | – | – | – |
 
 ## 형식별
 | 언어 | 묶음 | 개수 | 평균 도달(24h 우선) | 평균 점수 |
@@ -82,5 +82,5 @@
 | tr | 23 | 1 (표본 부족) | 0 | – |
 
 ## 팔로워 추이
-- tr: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0
-- es: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 1 → 2 → 2 → 2
+- tr: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0
+- es: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 1 → 2 → 2 → 2 → 2
