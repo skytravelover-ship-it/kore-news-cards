@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-12T19:57:31+00:00",
+ "collected_at": "2026-11-13T06:49:17+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,59 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 15
+    "media_count": 17
    },
    "account_day": {
-    "reach": 3,
-    "views": 3,
-    "accounts_engaged": 0,
-    "total_interactions": 0,
+    "reach": 4,
+    "views": 6,
+    "accounts_engaged": 1,
+    "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18162581017508086",
+     "key": "es/261112-medicine/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-13T02:44:43+0000",
+     "permalink": "https://www.instagram.com/p/DfqlmVrjTco/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 1,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18142186396745196",
+     "key": "es/261112-medicine/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-12T22:22:05+0000",
+     "permalink": "https://www.instagram.com/reel/DfqHgQ5AR-Q/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "ig_reels_video_view_total_time": 0
+     }
+    },
     {
      "id": "18011713712778569",
      "key": "es/261110-ramyeon/carousel",
