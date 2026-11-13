@@ -1,13 +1,13 @@
-// 2026-11-12 한국 뉴스. 출처: 연합뉴스 2026-11-11·12 보도 3건(식약처·관세청 발표, 일본 원정 처방 기사)
-//  - TR·ES 공통: 12일부터 해외에서 정상 구매·처방한 자가 치료용 의약품 최대 3개월치 휴대 반입 허용 (위고비·마운자로 포함). '스시자로' 유행.
-//  - 가격은 기사에 나온 병원 공시가(도쿄 7천엔)와 국내 플랫폼 가격(4주 30만원대 초반)만 씀. 누리꾼 계산은 쓰지 않음.
-// 사진: Wikimedia Commons CC BY 4.0 (인천공항 T1 입국장). 언론사 사진은 쓰지 않는다.
-// 인사이트 반영(11/12): 저장률 0% → '왜 중요한가' 장 마지막 항목을 "한국 갈 때 체크리스트"처럼 바로 쓸 수 있는 정보로.
+// 2026-11-13 한국 뉴스. 출처: 연합뉴스 2026-11-12 '남대문 스카프 아저씨' 온라인몰 품절 기사 + 11-13 [시간들] 칼럼(배경)
+//  - TR·ES 공통: 남대문시장 잡화점 40대 상인, 스카프 6장 1만원, "적당히 사, 집에 가면 안 써" 입담, 별명 '스카프리오'.
+//  - 네이버 스마트스토어 개설 → 접속 폭주로 한때 장애, 전량 품절, 문의 게시판 응원글 790여개, 상세페이지 '과소비 절대 금지'.
+// 사진: Unsplash (Danial Dezfouli) 스카프 진열 사진, 현장 사진 아님 → temsili görsel / imagen ilustrativa. 언론사 사진은 쓰지 않는다.
+// 인사이트 반영(11/13): ES 릴스 도달이 캐러셀의 4.9배(각 7·8개) → ES는 릴스를 첫 슬롯(20:00)에, 캐러셀은 02:00. 저장률 대응(마지막 항목 실용 정보)은 유지.
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "12 KASIM 2026",
+    date: "13 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -16,35 +16,35 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261112-medicine",
-        cat: "SAĞLIK",
-        photo: "airport.jpg",
-        pos: "center 55%",
-        source: "Kore Gıda ve İlaç Güvenliği Bakanlığı",
-        credit: "Fotoğraf: ノボホショコロトソ / Wikimedia (CC BY 4.0) · temsili görsel",
-        headline: "Kore'ye artık <em>3 aylık</em> ilaç getirilebilir: zayıflama iğneleri de dahil",
-        sub: "Japonya'da daha ucuz olduğu için Kore'de yeni bir söz yayıldı: suşi ve Mounjaro'dan \"Sushijaro\".",
-        short: "Kore'de \"Sushijaro\" akımı",
+        id: "261113-scarf",
+        cat: "TÜKETİCİ",
+        photo: "scarf.jpg",
+        pos: "center 40%",
+        source: "Yonhap Haber Ajansı",
+        credit: "Fotoğraf: Danial Dezfouli / Unsplash · temsili görsel",
+        headline: "Müşterisine \"alma\" diyen eşarpçı, internette de <em>tükendi</em>",
+        sub: "Seul'deki Namdaemun Pazarı'nda bir satıcı 6 eşarbı 10 bin wona satıyor ve müşterilerine az almalarını söylüyor.",
+        short: "\"Alma\" diyen eşarpçı",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "<b>12 Kasım</b>'dan itibaren yurt dışında yasal yoldan alınan kişisel ilaçlar bagajla Kore'ye getirilebiliyor. Üst sınır <b>3 aylık</b> doz.",
-              "Temel sınır <b>6</b> kutu. Ama 3 aylık dozu aşmıyorsa daha fazlası da olur. Haftada bir yapılan Mounjaro için bu, <b>12–13</b> kalem iğne demek.",
-              "Wegovy ve Mounjaro gibi zayıflama ilaçları da artık gümrükte takılmıyor. Kural, Kore'ye gelen yabancılar ve öğrenciler için de geçerli.",
+              "Seul'deki Namdaemun Pazarı'nda küçük bir dükkân işleten <b>40'lı yaşlardaki</b> bir satıcı sosyal medyada ünlü oldu. <b>6</b> eşarbı <b>10 bin</b> wona satıyor.",
+              "Onu ünlü yapan satış tarzı. Müşterilere \"Fazla alma, eve gidince kullanmazsın\" diyor. İnternette ona \"Scarfrio\" lakabı takıldı.",
+              "Dükkânın önü çok kalabalık olunca Naver'de online mağaza açtı. Eşarpları kendisi rastgele seçip 6'lı set yapıyor. Site bir süre çöktü, ürünler <b>tükendi</b>.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Fiyat farkı büyük. Tokyo'daki bir klinik en düşük dozun aylık fiyatını <b>7.000 yen</b> (yaklaşık 58 bin won) olarak duyurdu. Kore'de bir online platformda 4 haftalık doz <b>300 bin won</b>'un biraz üstünde.",
-              "Uzmanlar endişeli. Fiyat düşünce gereksiz kullanım artabilir. İğneler soğukta saklanmalı, yolda bozulabilir. Yabancı bir doktorla konuşmak da zor olabilir.",
-              "Kore'ye ilaçla gidiyorsan: En fazla <b>3 aylık</b> doz getir. Psikotrop ve uyuşturucu sınıfı ilaçlar hâlâ yasak. Japon ağrı kesicisi EVE'in çoğu çeşidi de yasak. İnternetten ilaç sipariş etmek serbest değil.",
+              "Satıcı \"alma\" diyor ama insanlar daha çok alıyor. Dürüstlük ve mizah, reklamdan daha güçlü çıktı. Online mağazada bile \"Aşırı tüketim kesinlikle yasak\" yazıyor.",
+              "Kore'de son yıllarda \"harcamasız gün\" gibi tasarruf akımları popüler. Az almayı öneren bir satıcı bu havaya uyuyor. Mağazaya <b>790</b>'dan fazla destek mesajı yazıldı.",
+              "Seul'e gidersen: Namdaemun Pazarı, metro <b>4.</b> hattaki Hoehyeon istasyonunun ve Sungnyemun kapısının hemen yanında. Birçok dükkân pazar günü kapalı.",
             ],
           },
         ],
-        word: { ko: "처방", rom: "cheobang", mean: "reçete", exKo: "일본에서 처방을 받았어요.", exTr: "Japonya'da reçete aldım." },
-        question: "Sen daha ucuz bir ilaç için başka bir ülkeye gider miydin?",
+        word: { ko: "아저씨", rom: "ajeossi", mean: "amca, orta yaşlı adam", exKo: "스카프 아저씨가 유명해졌어요.", exTr: "Eşarpçı amca ünlü oldu." },
+        question: "Sana \"alma\" diyen bir satıcıdan daha çok alır mıydın?",
       },
     ],
   },
@@ -52,7 +52,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "12 NOV 2026",
+    date: "13 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -61,35 +61,35 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261112-medicine",
-        cat: "SALUD",
-        photo: "airport.jpg",
-        pos: "center 55%",
-        source: "Ministerio de Seguridad de Alimentos y Medicamentos de Corea",
-        credit: "Foto: ノボホショコロトソ / Wikimedia (CC BY 4.0) · imagen ilustrativa",
-        headline: "Corea ya deja entrar con medicamentos para <em>3 meses</em>, incluso inyecciones para adelgazar",
-        sub: "En Japón cuestan menos, y en Corea ya circula una palabra nueva: \"Sushijaro\", de sushi y Mounjaro.",
-        short: "La moda del \"Sushijaro\"",
+        id: "261113-scarf",
+        cat: "CONSUMO",
+        photo: "scarf.jpg",
+        pos: "center 40%",
+        source: "Agencia Yonhap",
+        credit: "Foto: Danial Dezfouli / Unsplash · imagen ilustrativa",
+        headline: "Les dice \"no compres\" a sus clientes y ahora <em>se agotó</em> en internet",
+        sub: "Un vendedor del mercado de Namdaemun, en Seúl, vende 6 pañuelos por 10.000 wones y pide no comprar de más.",
+        short: "El vendedor del \"no compres\"",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "Desde el <b>12 de noviembre</b>, Corea permite traer en el equipaje medicamentos de uso personal comprados de forma legal en el extranjero. El límite es la dosis de <b>3 meses</b>.",
-              "La base son <b>6</b> envases, pero se puede traer más si no supera los 3 meses de tratamiento. Para Mounjaro, que se inyecta una vez por semana, son <b>12 o 13</b> plumas.",
-              "Los medicamentos para bajar de peso como Wegovy y Mounjaro ya no se quedan en la aduana. La regla también vale para extranjeros y estudiantes que llegan a Corea.",
+              "Un vendedor de <b>40 y tantos</b> años, con un pequeño local en el mercado de Namdaemun, en Seúl, se hizo famoso en redes. Vende <b>6</b> pañuelos por <b>10.000</b> wones.",
+              "Lo que lo hizo famoso es su estilo. Les dice a los clientes: \"No compres tanto, en casa no los vas a usar\". En internet lo apodan \"Scarfrio\".",
+              "Como el local se llenó de gente, abrió una tienda en línea en Naver. Él mismo elige 6 pañuelos al azar para cada paquete. La página se cayó un rato y todo se <b>agotó</b>.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "La diferencia de precio es grande. Una clínica de Tokio anunció la dosis más baja a <b>7.000 yenes</b> al mes (unos 58.000 wones). En Corea, en una plataforma en línea, 4 semanas cuestan algo más de <b>300.000 wones</b>.",
-              "Los expertos están preocupados. Si baja el precio, puede crecer el mal uso. Las plumas necesitan frío y pueden dañarse en el viaje. Y hablar con un médico en otro idioma no es fácil.",
-              "Si vas a Corea con medicamentos: lleva como máximo la dosis de <b>3 meses</b>. Los psicotrópicos y estupefacientes siguen prohibidos, igual que la mayoría de las versiones del analgésico japonés EVE. Comprar medicamentos por internet tampoco está permitido.",
+              "Dice \"no compres\", pero la gente compra más. La honestidad y el humor funcionaron mejor que la publicidad. Hasta su tienda en línea dice: \"Prohibido comprar de más\".",
+              "En Corea se pusieron de moda en los últimos años retos de ahorro como los \"días sin gastar\". Un vendedor que pide comprar menos encaja con ese ánimo. Recibió más de <b>790</b> mensajes de apoyo.",
+              "Si vas a Seúl: el mercado de Namdaemun está junto a la estación Hoehyeon de la línea <b>4</b> del metro y al lado de la puerta Sungnyemun. Muchos locales cierran los domingos.",
             ],
           },
         ],
-        word: { ko: "처방", rom: "cheobang", mean: "receta médica", exKo: "일본에서 처방을 받았어요.", exTr: "Me dieron una receta en Japón." },
-        question: "¿Viajarías a otro país para comprar un medicamento más barato?",
+        word: { ko: "아저씨", rom: "ajeossi", mean: "señor (hombre de mediana edad)", exKo: "스카프 아저씨가 유명해졌어요.", exTr: "El señor de los pañuelos se hizo famoso." },
+        question: "¿Le comprarías más a un vendedor que te dice \"no compres\"?",
       },
     ],
   },
