@@ -408,5 +408,31 @@
    "follows": 0
   },
   "at": "2026-11-11T10:48:38+00:00"
+ },
+ "es/261112-medicine/reel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 0,
+   "ig_reels_video_view_total_time": 0
+  },
+  "at": "2026-11-13T02:44:57+00:00"
+ },
+ "es/story_digest_261112.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-13T02:44:57+00:00"
  }
 }
