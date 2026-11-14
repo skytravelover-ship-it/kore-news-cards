@@ -1,13 +1,14 @@
-// 2026-11-13 한국 뉴스. 출처: 연합뉴스 2026-11-12 '남대문 스카프 아저씨' 온라인몰 품절 기사 + 11-13 [시간들] 칼럼(배경)
-//  - TR·ES 공통: 남대문시장 잡화점 40대 상인, 스카프 6장 1만원, "적당히 사, 집에 가면 안 써" 입담, 별명 '스카프리오'.
-//  - 네이버 스마트스토어 개설 → 접속 폭주로 한때 장애, 전량 품절, 문의 게시판 응원글 790여개, 상세페이지 '과소비 절대 금지'.
-// 사진: Unsplash (Danial Dezfouli) 스카프 진열 사진, 현장 사진 아님 → temsili görsel / imagen ilustrativa. 언론사 사진은 쓰지 않는다.
-// 인사이트 반영(11/13): ES 릴스 도달이 캐러셀의 4.9배(각 7·8개) → ES는 릴스를 첫 슬롯(20:00)에, 캐러셀은 02:00. 저장률 대응(마지막 항목 실용 정보)은 유지.
+// 2026-11-14 한국 뉴스. 출처: 연합뉴스 2026-11-13 국토부 "구글, 고정밀지도 보안조건 이행" + 같은 날 해설 '구글 지도 한국서 달라진다' (영문 AEN20261113004251320)
+//  - TR·ES 공통: 11/13 국토부 협의체, 구글 1:5,000 지도 국외반출 보안조건 이행 확인. 2025-02 신청, 2026-02-27 조건부 허가, 11/4 최종 보고서.
+//  - 조건: 좌표 표시 제한, 보안시설 가림 영상으로 교체, 국내 서버 가공. 협력사 티맵. 서비스 강화는 '이르면 내년 초' 전망(확정 아님).
+//  - 10월 MAU(모바일인덱스): 네이버지도 3,121만 / 티맵 1,511만 / 카카오맵 1,383만 / 구글 1,051만.
+// 사진: Unsplash (Mika Baumeister) 휴대폰 지도 사진, 현장 사진 아님 → temsili görsel / imagen ilustrativa.
+// 인사이트 반영(11/14): TR 릴스 24h 도달 평균 105 vs 캐러셀 0 (각 5개) → TR도 릴스를 첫 슬롯(12:00), 캐러셀은 17:00. ES는 어제처럼 릴스 20:00 / 캐러셀 02:00.
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "13 KASIM 2026",
+    date: "14 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -16,35 +17,35 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261113-scarf",
-        cat: "TÜKETİCİ",
-        photo: "scarf.jpg",
-        pos: "center 40%",
+        id: "261114-googlemap",
+        cat: "TEKNOLOJİ",
+        photo: "googlemap.jpg",
+        pos: "center 45%",
         source: "Yonhap Haber Ajansı",
-        credit: "Fotoğraf: Danial Dezfouli / Unsplash · temsili görsel",
-        headline: "Müşterisine \"alma\" diyen eşarpçı, internette de <em>tükendi</em>",
-        sub: "Seul'deki Namdaemun Pazarı'nda bir satıcı 6 eşarbı 10 bin wona satıyor ve müşterilerine az almalarını söylüyor.",
-        short: "\"Alma\" diyen eşarpçı",
+        credit: "Fotoğraf: Mika Baumeister / Unsplash · temsili görsel",
+        headline: "Google Haritalar'a Kore'de <em>yeşil ışık</em>: hassas harita kapısı açıldı",
+        sub: "Kore hükümeti, Google'ın güvenlik şartlarını yerine getirdiğini açıkladı. Yeni hizmetler en erken gelecek yılın başında bekleniyor.",
+        short: "Google Haritalar Kore'de",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Seul'deki Namdaemun Pazarı'nda küçük bir dükkân işleten <b>40'lı yaşlardaki</b> bir satıcı sosyal medyada ünlü oldu. <b>6</b> eşarbı <b>10 bin</b> wona satıyor.",
-              "Onu ünlü yapan satış tarzı. Müşterilere \"Fazla alma, eve gidince kullanmazsın\" diyor. İnternette ona \"Scarfrio\" lakabı takıldı.",
-              "Dükkânın önü çok kalabalık olunca Naver'de online mağaza açtı. Eşarpları kendisi rastgele seçip 6'lı set yapıyor. Site bir süre çöktü, ürünler <b>tükendi</b>.",
+              "Kore Ulaştırma Bakanlığı <b>13 Kasım</b>'da açıkladı: Google, <b>1:5.000</b> ölçekli hassas Kore haritasını yurt dışında kullanma şartlarını yerine getirdi.",
+              "Şartlar: koordinatlar gösterilmeyecek, askeri ve güvenlik tesisleri uydu görüntülerinde gizlenecek, veri Kore'deki sunucularda işlenecek.",
+              "Google <b>2025</b> Şubat'ında başvurmuştu. Hükümet <b>27 Şubat 2026</b>'da şartlı izin verdi. Google'ın Kore'deki ortağı yerel navigasyon şirketi TMAP.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Satıcı \"alma\" diyor ama insanlar daha çok alıyor. Dürüstlük ve mizah, reklamdan daha güçlü çıktı. Online mağazada bile \"Aşırı tüketim kesinlikle yasak\" yazıyor.",
-              "Kore'de son yıllarda \"harcamasız gün\" gibi tasarruf akımları popüler. Az almayı öneren bir satıcı bu havaya uyuyor. Mağazaya <b>790</b>'dan fazla destek mesajı yazıldı.",
-              "Seul'e gidersen: Namdaemun Pazarı, metro <b>4.</b> hattaki Hoehyeon istasyonunun ve Sungnyemun kapısının hemen yanında. Birçok dükkân pazar günü kapalı.",
+              "Kore, güvenlik gerekçesiyle hassas harita verisinin yurt dışına çıkmasını yıllardır sınırlıyordu. Bu yüzden Google Haritalar Kore'de diğer ülkelerdeki kadar iyi çalışmıyordu.",
+              "Kore'de lider Naver Map: Ekim'de aylık <b>31,2 milyon</b> kullanıcı. Google Haritalar <b>10,5 milyon</b> ile dördüncü. Turizm sektörü, yabancı turistlerin işinin kolaylaşmasını bekliyor.",
+              "Seul'e gidersen: Şimdilik Naver Map'i indir, İngilizce menüsü var. Google Haritalar toplu taşımada işe yarıyor ama araç ve yürüyüş tarifi sınırlı.",
             ],
           },
         ],
-        word: { ko: "아저씨", rom: "ajeossi", mean: "amca, orta yaşlı adam", exKo: "스카프 아저씨가 유명해졌어요.", exTr: "Eşarpçı amca ünlü oldu." },
-        question: "Sana \"alma\" diyen bir satıcıdan daha çok alır mıydın?",
+        word: { ko: "지도", rom: "jido", mean: "harita", exKo: "지도 앱을 켜 보세요.", exTr: "Harita uygulamasını aç." },
+        question: "Kore'ye gitsen hangi harita uygulamasını kullanırdın?",
       },
     ],
   },
@@ -52,7 +53,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "13 NOV 2026",
+    date: "14 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -61,35 +62,35 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261113-scarf",
-        cat: "CONSUMO",
-        photo: "scarf.jpg",
-        pos: "center 40%",
+        id: "261114-googlemap",
+        cat: "TECNOLOGÍA",
+        photo: "googlemap.jpg",
+        pos: "center 45%",
         source: "Agencia Yonhap",
-        credit: "Foto: Danial Dezfouli / Unsplash · imagen ilustrativa",
-        headline: "Les dice \"no compres\" a sus clientes y ahora <em>se agotó</em> en internet",
-        sub: "Un vendedor del mercado de Namdaemun, en Seúl, vende 6 pañuelos por 10.000 wones y pide no comprar de más.",
-        short: "El vendedor del \"no compres\"",
+        credit: "Foto: Mika Baumeister / Unsplash · imagen ilustrativa",
+        headline: "Google Maps recibe <em>luz verde</em> en Corea para usar mapas de alta precisión",
+        sub: "El gobierno coreano confirmó que Google cumplió las condiciones de seguridad. Las mejoras llegarían a principios del próximo año.",
+        short: "Google Maps en Corea",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "Un vendedor de <b>40 y tantos</b> años, con un pequeño local en el mercado de Namdaemun, en Seúl, se hizo famoso en redes. Vende <b>6</b> pañuelos por <b>10.000</b> wones.",
-              "Lo que lo hizo famoso es su estilo. Les dice a los clientes: \"No compres tanto, en casa no los vas a usar\". En internet lo apodan \"Scarfrio\".",
-              "Como el local se llenó de gente, abrió una tienda en línea en Naver. Él mismo elige 6 pañuelos al azar para cada paquete. La página se cayó un rato y todo se <b>agotó</b>.",
+              "El Ministerio de Transporte de Corea anunció el <b>13 de noviembre</b> que Google cumplió las condiciones para usar fuera del país el mapa coreano de alta precisión, a escala <b>1:5.000</b>.",
+              "Las condiciones: no mostrar coordenadas, ocultar instalaciones militares y de seguridad en las imágenes satelitales y procesar los datos en servidores dentro de Corea.",
+              "Google lo pidió en febrero de <b>2025</b>. El gobierno dio un permiso condicional el <b>27 de febrero de 2026</b>. Su socio local es la empresa de navegación TMAP.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "Dice \"no compres\", pero la gente compra más. La honestidad y el humor funcionaron mejor que la publicidad. Hasta su tienda en línea dice: \"Prohibido comprar de más\".",
-              "En Corea se pusieron de moda en los últimos años retos de ahorro como los \"días sin gastar\". Un vendedor que pide comprar menos encaja con ese ánimo. Recibió más de <b>790</b> mensajes de apoyo.",
-              "Si vas a Seúl: el mercado de Namdaemun está junto a la estación Hoehyeon de la línea <b>4</b> del metro y al lado de la puerta Sungnyemun. Muchos locales cierran los domingos.",
+              "Por razones de seguridad, Corea limitó durante años la salida de sus datos de mapas precisos. Por eso Google Maps no funcionaba en Corea tan bien como en otros países.",
+              "En Corea manda Naver Map: <b>31,2 millones</b> de usuarios al mes en octubre. Google Maps es cuarto con <b>10,5 millones</b>. El sector turístico espera que viajar sea más fácil para los extranjeros.",
+              "Si vas a Seúl: por ahora descarga Naver Map, tiene menú en inglés. Google Maps sirve para el transporte público, pero las rutas en auto y a pie son limitadas.",
             ],
           },
         ],
-        word: { ko: "아저씨", rom: "ajeossi", mean: "señor (hombre de mediana edad)", exKo: "스카프 아저씨가 유명해졌어요.", exTr: "El señor de los pañuelos se hizo famoso." },
-        question: "¿Le comprarías más a un vendedor que te dice \"no compres\"?",
+        word: { ko: "지도", rom: "jido", mean: "mapa", exKo: "지도 앱을 켜 보세요.", exTr: "Abre la app de mapas." },
+        question: "Si viajaras a Corea, ¿qué app de mapas usarías?",
       },
     ],
   },

@@ -18,3 +18,4 @@
 | ramyeon.jpg | Hyeon-Jeong Suk (Flickr) | https://commons.wikimedia.org/wiki/File:Ramyeon_and_kimchi.jpg | CC BY 2.0 (Wikimedia Commons) | 11/10 소비자원 라면 맵기·나트륨 시험 (TR·ES) |
 | airport.jpg | ノボホショコロトソ (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg | CC BY 4.0 (Wikimedia Commons) | 11/12 해외 처방 비만약 휴대 반입 허용 (TR·ES) |
 | scarf.jpg | Danial Dezfouli | https://unsplash.com/photos/M91Ycu8mvoM | Unsplash License | 11/13 남대문 "사지 마라" 스카프 상인 온라인 품절 (TR·ES) |
+| googlemap.jpg | Mika Baumeister | https://unsplash.com/photos/nDciGidCdQo | Unsplash License | 11/14 구글 고정밀지도 보안조건 이행 확인 (TR·ES) |
