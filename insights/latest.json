@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-14T06:28:05+00:00",
+ "collected_at": "2026-11-14T18:06:13+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -238,10 +238,10 @@
     "media_count": 21
    },
    "account_day": {
-    "reach": 22,
-    "views": 30,
+    "reach": 117,
+    "views": 127,
     "accounts_engaged": 1,
-    "total_interactions": 2,
+    "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
@@ -277,15 +277,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 18,
-      "views": 23,
+      "reach": 115,
+      "views": 121,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 8298,
-      "ig_reels_video_view_total_time": 149381
+      "ig_reels_avg_watch_time": 8490,
+      "ig_reels_video_view_total_time": 967909
      }
     },
     {
