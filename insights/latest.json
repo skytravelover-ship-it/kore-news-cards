@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-15T06:36:53+00:00",
+ "collected_at": "2026-11-15T18:53:29+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 22
+    "media_count": 24
    },
    "account_day": {
-    "reach": 122,
-    "views": 139,
+    "reach": 73,
+    "views": 84,
     "accounts_engaged": 1,
     "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18125251055064794",
+     "key": "es/261114-googlemap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-15T06:53:52+0000",
+     "permalink": "https://www.instagram.com/p/DfwLsdtk3SV/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 1,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "17920122078525638",
      "key": "es/261114-googlemap/reel",
@@ -256,15 +277,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 7,
-      "views": 8,
+      "reach": 8,
+      "views": 9,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2326,
-      "ig_reels_video_view_total_time": 16284
+      "ig_reels_avg_watch_time": 2177,
+      "ig_reels_video_view_total_time": 17422
      }
     },
     {
@@ -277,8 +298,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 3,
+      "reach": 2,
+      "views": 4,
       "saved": 0,
       "shares": 0,
       "likes": 0,
