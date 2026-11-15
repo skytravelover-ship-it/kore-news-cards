@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-14T22:27:18+00:00",
+ "collected_at": "2026-11-15T06:36:53+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -238,8 +238,8 @@
     "media_count": 22
    },
    "account_day": {
-    "reach": 118,
-    "views": 130,
+    "reach": 122,
+    "views": 139,
     "accounts_engaged": 1,
     "total_interactions": 1,
     "profile_views": 0,
@@ -256,15 +256,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 1,
-      "views": 1,
+      "reach": 7,
+      "views": 8,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2921,
-      "ig_reels_video_view_total_time": 2921
+      "ig_reels_avg_watch_time": 2326,
+      "ig_reels_video_view_total_time": 16284
      }
     },
     {
@@ -445,15 +445,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 8,
-      "views": 9,
+      "reach": 9,
+      "views": 10,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3663,
-      "ig_reels_video_view_total_time": 29310
+      "ig_reels_avg_watch_time": 3343,
+      "ig_reels_video_view_total_time": 30095
      }
     },
     {
@@ -529,15 +529,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 4,
-      "views": 5,
+      "reach": 5,
+      "views": 6,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4190,
-      "ig_reels_video_view_total_time": 16760
+      "ig_reels_avg_watch_time": 4441,
+      "ig_reels_video_view_total_time": 22205
      }
     },
     {
