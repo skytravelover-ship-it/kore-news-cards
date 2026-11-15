@@ -19,3 +19,5 @@
 | airport.jpg | ノボホショコロトソ (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg | CC BY 4.0 (Wikimedia Commons) | 11/12 해외 처방 비만약 휴대 반입 허용 (TR·ES) |
 | scarf.jpg | Danial Dezfouli | https://unsplash.com/photos/M91Ycu8mvoM | Unsplash License | 11/13 남대문 "사지 마라" 스카프 상인 온라인 품절 (TR·ES) |
 | googlemap.jpg | Mika Baumeister | https://unsplash.com/photos/nDciGidCdQo | Unsplash License | 11/14 구글 고정밀지도 보안조건 이행 확인 (TR·ES) |
+| tanuki.jpg | 663highland (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Tanuki01_960.jpg | CC BY 2.5 (Wikimedia Commons) | 11/15 송도 개선충 너구리 민원 급증 (ES) |
+| careergap.jpg | 고려 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Students_returning_from_the_exam_location_(Puhung_High_School)_after_taking_South_Korea_College_Scholastic_Ability_Test,_2018.jpg | CC BY 4.0 (Wikimedia Commons), 좌우 반전(원본 글자가 거울상) | 11/15 KEDI 부모 배경별 희망 직업 격차 (ES) |
