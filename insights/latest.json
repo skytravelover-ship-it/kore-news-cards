@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-15T18:53:29+00:00",
+ "collected_at": "2026-11-16T06:33:55+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,59 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 24
+    "media_count": 27
    },
    "account_day": {
-    "reach": 73,
-    "views": 84,
+    "reach": 91,
+    "views": 104,
     "accounts_engaged": 1,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18134982292769462",
+     "key": "es/261115-tanuki/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-16T03:07:10+0000",
+     "permalink": "https://www.instagram.com/p/DfyWjPaGqCU/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18155756698542923",
+     "key": "es/261115-tanuki/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-15T19:54:31+0000",
+     "permalink": "https://www.instagram.com/reel/Dfxk97UABJJ/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 19,
+      "views": 19,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4272,
+      "ig_reels_video_view_total_time": 76908
+     }
+    },
     {
      "id": "18125251055064794",
      "key": "es/261114-googlemap/carousel",
