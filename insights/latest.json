@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-17T07:58:38+00:00",
+ "collected_at": "2026-11-17T20:58:25+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -97,8 +97,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3946,
-      "ig_reels_video_view_total_time": 406503
+      "ig_reels_avg_watch_time": 3924,
+      "ig_reels_video_view_total_time": 408139
      }
     },
     {
@@ -235,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 27
+    "media_count": 28
    },
    "account_day": {
-    "reach": 38,
-    "views": 40,
-    "accounts_engaged": 1,
-    "total_interactions": 1,
+    "reach": 17,
+    "views": 17,
+    "accounts_engaged": 0,
+    "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18110551358619058",
+     "key": "es/261117-atm/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-17T20:52:15+0000",
+     "permalink": "https://www.instagram.com/reel/Df21NVdjMgY/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "ig_reels_video_view_total_time": 0
+     }
+    },
     {
      "id": "18134982292769462",
      "key": "es/261115-tanuki/carousel",
