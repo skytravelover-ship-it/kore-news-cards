@@ -21,3 +21,5 @@
 | googlemap.jpg | Mika Baumeister | https://unsplash.com/photos/nDciGidCdQo | Unsplash License | 11/14 구글 고정밀지도 보안조건 이행 확인 (TR·ES) |
 | tanuki.jpg | 663highland (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Tanuki01_960.jpg | CC BY 2.5 (Wikimedia Commons) | 11/15 송도 개선충 너구리 민원 급증 (ES) |
 | careergap.jpg | 고려 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Students_returning_from_the_exam_location_(Puhung_High_School)_after_taking_South_Korea_College_Scholastic_Ability_Test,_2018.jpg | CC BY 4.0 (Wikimedia Commons), 좌우 반전(원본 글자가 거울상) | 11/15 KEDI 부모 배경별 희망 직업 격차 (ES) |
+| atm.jpg | Choi Kwang-mo (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:2020-04-09_17.08.07_Wonju_Cityhall_Shinhan_Bank_ATM.jpg | CC0 (Wikimedia Commons) | 11/17 4대 은행 ATM 1,268대 감소 (ES) |
+| aicheat.jpg | 고려 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:A_scantron_pen_and_a_mechanical_pencil_for_The_South_Korea_College_Scholastic_Ability_Test,_2018.jpg | CC BY 4.0 (Wikimedia Commons) | 11/17 수능 앞 AI 커닝 대책·의심 확산 (ES) |

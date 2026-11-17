@@ -1,19 +1,23 @@
-// 2026-11-15 한국 뉴스 (ES만). 출처: 연합뉴스
-//  - 261115-tanuki: 11/15 07:17 '인천 송도 학교·공원·골프장서 온몸에 털빠진 너구리 발견' (AKR20261113042800065)
-//    연수구 너구리 구조·포획 민원 1~11월(11/12 기준) 89건(개선충 38건) vs 2025년 49건(+82%). 인천 야생동물구조관리센터 구조 78마리 vs 47마리(+66%), 대부분 개선충.
-//    10/30 송도 한 고교 교내 출현 → 야외활동 자제 안내. 원인(센터): 녹지·수로, 길고양이 급식소, 천적 없음 / 추위로 면역 저하, 햇볕 찾아 나와 눈에 띔. 사람 감염 시 가려움 정도, 며칠 내 회복 많음.
-//    한국 '너구리' = 라쿤도그(Nyctereutes procyonoides), 북미 라쿤 아님 → perro mapache.
-//  - 261115-careergap: 11/15 '성적 비슷해도 부모 학력·경제력 따라 희망 직업 달라진다' (AKR20261113118800530), 한국교육개발원(KEDI) 보고서, PISA 2018·2022 한국 학생.
-//    상·하위 25% 기대 직업지위 격차 10.95(2018)/10.67(2022). 성적 비슷해도, 남녀 모두. PISA 2018 5,507명: 대입정보 검색 63.1% vs 40.8%, 교외 상담사 43.1 vs 27.4, 대학 방문 43.8 vs 29.4, 교내 상담 70.5 vs 58.8.
-//    진로상담사 배치 여부는 차이 거의 없음. 진로교육 경험 반영 시 격차 약 7% 감소.
-// 사진: Wikimedia Commons CC BY 2.5(너구리, 일본 촬영)·CC BY 4.0(학생), 모두 현장 사진 아님 → imagen ilustrativa.
-// TR: @korede.bugun 이 11/10부터 인스타 API에서 "User access is restricted"(code 25 / 2207050)로 게시 실패 → 오늘 TR 게시물 없음.
-// 인사이트 반영(11/15): ES·TR 저장률 0% → '¿POR QUÉ IMPORTA?' 마지막 항목을 '직접 해 볼 방법'으로 쓰고, 릴스 why 장면도 그 항목(reelWhy)으로 바꿈.
+// 2026-11-17 한국 뉴스 (ES만). 출처: 연합뉴스
+//  - 261117-atm: 11/17 05:51 '"돈 뽑을 데가 없네"…은행 자동화기기 올해만 400대 사라져' (AKR20261116164300002)
+//    4대 은행(KB국민·신한·하나·우리) 3분기 보고서. 자동화기기(CD·ATM·공과금기기 등) 9월 말 16,634대, 2024년 말 17,902대 대비 -1,268(-7.1%).
+//    신한 4,991→4,414(-577, -11.6%), 우리 4,222→3,808(-414, -9.8%), KB 5,169→4,915(-254, -4.9%), 하나 3,520→3,497(-23, -0.7%).
+//    2025년 -869, 2026년(1~9월) -399. 영업점 9월 말 2,665개, 2분기보다 -37(모두 우리은행). 고령층·지방 주민 불편 지적.
+//    은행 측: 비대면 거래 일상화·현금 사용 감소, 현금 호송·보안·유지보수 부담.
+//  - 261117-aicheat: 11/17 06:45 'AI 커닝 장비 구매처까지 SNS 확산…정부, 유통 방지 나선다' (AKR20261116170000017)
+//    + 11/17 06:00 [소셜+] AI커닝 의심 확산 (AKR20261116107100505) + 영문 11/17 'Military toughens screening of smart wearables' (AEN20261117001700315).
+//    세무사 시험 수석이 초소형 카메라·스마트폰·생성형 AI로 부정행위 자백. SNS에 촬영→AI 답→초소형 이어폰 방식·구매처 게시물.
+//    방미통위 11/17: 관계기관·플랫폼과 협력해 유통 방지. 판매 자체는 불법 아님 → 일괄 삭제·차단 어렵고 방미심위 심의로 개별 판단.
+//    국방부: 11/1부터 모든 부대 안경 X선 검색 또는 육안 검사(테·다리의 초소형 카메라·충전 단자). 수능 11/19.
+//    온라인 '국어 만점자 64→261명 4배' 주장은 2024·2026학년도만 비교, 2025학년도는 1,055명. 개인(수험생) 이름·별칭은 쓰지 않음.
+// 사진: Wikimedia Commons CC0(원주시청 신한은행 ATM, 2020)·CC BY 4.0(2018 수능 컴퓨터용 사인펜·샤프) → imagen ilustrativa.
+// TR: @korede.bugun 은 11/10부터 인스타 API "User access is restricted"(code 25 / 2207050) 상태 → 오늘 TR 게시물 없음.
+// 인사이트 반영(11/17): 저장률 0% → '¿POR QUÉ IMPORTA?' 마지막 항목을 '직접 해 볼 방법'으로 유지(reelWhy 동일).
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "15 KASIM 2026",
+    date: "17 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -26,7 +30,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "15 NOV 2026",
+    date: "17 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -35,68 +39,68 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261115-tanuki",
-        cat: "NATURALEZA",
-        photo: "tanuki.jpg",
-        pos: "center 45%",
+        id: "261117-atm",
+        cat: "DINERO",
+        photo: "atm.jpg",
+        pos: "center 40%",
         source: "Agencia Yonhap",
-        credit: "Foto: 663highland / Wikimedia (CC BY 2.5) · imagen ilustrativa",
-        headline: "Perros mapache con sarna en Songdo: los avisos suben un <em>82%</em>",
-        sub: "Vecinos de esta ciudad nueva de Incheon los ven sin pelo en escuelas, parques y un campo de golf.",
-        short: "Perros mapache en Songdo",
+        credit: "Foto: Choi Kwang-mo / Wikimedia (CC0) · imagen ilustrativa",
+        headline: "Corea se queda sin cajeros: <em>1.268</em> menos en menos de dos años",
+        sub: "Los cuatro grandes bancos siguen retirando cajeros automáticos y cerrando sucursales.",
+        short: "Corea pierde cajeros",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "Entre enero y el <b>12 de noviembre</b>, el distrito de Yeonsu (Incheon), donde está Songdo, recibió <b>89</b> pedidos para rescatar o capturar perros mapache, <b>38</b> por sarna. En todo 2025 fueron <b>49</b>.",
-              "El centro de rescate de fauna de Incheon salvó <b>78</b> en toda la ciudad este año, frente a <b>47</b> en 2025. Casi todos tenían sarna, causada por un ácaro que vive bajo la piel.",
-              "Los vecinos los ven en un campo de golf, parques junto al agua y escuelas. El <b>30 de octubre</b>, una secundaria pidió a sus alumnos evitar actividades al aire libre tras ver uno en el patio.",
+              "Según sus informes trimestrales, KB Kookmin, Shinhan, Hana y Woori tenían <b>16.634</b> cajeros y otras máquinas automáticas a fines de septiembre. A fines de 2024 eran <b>17.902</b>: un <b>7,1%</b> menos.",
+              "Shinhan fue el que más recortó: de <b>4.991</b> a <b>4.414</b>, un <b>11,6%</b> menos. Woori quitó <b>414</b>, KB Kookmin <b>254</b> y Hana solo <b>23</b>.",
+              "En 2025 desaparecieron <b>869</b> y de enero a septiembre de 2026, otros <b>399</b>. Las sucursales también bajan: <b>2.665</b> en septiembre, <b>37</b> menos que tres meses antes.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "El neoguri coreano no es el mapache americano: es el perro mapache, un cánido de Asia oriental. Según el centro, Songdo le ofrece mucho verde, canales, comederos para gatos callejeros y ningún depredador.",
-              "Con el frío bajan sus defensas y se contagian más. También salen a buscar sol, por eso se ven más. La sarna puede pasar a personas y mascotas, pero en humanos suele dar solo picazón y se cura en pocos días.",
-              "Si ves uno: no lo toques ni le des comida, lleva a tu perro con correa y avisa al servicio local de fauna silvestre. Un animal sin pelo y lento no es manso: está enfermo.",
+              "Los bancos dicen que casi todo se hace ya desde el celular y que se usa menos efectivo. Además, transportar billetes, la seguridad y el mantenimiento de las máquinas cuestan cada vez más.",
+              "Los más afectados son las personas mayores y quienes viven lejos de las grandes ciudades: usan más efectivo y dependen más de la sucursal y del cajero cercano.",
+              "Si viajas a Corea: casi todo se paga con tarjeta, pero lleva algo de efectivo para mercados y puestos callejeros. Busca cajeros con el letrero \"Global ATM\", que aceptan tarjetas extranjeras.",
             ],
           },
         ],
-        reelWhy: "Si ves uno: no lo toques ni le des comida, lleva a tu perro con correa y avisa al servicio local de fauna silvestre. Un animal sin pelo y lento no es manso: está enfermo.",
-        word: { ko: "너구리", rom: "neoguri", mean: "perro mapache", exKo: "공원에서 너구리를 봤어요.", exTr: "Vi un perro mapache en el parque." },
-        question: "¿Qué animales silvestres ves en tu ciudad?",
+        reelWhy: "Si viajas a Corea: casi todo se paga con tarjeta, pero lleva algo de efectivo para mercados y puestos callejeros. Busca cajeros con el letrero \"Global ATM\", que aceptan tarjetas extranjeras.",
+        word: { ko: "현금", rom: "hyeongeum", mean: "efectivo", exKo: "현금으로 계산할게요.", exTr: "Voy a pagar en efectivo." },
+        question: "¿Todavía usas efectivo o ya pagas todo con el celular?",
       },
       {
-        id: "261115-careergap",
+        id: "261117-aicheat",
         cat: "EDUCACIÓN",
-        photo: "careergap.jpg",
+        photo: "aicheat.jpg",
         pos: "center 50%",
         source: "Agencia Yonhap",
         credit: "Foto: 고려 / Wikimedia (CC BY 4.0) · imagen ilustrativa",
-        headline: "Mismas notas, otro futuro: la familia pesa en el <em>trabajo soñado</em>",
-        sub: "Un estudio coreano con datos de PISA encontró la brecha incluso entre alumnos con notas parecidas.",
-        short: "Familia y trabajo soñado",
+        headline: "Trampas con <em>IA</em>: Corea se blinda antes de su gran examen",
+        sub: "El jueves 19 de noviembre es el Suneung, el examen de acceso a la universidad.",
+        short: "Trampas con IA y el Suneung",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "El Instituto Coreano de Desarrollo Educativo (KEDI) comparó, con datos de PISA <b>2018</b> y <b>2022</b>, el nivel de estudios, el trabajo y los recursos de los padres con la profesión que desean los alumnos coreanos de 15 años.",
-              "Los hijos del <b>25%</b> de familias con más recursos apuntan más a ciencia, ingeniería o salud. Los del 25% con menos eligen más empleos no profesionales o aún no deciden. Pasa incluso con notas parecidas.",
-              "La brecha también está en la orientación: buscó en internet información sobre la universidad el <b>63,1%</b> del grupo alto y el <b>40,8%</b> del bajo. Habló con un orientador fuera de la escuela el <b>43,1%</b> frente al <b>27,4%</b>.",
+              "El primer puesto de un examen nacional para asesores tributarios confesó que usó una minicámara, un celular e IA generativa para hacer trampa. Desde entonces, la sospecha se extiende a otros exámenes.",
+              "En YouTube y redes circulan videos que explican cómo fotografiar las preguntas con una minicámara y recibir la respuesta de la IA por un auricular diminuto. Algunos hasta dicen dónde comprar el equipo.",
+              "El <b>17 de noviembre</b>, el regulador de medios prometió trabajar con las plataformas para frenar esos contenidos. Pero vender los aparatos no es ilegal, así que cada publicación se revisará por separado.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "Tener orientador en la escuela casi no depende del origen familiar. La diferencia está en quién lo usa de verdad. Por eso los autores piden que cada alumno llegue a la información y la consejería, no solo ampliar la oferta.",
-              "Al sumar la experiencia de orientación al análisis, la brecha bajó cerca de un <b>7%</b>. Visitar una universidad: <b>43,8%</b> en el grupo alto, <b>29,4%</b> en el bajo.",
-              "Para probar en casa: busquen juntos el plan de estudios de 2 o 3 carreras, visiten una universidad en un día abierto y pidan una cita con el orientador. Son justo las actividades donde está la brecha.",
+              "El Suneung decide a qué universidad entra cada joven, y el país entero se organiza alrededor de ese día. Si se duda de la limpieza del examen, se duda del mérito de todos.",
+              "La desconfianza ya golpea a inocentes. En internet circuló que las notas perfectas en coreano se multiplicaron por <b>4</b>, pero solo comparaba dos años: en el año intermedio hubo <b>1.055</b>.",
+              "Cómo detectar gafas con cámara: el Ejército coreano, que revisa todos los lentes desde el <b>1 de noviembre</b>, busca cámaras diminutas en el marco y puertos de carga en las patillas.",
             ],
           },
         ],
-        reelWhy: "Para probar en casa: busquen juntos el plan de estudios de 2 o 3 carreras, visiten una universidad en un día abierto y pidan una cita con el orientador. Son justo las actividades donde está la brecha.",
-        word: { ko: "진로", rom: "jillo", mean: "camino profesional", exKo: "진로 상담을 받아 보세요.", exTr: "Pide orientación vocacional." },
-        question: "¿Quién te ayudó a elegir tu carrera: tu familia, la escuela o nadie?",
+        reelWhy: "Cómo detectar gafas con cámara: el Ejército coreano, que revisa todos los lentes desde el 1 de noviembre, busca cámaras diminutas en el marco y puertos de carga en las patillas.",
+        word: { ko: "부정행위", rom: "bujeonghaengwi", mean: "trampa (en un examen)", exKo: "시험에서 부정행위는 안 돼요.", exTr: "En un examen no se hace trampa." },
+        question: "¿En tu país también hay un examen que lo decide todo?",
       },
     ],
   },
