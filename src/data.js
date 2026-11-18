@@ -1,23 +1,25 @@
-// 2026-11-17 한국 뉴스 (ES만). 출처: 연합뉴스
-//  - 261117-atm: 11/17 05:51 '"돈 뽑을 데가 없네"…은행 자동화기기 올해만 400대 사라져' (AKR20261116164300002)
-//    4대 은행(KB국민·신한·하나·우리) 3분기 보고서. 자동화기기(CD·ATM·공과금기기 등) 9월 말 16,634대, 2024년 말 17,902대 대비 -1,268(-7.1%).
-//    신한 4,991→4,414(-577, -11.6%), 우리 4,222→3,808(-414, -9.8%), KB 5,169→4,915(-254, -4.9%), 하나 3,520→3,497(-23, -0.7%).
-//    2025년 -869, 2026년(1~9월) -399. 영업점 9월 말 2,665개, 2분기보다 -37(모두 우리은행). 고령층·지방 주민 불편 지적.
-//    은행 측: 비대면 거래 일상화·현금 사용 감소, 현금 호송·보안·유지보수 부담.
-//  - 261117-aicheat: 11/17 06:45 'AI 커닝 장비 구매처까지 SNS 확산…정부, 유통 방지 나선다' (AKR20261116170000017)
-//    + 11/17 06:00 [소셜+] AI커닝 의심 확산 (AKR20261116107100505) + 영문 11/17 'Military toughens screening of smart wearables' (AEN20261117001700315).
-//    세무사 시험 수석이 초소형 카메라·스마트폰·생성형 AI로 부정행위 자백. SNS에 촬영→AI 답→초소형 이어폰 방식·구매처 게시물.
-//    방미통위 11/17: 관계기관·플랫폼과 협력해 유통 방지. 판매 자체는 불법 아님 → 일괄 삭제·차단 어렵고 방미심위 심의로 개별 판단.
-//    국방부: 11/1부터 모든 부대 안경 X선 검색 또는 육안 검사(테·다리의 초소형 카메라·충전 단자). 수능 11/19.
-//    온라인 '국어 만점자 64→261명 4배' 주장은 2024·2026학년도만 비교, 2025학년도는 1,055명. 개인(수험생) 이름·별칭은 쓰지 않음.
-// 사진: Wikimedia Commons CC0(원주시청 신한은행 ATM, 2020)·CC BY 4.0(2018 수능 컴퓨터용 사인펜·샤프) → imagen ilustrativa.
-// TR: @korede.bugun 은 11/10부터 인스타 API "User access is restricted"(code 25 / 2207050) 상태 → 오늘 TR 게시물 없음.
-// 인사이트 반영(11/17): 저장률 0% → '¿POR QUÉ IMPORTA?' 마지막 항목을 '직접 해 볼 방법'으로 유지(reelWhy 동일).
+// 2026-11-18 한국 뉴스 (ES만). 출처: 연합뉴스
+//  - 261118-suneung: 11/18 05:00 '[수능 D-1] 오늘 수험생 55만명 예비소집…N수생 23년만에 최다' (AKR20261117102600530)
+//    + 11/18 '[수능 D-1] 전자기기 미제출 땐 시험 무효…단추 달린 옷도 피해야' (AKR20261117160300530)
+//    + 11/18 08:42 '정부, 수능 부정행위 적발용 재난문자 추가 불시 발송 검토' (AKR20261118032600530)
+//    수능 11/19 08:40~17:45(일반), 85개 시험지구 1,312개 시험장, 지원 551,864명(전년 -2,310). 입실 08:10, 모바일 신분증 불인정.
+//    N수생(졸업생+검정고시) 196,473명 = 23년 만에 최대(이전 최대 2004학년도 198,025). 현행 체제 마지막 해 + 지역의사제로 의대 정원 증가.
+//    대책: 옷 단추마다 스티커, 안경 매 교시 점검, 가방 복도 보관, 감독 8,400여 명 추가. 전자기기 1교시 전 미제출·소지 적발 시 사용 여부 무관 무효.
+//    스마트안경 착용 시 내년 응시 자격도 박탈. 적극적 부정행위자 응시 제한 1년→10년 추진. 총리: 단추 옷·목걸이·반지·모자 자제 당부.
+//    위급재난문자: 당일 08:25~08:30 전국 1회 발송 계획 + 시험 중 불시 추가 발송 검토(재난 오인·집중 방해 우려). 정치인 이름은 쓰지 않음.
+//  - 261118-export: 11/18 '세계 4번째 수출 1조달러 초읽기…돼지털 팔던 나라의 기적' (AKR20261117142400003)
+//    이르면 11/19 저녁~11/20 아침 연간 수출 1조 달러. 미국·독일(2006)·중국(2007) 이어 4번째, 19년 만. 11/10까지 누적 9,637억 달러, 남은 363억.
+//    1948년 1,900만 달러(세계 100위) → 5만 배+. 1964 1억, 1971 10억, 1977 100억, 1995 1천억. 2025년 7,093억. 일본 2011년 8,226억 정점.
+//    1960년대 10대 수출품에 돼지털(솔), 여성 머리카락(가발). 1~10월 반도체 3,968억(+193.1%), 비중 42.7%. 1~10월 흑자 2,949억 > 2017년 952억의 3배.
+//    전문가: 반도체 편중·통상 압박 관리가 숙제.
+// 사진: Wikimedia Commons CC BY 4.0(2020 관양고 수능 예비소집, 고려)·CC0(HMM 컨테이너선 Hyundai Dream, Alf van Beem) → imagen ilustrativa.
+// TR: @korede.bugun 은 11/10부터 인스타 API 게시 제한 상태(11/17 기록과 동일) → 오늘 TR 게시물 없음.
+// 인사이트(11/18): ES 릴스 도달이 캐러셀의 10.8배 → 두 게시물 모두 릴스를 먼저, 캐러셀은 다음 슬롯에 배치(어제와 동일, 유지).
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "17 KASIM 2026",
+    date: "18 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -30,7 +32,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "17 NOV 2026",
+    date: "18 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -39,68 +41,68 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261117-atm",
-        cat: "DINERO",
-        photo: "atm.jpg",
-        pos: "center 40%",
-        source: "Agencia Yonhap",
-        credit: "Foto: Choi Kwang-mo / Wikimedia (CC0) · imagen ilustrativa",
-        headline: "Corea se queda sin cajeros: <em>1.268</em> menos en menos de dos años",
-        sub: "Los cuatro grandes bancos siguen retirando cajeros automáticos y cerrando sucursales.",
-        short: "Corea pierde cajeros",
-        slides: [
-          {
-            label: "¿QUÉ PASÓ?",
-            items: [
-              "Según sus informes trimestrales, KB Kookmin, Shinhan, Hana y Woori tenían <b>16.634</b> cajeros y otras máquinas automáticas a fines de septiembre. A fines de 2024 eran <b>17.902</b>: un <b>7,1%</b> menos.",
-              "Shinhan fue el que más recortó: de <b>4.991</b> a <b>4.414</b>, un <b>11,6%</b> menos. Woori quitó <b>414</b>, KB Kookmin <b>254</b> y Hana solo <b>23</b>.",
-              "En 2025 desaparecieron <b>869</b> y de enero a septiembre de 2026, otros <b>399</b>. Las sucursales también bajan: <b>2.665</b> en septiembre, <b>37</b> menos que tres meses antes.",
-            ],
-          },
-          {
-            label: "¿POR QUÉ IMPORTA?",
-            items: [
-              "Los bancos dicen que casi todo se hace ya desde el celular y que se usa menos efectivo. Además, transportar billetes, la seguridad y el mantenimiento de las máquinas cuestan cada vez más.",
-              "Los más afectados son las personas mayores y quienes viven lejos de las grandes ciudades: usan más efectivo y dependen más de la sucursal y del cajero cercano.",
-              "Si viajas a Corea: casi todo se paga con tarjeta, pero lleva algo de efectivo para mercados y puestos callejeros. Busca cajeros con el letrero \"Global ATM\", que aceptan tarjetas extranjeras.",
-            ],
-          },
-        ],
-        reelWhy: "Si viajas a Corea: casi todo se paga con tarjeta, pero lleva algo de efectivo para mercados y puestos callejeros. Busca cajeros con el letrero \"Global ATM\", que aceptan tarjetas extranjeras.",
-        word: { ko: "현금", rom: "hyeongeum", mean: "efectivo", exKo: "현금으로 계산할게요.", exTr: "Voy a pagar en efectivo." },
-        question: "¿Todavía usas efectivo o ya pagas todo con el celular?",
-      },
-      {
-        id: "261117-aicheat",
-        cat: "EDUCACIÓN",
-        photo: "aicheat.jpg",
-        pos: "center 50%",
+        id: "261118-suneung",
+        cat: "SOCIEDAD",
+        photo: "suneung.jpg",
+        pos: "center 45%",
         source: "Agencia Yonhap",
         credit: "Foto: 고려 / Wikimedia (CC BY 4.0) · imagen ilustrativa",
-        headline: "Trampas con <em>IA</em>: Corea se blinda antes de su gran examen",
-        sub: "El jueves 19 de noviembre es el Suneung, el examen de acceso a la universidad.",
-        short: "Trampas con IA y el Suneung",
+        headline: "Botones tapados y gafas revisadas: el examen de <em>551.864</em> jóvenes",
+        sub: "Este jueves 19 de noviembre, Corea se detiene para el Suneung, su examen de acceso a la universidad.",
+        short: "Suneung: botones tapados",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "El primer puesto de un examen nacional para asesores tributarios confesó que usó una minicámara, un celular e IA generativa para hacer trampa. Desde entonces, la sospecha se extiende a otros exámenes.",
-              "En YouTube y redes circulan videos que explican cómo fotografiar las preguntas con una minicámara y recibir la respuesta de la IA por un auricular diminuto. Algunos hasta dicen dónde comprar el equipo.",
-              "El <b>17 de noviembre</b>, el regulador de medios prometió trabajar con las plataformas para frenar esos contenidos. Pero vender los aparatos no es ilegal, así que cada publicación se revisará por separado.",
+              "Se inscribieron <b>551.864</b> personas. Hay menos estudiantes de último año, pero quienes repiten el examen son <b>196.473</b>: la cifra más alta en <b>23</b> años.",
+              "Contra las trampas con cámaras diminutas, los supervisores pondrán una pegatina en <b>cada botón</b> de la ropa, revisarán las gafas en cada prueba y los bolsos se quedarán en el pasillo.",
+              "Quien no entregue su celular antes de la primera prueba pierde el examen, aunque no lo use. Con gafas inteligentes, también pierde el derecho a presentarse el año siguiente.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "El Suneung decide a qué universidad entra cada joven, y el país entero se organiza alrededor de ese día. Si se duda de la limpieza del examen, se duda del mérito de todos.",
-              "La desconfianza ya golpea a inocentes. En internet circuló que las notas perfectas en coreano se multiplicaron por <b>4</b>, pero solo comparaba dos años: en el año intermedio hubo <b>1.055</b>.",
-              "Cómo detectar gafas con cámara: el Ejército coreano, que revisa todos los lentes desde el <b>1 de noviembre</b>, busca cámaras diminutas en el marco y puertos de carga en las patillas.",
+              "Este es el último año con el sistema actual y habrá más plazas en medicina. Por eso tantos lo intentan otra vez, y la competencia por las mejores universidades será más dura.",
+              "El gobierno añade <b>8.400</b> supervisores y quiere subir la sanción para quien haga trampa con aparatos: de <b>1</b> a <b>10</b> años sin poder presentarse. Pide evitar botones, collares, anillos y gorras.",
+              "Si estás en Corea el jueves: entre las <b>8:25</b> y las <b>8:30</b> llegará a todos los celulares una alerta de emergencia. Busca teléfonos escondidos, no avisa de un desastre. Podría haber otras sin aviso.",
             ],
           },
         ],
-        reelWhy: "Cómo detectar gafas con cámara: el Ejército coreano, que revisa todos los lentes desde el 1 de noviembre, busca cámaras diminutas en el marco y puertos de carga en las patillas.",
-        word: { ko: "부정행위", rom: "bujeonghaengwi", mean: "trampa (en un examen)", exKo: "시험에서 부정행위는 안 돼요.", exTr: "En un examen no se hace trampa." },
-        question: "¿En tu país también hay un examen que lo decide todo?",
+        reelWhy: "Si estás en Corea el jueves: entre las 8:25 y las 8:30 llegará a todos los celulares una alerta de emergencia. Busca teléfonos escondidos, no avisa de un desastre. Podría haber otras sin aviso.",
+        word: { ko: "재수", rom: "jaesu", mean: "repetir un año para volver a presentar el examen", exKo: "형은 재수해서 대학에 갔어요.", exTr: "Mi hermano entró a la universidad después de repetir el examen." },
+        question: "¿Repetirías un año entero para entrar a la universidad que quieres?",
+      },
+      {
+        id: "261118-export",
+        cat: "ECONOMÍA",
+        photo: "export.jpg",
+        pos: "center 55%",
+        source: "Agencia Yonhap",
+        credit: "Foto: Alf van Beem / Wikimedia (CC0) · imagen ilustrativa",
+        headline: "Corea, a punto de exportar <em>1 billón</em> de dólares en un año",
+        sub: "Sería el cuarto país en lograrlo, después de Estados Unidos, Alemania y China.",
+        short: "Corea y el billón de dólares",
+        slides: [
+          {
+            label: "¿QUÉ PASÓ?",
+            items: [
+              "Hasta el <b>10 de noviembre</b>, Corea había exportado <b>963.700</b> millones de dólares este año. Le faltan <b>36.300</b> millones, y el gobierno calcula que llegará entre el <b>19</b> y el <b>20</b> de noviembre.",
+              "Solo tres países han superado esa marca: Estados Unidos y Alemania en <b>2006</b> y China en <b>2007</b>. Japón tocó su máximo en <b>2011</b> con <b>822.600</b> millones y no lo ha vuelto a superar.",
+              "El motor son los chips: de enero a octubre, Corea vendió <b>396.800</b> millones de dólares en semiconductores, un <b>193,1%</b> más. Ya son el <b>42,7%</b> de todo lo que exporta.",
+            ],
+          },
+          {
+            label: "¿POR QUÉ IMPORTA?",
+            items: [
+              "En <b>1948</b>, Corea exportaba <b>19</b> millones de dólares y estaba en el puesto <b>100</b> del mundo. En los años 60 vendía pelo de cerdo para cepillos y cabello humano para pelucas.",
+              "Los expertos celebran, pero avisan: depender tanto de los chips para la IA es un riesgo. Si cae la demanda o crecen las presiones comerciales de otros países, el golpe sería fuerte.",
+              "Haz la prueba en casa: revisa la etiqueta de tu celular, tu tele o tu refrigerador. Es muy probable que alguna pieza, como la memoria o la pantalla, venga de Corea.",
+            ],
+          },
+        ],
+        reelWhy: "Haz la prueba en casa: revisa la etiqueta de tu celular, tu tele o tu refrigerador. Es muy probable que alguna pieza, como la memoria o la pantalla, venga de Corea.",
+        word: { ko: "수출", rom: "suchul", mean: "exportación", exKo: "한국은 반도체를 많이 수출해요.", exTr: "Corea exporta muchos chips." },
+        question: "¿Qué producto coreano tienes en casa?",
       },
     ],
   },
