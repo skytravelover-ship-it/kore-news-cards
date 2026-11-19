@@ -25,3 +25,5 @@
 | aicheat.jpg | 고려 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:A_scantron_pen_and_a_mechanical_pencil_for_The_South_Korea_College_Scholastic_Ability_Test,_2018.jpg | CC BY 4.0 (Wikimedia Commons) | 11/17 수능 앞 AI 커닝 대책·의심 확산 (ES) |
 | suneung.jpg | 고려 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Gwanyang_High_School_was_crowded_with_people_due_to_the_preliminary_call-up_of_the_2021_College_Scholastic_Ability_Test.jpg | CC BY 4.0 (Wikimedia Commons) | 11/18 수능 D-1: N수생 23년 만에 최다·단추 스티커·재난문자 (ES) |
 | export.jpg | Alf van Beem (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Hyundai_Dream_-_IMO_9637222,_Amazonehaven,_Port_of_Rotterdam,_pic1.JPG | CC0 (Wikimedia Commons) | 11/18 연간 수출 1조 달러 초읽기 (ES) |
+| alert.jpg | Huy Q. Tran | https://unsplash.com/photos/pjphXvy642g | Unsplash License | 11/19 수능 부정행위 방지 위급재난문자 10.5초 경보 (ES) |
+| mochi.jpg | jesni rawther | https://unsplash.com/photos/3wuJzxdOPHs | Unsplash License | 11/19 겹겹이 찹쌀떡 원조 공방·내용증명 (ES) |
