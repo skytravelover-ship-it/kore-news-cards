@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-18T20:34:25+00:00",
+ "collected_at": "2026-11-19T07:29:18+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 30
+    "media_count": 31
    },
    "account_day": {
-    "reach": 4,
-    "views": 4,
+    "reach": 5,
+    "views": 5,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18120593671795738",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-19T01:09:18+0000",
+     "permalink": "https://www.instagram.com/p/Df53dTYjBkj/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18110708045359097",
      "key": "es/261117-aicheat/reel",
@@ -256,15 +277,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 3,
-      "views": 3,
+      "reach": 4,
+      "views": 4,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 740,
-      "ig_reels_video_view_total_time": 2222
+      "ig_reels_avg_watch_time": 853,
+      "ig_reels_video_view_total_time": 3412
      }
     },
     {
