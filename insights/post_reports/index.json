@@ -620,5 +620,31 @@
    "comments": 0
   },
   "at": "2026-11-19T08:43:49+00:00"
+ },
+ "es/261119-alarma/reel": {
+  "metrics": {
+   "reach": 3,
+   "views": 6,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 7234,
+   "ig_reels_video_view_total_time": 21703
+  },
+  "at": "2026-11-20T04:42:07+00:00"
+ },
+ "es/story_digest_261119.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-20T04:42:07+00:00"
  }
 }
