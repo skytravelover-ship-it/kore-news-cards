@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-20T07:20:01+00:00",
+ "collected_at": "2026-11-20T20:24:51+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 34
+    "media_count": 35
    },
    "account_day": {
-    "reach": 11,
-    "views": 21,
+    "reach": 20,
+    "views": 29,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "17931728196184736",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-20T13:37:20+0000",
+     "permalink": "https://www.instagram.com/p/Df9x2eplyXP/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18115247606128457",
      "key": "es/261119-mochi/reel",
@@ -256,15 +277,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 8,
-      "views": 10,
+      "reach": 18,
+      "views": 18,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2674,
-      "ig_reels_video_view_total_time": 21399
+      "ig_reels_avg_watch_time": 5497,
+      "ig_reels_video_view_total_time": 98954
      }
     },
     {
