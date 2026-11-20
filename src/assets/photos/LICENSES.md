@@ -27,3 +27,5 @@
 | export.jpg | Alf van Beem (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Hyundai_Dream_-_IMO_9637222,_Amazonehaven,_Port_of_Rotterdam,_pic1.JPG | CC0 (Wikimedia Commons) | 11/18 연간 수출 1조 달러 초읽기 (ES) |
 | alert.jpg | Huy Q. Tran | https://unsplash.com/photos/pjphXvy642g | Unsplash License | 11/19 수능 부정행위 방지 위급재난문자 10.5초 경보 (ES) |
 | mochi.jpg | jesni rawther | https://unsplash.com/photos/3wuJzxdOPHs | Unsplash License | 11/19 겹겹이 찹쌀떡 원조 공방·내용증명 (ES) |
+| coldsnap.jpg | Ethan Brooke | https://unsplash.com/photos/PCjkv_1p1g0 | Unsplash License | 11/20 '수능 한파' 속설 과학적 근거 검증 (ES) |
+| squirrel.jpg | Amber Walker | https://unsplash.com/photos/hXOq5yB69VU | Unsplash License | 11/20 경북 산불 피해지 인공둥지 하늘다람쥐 6마리 (ES) |
