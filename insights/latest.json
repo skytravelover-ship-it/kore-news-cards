@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-19T20:40:43+00:00",
+ "collected_at": "2026-11-20T07:20:01+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,80 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 31
+    "media_count": 34
    },
    "account_day": {
-    "reach": 3,
-    "views": 3,
+    "reach": 11,
+    "views": 21,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18115247606128457",
+     "key": "es/261119-mochi/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-20T04:41:57+0000",
+     "permalink": "https://www.instagram.com/reel/Df80iVZCnU7/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 8,
+      "views": 10,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2674,
+      "ig_reels_video_view_total_time": 21399
+     }
+    },
+    {
+     "id": "18111017333205172",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-20T04:41:11+0000",
+     "permalink": "https://www.instagram.com/p/Df80f6eCaMN/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18123103033996023",
+     "key": "es/261119-alarma/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-19T23:48:36+0000",
+     "permalink": "https://www.instagram.com/reel/Df8S-8AjEYB/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 3,
+      "views": 6,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 7234,
+      "ig_reels_video_view_total_time": 21703
+     }
+    },
     {
      "id": "18120593671795738",
      "key": null,
@@ -340,8 +403,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 1,
-      "views": 2,
+      "reach": 2,
+      "views": 4,
       "saved": 0,
       "shares": 0,
       "likes": 0,
