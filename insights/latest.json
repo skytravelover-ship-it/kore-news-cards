@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-21T07:13:09+00:00",
+ "collected_at": "2026-11-21T19:18:54+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -235,17 +235,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 38
+    "media_count": 39
    },
    "account_day": {
-    "reach": 150,
-    "views": 166,
+    "reach": 153,
+    "views": 158,
     "accounts_engaged": 2,
     "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "17979547496934525",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-21T17:42:12+0000",
+     "permalink": "https://www.instagram.com/p/DgAyqxFjdou/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "17883470688549012",
      "key": "es/261120-ardilla/reel",
@@ -256,15 +277,15 @@
      "like_count": 2,
      "comments_count": 0,
      "metrics": {
-      "reach": 98,
-      "views": 101,
+      "reach": 103,
+      "views": 106,
       "saved": 0,
       "shares": 0,
       "likes": 2,
       "comments": 0,
       "total_interactions": 2,
-      "ig_reels_avg_watch_time": 3870,
-      "ig_reels_video_view_total_time": 383157
+      "ig_reels_avg_watch_time": 3798,
+      "ig_reels_video_view_total_time": 395082
      }
     },
     {
@@ -298,15 +319,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 16,
-      "views": 16,
+      "reach": 24,
+      "views": 24,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 5366,
-      "ig_reels_video_view_total_time": 85856
+      "ig_reels_avg_watch_time": 6938,
+      "ig_reels_video_view_total_time": 159577
      }
     },
     {
