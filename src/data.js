@@ -1,21 +1,21 @@
-// 2026-11-20 한국 뉴스 (ES만). 출처: 연합뉴스
-//  - 261120-frio: 11/20 06:00 '[소셜＋] "이날만 되면 빙하기"…수능 한파 과학적 근거 있을까?' (AKR20261119132700505)
-//    11/19 수능일 아침 기온 전날보다 5~10도 하락, 중부·남부 내륙 영하권 → 6년 만의 '수능 한파'. 11/18 X 게시물(조회 74만, 좋아요 2만9천).
-//    '수능 한파' 우리말샘 등재. 뿌리는 수능 이전 '입시 한파'(학력고사 12월 중하순~2월 초). 1993년 수능 도입으로 11월로 이동.
-//    1994학년도 2차(1993.11)~2023학년도(2022) 30차례 중 전국 평균 최저기온 영하 9차례. 서울 2021~2025 5년 연속 영상, 2024년 13.2도(11월 수능 중 가장 포근).
-//    전문가(김승배): 과학적 근거 없음, 11월 남쪽 따뜻한 공기/북쪽 찬 공기 교대 + 시험 긴장감으로 더 춥게 기억. 기상청: 북서풍 타고 찬 공기 유입된 일시적 현상.
-//  - 261120-ardilla: 11/20 '경북 산불 피해 1년 반만 하늘다람쥐 6마리 확인…인공둥지 서식' (AKR20261119135700530)
-//    2025년 3월 역대 최악 경북 산불 → 영양군 석보면 포산리 장구메기습지(2024.9 국가습지보호지역, 4.5ha, 멸종위기 6종 포함 458종) 주변 산림 피해.
-//    하늘다람쥐: 천연기념물·멸종위기 II급, 딱따구리 나무구멍 이용 → 산불로 둥지 확보 어려움. 2025년 10월 국립생태원 멸종위기종복원센터+주민 인공둥지 65개 설치.
-//    2026년 7~10월 최대 6마리 서식·번식 확인. 산불 피해 숲 회복 30년 이상, 생태계 안정 100년 이상.
-// 사진: Unsplash(Ethan Brooke 서울 눈 내리는 거리 / Amber Walker 날다람쥐) → imagen ilustrativa.
-// TR: @korede.bugun 은 11/10부터 인스타 API 게시 제한 상태(11/10 워크플로 로그: "User access is restricted", code 25, is_transient false) → 오늘 TR 게시물 없음.
-// 인사이트(11/20): ES 릴스 도달이 캐러셀의 10.9배 → 릴스 먼저, 캐러셀 다음 슬롯(유지). 반응 1위 카테고리 NATURALEZA를 주제만 바꿔 반복(하늘다람쥐). 다른 변경 없음.
+// 2026-11-21 한국 뉴스 (ES만). 출처: 연합뉴스
+//  - 261121-iaexamen: 11/20 10:00 'AI가 세무사시험 풀었더니 만점…실제 고득점자도 33배 증가' (AKR20261120050300017)
+//    2026.4.25 제63회 세무사 1차. 국회 과방위 의원실 실험: 클로드 오푸스 4.7(4.16 출시, 시험 9일 전)이 회계학개론 40문항 전부 정답=100점. 문제지 이미지만 제시, 산업인력공단 정답으로 채점.
+//    작년 모델 소네트4.5 62.5 / 하이쿠4.5 25 / 오푸스4.5 75, 2026.2 오푸스4.6·소네트4.6 100. 실제 시험 회계학개론 90점 이상: 2024년 1명→2025년 2명→2026년 66명(33배), 만점 1명. 세법학개론 90점 이상은 만점자 1명뿐.
+//    AI 성능과 고득점 증가의 연관성·부정행위는 확인 안 됨. 세법은 법령 원문 확인 허용 시 40/40. 2027 LEET: 페이블5 언어이해 30/30, 추리논증 39/40. 시험 후 출시 9개 모델 모두 90점 이상, 6개 만점. 페이블5.2 회계·세법 100, LEET 70문항 전부 정답, 40문항 약 1분30초.
+//    의원: 고득점자 전수조사, 수능 관리·감독 방안을 모든 국가자격시험으로 확대 요구.
+//  - 261121-silla: 11/20 11:58 '1천600년 전 신라 지배층 무덤 확인…최소 2명 이상 순장' (AKR20261120084300005)
+//    국립경주문화유산연구소, 경주 인왕동 732-3 덧널무덤(4세기). 대릉원 일원(유네스코 경주역사유적지구) 인접, 황남대총·천마총(5~6세기)보다 앞선 시기.
+//    으뜸 덧널 묘광 6.8m×3.8m, 딸린 덧널 5.0m×3.3m. 금동제 초미금구, 화살촉, 마노 다면옥·굽은옥. 철제 갑옷: 투구 추정 2, 갑옷 3, 목 가리개 2, 허리 가리개 2. 판갑+찰갑 온전한 형태 동시 출토는 경주 최초. 대상철기 온전 출토 최초.
+//    10대 추정 순장자 치아·아래턱뼈(으뜸 덧널 서편), 딸린 덧널에도 순장 흔적 → 최소 2명. 훼기 흔적. 11/23 14:00 현장 설명회.
+// 사진: Wikimedia Commons(Kok Leng Yeo, 경주 대릉원, CC BY 2.0) / Unsplash(Jakub Żerdzicki 계산기) → imagen ilustrativa.
+// TR: @korede.bugun 은 11/10부터 인스타 API 게시 제한 상태(11/10 워크플로 로그 "User access is restricted", code 25, is_transient false; 11/20 insights 수집은 정상) → 오늘도 TR 게시물 없음.
+// 인사이트(11/21): 표본이 충분한 제안은 'CONSUMO 비중 확대'와 '릴스 우선'(유지) 뿐. 오늘 뉴스 중 소비자 주제가 없어 기획안 우선순위대로 선정, 변경 없음.
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "20 KASIM 2026",
+    date: "21 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -28,7 +28,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "20 NOV 2026",
+    date: "21 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -37,68 +37,68 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261120-frio",
-        cat: "SOCIEDAD",
-        photo: "coldsnap.jpg",
-        pos: "center 60%",
+        id: "261121-iaexamen",
+        cat: "TECNOLOGÍA",
+        photo: "aiexam.jpg",
+        pos: "center 55%",
         source: "Agencia Yonhap",
-        credit: "Foto: Ethan Brooke / Unsplash · imagen ilustrativa",
-        headline: "El mito del frío del Suneung: solo <em>9</em> de 30 exámenes bajo cero",
-        sub: "Un post viral dice que Corea entra en una edad de hielo cada día del examen. Los registros del tiempo cuentan otra historia.",
-        short: "El frío del Suneung",
+        credit: "Foto: Jakub Żerdzicki / Unsplash · imagen ilustrativa",
+        headline: "Una IA saca <em>100</em> en el examen de asesor fiscal y las notas altas pasan de 2 a <em>66</em>",
+        sub: "Una prueba hecha después del examen muestra lo que ya resuelve la inteligencia artificial. Nadie ha confirmado trampas, pero las cifras abrieron el debate.",
+        short: "IA y examen fiscal",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "El jueves, día del Suneung, el termómetro cayó entre <b>5</b> y <b>10</b> grados en una noche y muchas zonas amanecieron bajo cero. Es el primer examen con heladas en <b>6</b> años.",
-              "La víspera, un post en X se preguntaba por qué el país pasa del calor a la edad de hielo justo ese día. Superó <b>740.000</b> vistas y <b>29.000</b> me gusta, con cientos de comentarios de gente que dice lo mismo.",
-              "La expresión frío del Suneung existe desde hace décadas. Está incluso en el diccionario abierto del Instituto Nacional de la Lengua Coreana, definida como la bajada brusca de temperatura en la fecha del examen.",
+              "El <b>25</b> de abril Corea celebró el examen nacional de asesor fiscal. Meses después, la oficina de una diputada hizo que un modelo de IA resolviera la parte de contabilidad solo con la foto del cuestionario: <b>40</b> aciertos de <b>40</b>.",
+              "El modelo había salido <b>9</b> días antes del examen. Versiones del año anterior sacaban entre <b>25</b> y <b>75</b> puntos sobre 100. Las de febrero de este año ya llegaban al <b>100</b>.",
+              "En el examen real, los aspirantes con <b>90</b> puntos o más en contabilidad pasaron de <b>2</b> en 2025 a <b>66</b> este año, <b>33</b> veces más. En la otra asignatura, derecho fiscal, solo uno superó esa nota.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "Los datos dicen otra cosa: de <b>30</b> exámenes entre 1993 y 2022, solo <b>9</b> tuvieron una mínima media nacional bajo cero. En Seúl, de 2021 a 2025 el examen amaneció sobre cero cinco años seguidos. En 2024 hizo <b>13,2</b> grados.",
-              "El mito viene de antes. Hasta 1993 los exámenes de acceso se hacían entre diciembre y febrero, en pleno invierno. El Suneung pasó a noviembre, pero el recuerdo del frío se quedó en la memoria colectiva.",
-              "Un experto en meteorología lo resume así: en noviembre el aire frío del norte y el cálido del sur se turnan, y los nervios de un examen decisivo hacen que el frío se recuerde más. Piensa en los mitos del clima de tu país y busca los datos.",
+              "Nadie ha demostrado que alguien usara IA. No se detectaron trampas y la relación entre los dos datos no está probada. Aun así, la diputada pide revisar una a una las notas altas de este año.",
+              "Los modelos siguen mejorando. Uno lanzado este mes resolvió las <b>40</b> preguntas en minuto y medio y acertó todo también en derecho fiscal y en el examen de acceso a derecho. Corea estudia extender los controles del Suneung a todos los exámenes oficiales.",
+              "Si preparas un examen oficial o de certificación, revisa las reglas sobre dispositivos de tu convocatoria. Cada vez más países los prohíben por completo y la lista de aparatos vetados cambia de un año a otro.",
             ],
           },
         ],
-        reelWhy: "Un experto en meteorología lo resume así: en noviembre el aire frío del norte y el cálido del sur se turnan, y los nervios de un examen decisivo hacen que el frío se recuerde más. Piensa en los mitos del clima de tu país y busca los datos.",
-        word: { ko: "한파", rom: "hanpa", mean: "ola de frío", exKo: "수능 날 아침에 한파가 왔어요.", exTr: "La mañana del Suneung llegó la ola de frío." },
-        question: "¿Hay un día del año que en tu país siempre trae cierto clima?",
+        reelWhy: "Si preparas un examen oficial o de certificación, revisa las reglas sobre dispositivos de tu convocatoria. Cada vez más países los prohíben por completo y la lista de aparatos vetados cambia de un año a otro.",
+        word: { ko: "만점", rom: "manjeom", mean: "puntuación perfecta", exKo: "AI가 회계 시험에서 만점을 받았어요.", exTr: "La IA sacó la puntuación perfecta en el examen de contabilidad." },
+        question: "¿Deberían cambiar de formato los exámenes ahora que la IA los resuelve?",
       },
       {
-        id: "261120-ardilla",
-        cat: "NATURALEZA",
-        photo: "squirrel.jpg",
-        pos: "center 40%",
+        id: "261121-silla",
+        cat: "HISTORIA",
+        photo: "silla.jpg",
+        pos: "center 45%",
         source: "Agencia Yonhap",
-        credit: "Foto: Amber Walker / Unsplash · imagen ilustrativa",
-        headline: "<em>6</em> ardillas voladoras vuelven al bosque quemado de Corea",
-        sub: "Año y medio después del peor incendio forestal del país, una especie protegida cría otra vez en 65 nidos artificiales colgados con los vecinos.",
-        short: "Ardillas tras el incendio",
+        credit: "Foto: Kok Leng Yeo / Wikimedia Commons, CC BY 2.0 · imagen ilustrativa",
+        headline: "Gyeongju: la tumba de un noble de hace <em>1.600</em> años con al menos <em>2</em> sacrificados",
+        sub: "Armaduras de hierro, cuentas de ágata y los dientes de un adolescente: una ventana al reino de Silla antes de sus grandes túmulos.",
+        short: "La tumba de Silla",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "En marzo de 2025, el mayor incendio forestal de la historia de Corea arrasó bosques de la provincia de Gyeongsang del Norte. Dañó el entorno del humedal de Janggumegi, en Yeongyang, donde vivían <b>458</b> especies.",
-              "La ardilla voladora siberiana, monumento natural y especie en peligro, anida en los huecos que abren los pájaros carpinteros. Con los árboles quemados se quedó sin casa.",
-              "En octubre de 2025, científicos del Instituto Nacional de Ecología y vecinos del pueblo colgaron <b>65</b> nidos artificiales. Entre julio y octubre de este año encontraron hasta <b>6</b> ardillas usándolos y criando.",
+              "Arqueólogos del Instituto Nacional de Patrimonio Cultural de Gyeongju excavaron una tumba del siglo IV junto al parque de túmulos de Daereungwon, Patrimonio Mundial de la UNESCO, en el sureste de Corea.",
+              "Es una cámara de madera con una fosa principal de <b>6,8</b> por <b>3,8</b> metros. Dentro había <b>2</b> cascos, <b>3</b> corazas, protectores de cuello y cintura, puntas de flecha y adornos de espada en bronce dorado.",
+              "En un lado aparecieron los dientes y la mandíbula de un adolescente. Por la disposición de los restos, el equipo cree que al menos <b>2</b> personas fueron enterradas junto al dueño de la tumba.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "Un bosque quemado tarda más de <b>30</b> años en recuperar su aspecto y más de <b>100</b> en estabilizar su ecosistema. Los nidos son un refugio provisional mientras los árboles crecen.",
-              "Los grandes incendios también golpean a España, Chile o México. La lección de Yeongyang es que una ayuda sencilla, montada con la gente del lugar, acelera el regreso de la fauna.",
-              "Si quieres ayudar en tu zona, busca programas de cajas nido en tu ciudad. Una caja de madera bien colgada, con la entrada del tamaño adecuado, da hogar a aves y pequeños mamíferos mientras el bosque se recupera.",
+              "Silla fue uno de los tres reinos de la antigua Corea y unificó la península en el siglo VII. Esta tumba es anterior a los grandes túmulos de Gyeongju y muestra cómo enterraban a su élite antes de esa época.",
+              "El entierro con acompañantes, llamado sunjang, se prohibió en Silla en el año <b>502</b>. Culturas de América, como la moche en Perú, tenían prácticas parecidas. Hallar juntas armaduras de placas y de láminas es una primicia en Gyeongju.",
+              "Si viajas a Corea, Gyeongju está a unas <b>2</b> horas de Seúl en tren KTX. Daereungwon abre todos los días y en el túmulo Cheonmachong puedes entrar y ver cómo era una tumba por dentro.",
             ],
           },
         ],
-        reelWhy: "Si quieres ayudar en tu zona, busca programas de cajas nido en tu ciudad. Una caja de madera bien colgada, con la entrada del tamaño adecuado, da hogar a aves y pequeños mamíferos mientras el bosque se recupera.",
-        word: { ko: "둥지", rom: "dungji", mean: "nido", exKo: "하늘다람쥐가 인공 둥지에 살고 있어요.", exTr: "La ardilla voladora vive en un nido artificial." },
-        question: "¿Has visto un bosque recuperarse después de un incendio?",
+        reelWhy: "Si viajas a Corea, Gyeongju está a unas <b>2</b> horas de Seúl en tren KTX. Daereungwon abre todos los días y en el túmulo Cheonmachong puedes entrar y ver cómo era una tumba por dentro.",
+        word: { ko: "순장", rom: "sunjang", mean: "entierro con acompañantes", exKo: "신라는 502년에 순장을 금지했어요.", exTr: "Silla prohibió el sunjang en el año 502." },
+        question: "¿Qué tumba o sitio antiguo de tu país te ha impresionado más?",
       },
     ],
   },

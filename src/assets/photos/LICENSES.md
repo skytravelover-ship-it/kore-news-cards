@@ -29,3 +29,5 @@
 | mochi.jpg | jesni rawther | https://unsplash.com/photos/3wuJzxdOPHs | Unsplash License | 11/19 겹겹이 찹쌀떡 원조 공방·내용증명 (ES) |
 | coldsnap.jpg | Ethan Brooke | https://unsplash.com/photos/PCjkv_1p1g0 | Unsplash License | 11/20 '수능 한파' 속설 과학적 근거 검증 (ES) |
 | squirrel.jpg | Amber Walker | https://unsplash.com/photos/hXOq5yB69VU | Unsplash License | 11/20 경북 산불 피해지 인공둥지 하늘다람쥐 6마리 (ES) |
+| aiexam.jpg | Jakub Żerdzicki | https://unsplash.com/photos/8wLZi9OhsWU | Unsplash License | 11/21 AI 세무사 회계학개론 만점·90점 이상 33배 (ES) |
+| silla.jpg | Kok Leng Yeo (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Daeneungwon-Tumuli_Park-01.jpg | CC BY 2.0 (Wikimedia Commons) | 11/21 경주 인왕동 4세기 신라 지배층 덧널무덤·순장 (ES) |
