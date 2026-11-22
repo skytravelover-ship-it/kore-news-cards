@@ -1,22 +1,85 @@
 {
- "collected_at": "2026-11-22T06:52:57+00:00",
+ "collected_at": "2026-11-22T19:43:49+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 10
+    "media_count": 13
    },
    "account_day": {
-    "reach": 0,
-    "views": 0,
-    "accounts_engaged": 0,
-    "total_interactions": 0,
+    "reach": 112,
+    "views": 117,
+    "accounts_engaged": 1,
+    "total_interactions": 2,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18081737024417421",
+     "key": "tr/261122-ramyeon/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T17:40:40+0000",
+     "permalink": "https://www.instagram.com/p/DgDXS-liZ3U/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18505395331103575",
+     "key": "tr/261122-bungeoppang/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-22T17:39:45+0000",
+     "permalink": "https://www.instagram.com/reel/DgDXJpsEz3b/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 112,
+      "views": 118,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3390,
+      "ig_reels_video_view_total_time": 379742
+     }
+    },
+    {
+     "id": "18030493334870565",
+     "key": "tr/261122-bungeoppang/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T10:00:33+0000",
+     "permalink": "https://www.instagram.com/p/DgCioYvEod0/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
     {
      "id": "18012762930005909",
      "key": "tr/261109-delivery/carousel",
@@ -235,11 +298,11 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 42
+    "media_count": 43
    },
    "account_day": {
-    "reach": 189,
-    "views": 203,
+    "reach": 124,
+    "views": 137,
     "accounts_engaged": 4,
     "total_interactions": 3,
     "profile_views": 1,
@@ -247,24 +310,45 @@
    },
    "media": [
     {
+     "id": "18087970832326515",
+     "key": "es/261121-silla/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T17:37:57+0000",
+     "permalink": "https://www.instagram.com/p/DgDW-utDsVh/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
      "id": "18072171422630058",
      "key": "es/261121-silla/reel",
      "type": "VIDEO",
      "product": "REELS",
      "timestamp": "2026-11-22T02:26:32+0000",
      "permalink": "https://www.instagram.com/reel/DgBupbUFJur/",
-     "like_count": 0,
+     "like_count": 1,
      "comments_count": 0,
      "metrics": {
-      "reach": 31,
-      "views": 35,
+      "reach": 107,
+      "views": 118,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3803,
-      "ig_reels_video_view_total_time": 121697
+      "total_interactions": 1,
+      "ig_reels_avg_watch_time": 4736,
+      "ig_reels_video_view_total_time": 525770
      }
     },
     {
@@ -298,15 +382,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 3,
-      "views": 3,
+      "reach": 4,
+      "views": 4,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2604,
-      "ig_reels_video_view_total_time": 7812
+      "ig_reels_avg_watch_time": 2045,
+      "ig_reels_video_view_total_time": 8180
      }
     },
     {
