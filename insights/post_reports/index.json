@@ -780,5 +780,47 @@
    "comments": 0
   },
   "at": "2026-11-22T17:40:48+00:00"
+ },
+ "es/261121-silla/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-22T22:50:12+00:00"
+ },
+ "tr/261122-bungeoppang/reel": {
+  "metrics": {
+   "reach": 112,
+   "views": 118,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 3390,
+   "ig_reels_video_view_total_time": 379742
+  },
+  "at": "2026-11-22T22:50:12+00:00"
+ },
+ "tr/261122-ramyeon/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-22T22:50:12+00:00"
  }
 }
