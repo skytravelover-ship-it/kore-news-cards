@@ -700,5 +700,31 @@
    "ig_reels_video_view_total_time": 390594
   },
   "at": "2026-11-21T10:25:02+00:00"
+ },
+ "es/261121-iaexamen/reel": {
+  "metrics": {
+   "reach": 2,
+   "views": 2,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 3542,
+   "ig_reels_video_view_total_time": 7084
+  },
+  "at": "2026-11-22T02:26:40+00:00"
+ },
+ "es/story_digest_261121.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-22T02:26:40+00:00"
  }
 }
