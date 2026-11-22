@@ -754,5 +754,31 @@
    "ig_reels_video_view_total_time": 181767
   },
   "at": "2026-11-22T10:00:55+00:00"
+ },
+ "tr/261122-bungeoppang/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-22T17:40:48+00:00"
+ },
+ "tr/story_digest_261122.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-22T17:40:48+00:00"
  }
 }
