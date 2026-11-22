@@ -726,5 +726,33 @@
    "comments": 0
   },
   "at": "2026-11-22T02:26:40+00:00"
+ },
+ "es/261121-iaexamen/carousel": {
+  "metrics": {
+   "reach": 0,
+   "views": 0,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "profile_visits": 0,
+   "follows": 0
+  },
+  "at": "2026-11-22T10:00:55+00:00"
+ },
+ "es/261121-silla/reel": {
+  "metrics": {
+   "reach": 47,
+   "views": 55,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 3786,
+   "ig_reels_video_view_total_time": 181767
+  },
+  "at": "2026-11-22T10:00:55+00:00"
  }
 }
