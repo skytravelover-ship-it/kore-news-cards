@@ -29,6 +29,8 @@ const TOPIC_TAGS = {
   "261119-mochi": { es: ["#postres", "#mochi"] },
   "261121-iaexamen": { es: ["#inteligenciaartificial", "#examen"] },
   "261121-silla": { es: ["#gyeongju", "#arqueología"] },
+  "261122-bungeoppang": { tr: ["#sokaklezzeti", "#kış"], es: ["#comidacallejera", "#invierno"] },
+  "261122-ramyeon": { tr: ["#ramyeon", "#ihracat"], es: ["#ramyeon", "#exportaciones"] },
 };
 // 인스타는 2025-12부터 해시태그 최대 5개: 계정 태그 1 + 국가 2 + 주제 2
 const tags = (lang, id) => [BASE_TAGS[lang][4], BASE_TAGS[lang][0], BASE_TAGS[lang][3], ...((TOPIC_TAGS[id] || {})[lang] || []).slice(0, 2)].join(" ");

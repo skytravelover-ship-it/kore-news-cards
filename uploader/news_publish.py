@@ -128,6 +128,17 @@ class Api:
         d = (self.call("GET", f"{self.user}/content_publishing_limit", fields="config,quota_usage").get("data") or [{}])[0]
         return d.get("config", {}).get("quota_total", 50) - d.get("quota_usage", 0)
 
+    def just_published(self, item, known_ids, within=300):
+        """media_publish 가 오류(예: code 4 / 2207051 '행동이 차단')를 돌려줘도 실제로는 게시되는 경우가 있다.
+        방금(within 초 안에) 생긴, 아직 기록 안 된 같은 종류의 게시물이 있으면 그것을 돌려준다."""
+        want = {"carousel": "CAROUSEL_ALBUM", "reel": "VIDEO", "story": "IMAGE"}.get(item["type"])
+        now = datetime.now(timezone.utc)
+        for m in self.call("GET", f"{self.user}/media", fields="id,timestamp,media_type", limit=5).get("data", []):
+            t = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
+            if m["id"] not in known_ids and m.get("media_type") == want and (now - t).total_seconds() < within:
+                return m["id"]
+        return None
+
     def publish(self, item, urls, caption):
         extra = {}
         if item.get("collaborators"):
@@ -276,8 +287,16 @@ def main():
         try:
             mid = api.publish(it, urls, caption)
         except Exception as e:
-            print(f"[{k}] 게시 실패: {e}")
-            continue
+            mid = None
+            if kind == "ig" and it["type"] != "story" and "media_publish" in str(e):
+                try:
+                    mid = api.just_published(it, {v.get("media_id") for v in state.values()})
+                except Exception as e2:
+                    print(f"    ⚠ 최근 게시물 확인 실패: {e2}")
+            if not mid:
+                print(f"[{k}] 게시 실패: {e}")
+                continue
+            print(f"[{k}] media_publish 오류가 났지만 게시물이 생겼음 → 게시됨으로 기록 ({str(e)[:160]})")
         state[k] = {"media_id": mid, "published_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
         STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         cid, link = api.after(mid, comment)

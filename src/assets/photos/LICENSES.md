@@ -31,3 +31,5 @@
 | squirrel.jpg | Amber Walker | https://unsplash.com/photos/hXOq5yB69VU | Unsplash License | 11/20 경북 산불 피해지 인공둥지 하늘다람쥐 6마리 (ES) |
 | aiexam.jpg | Jakub Żerdzicki | https://unsplash.com/photos/8wLZi9OhsWU | Unsplash License | 11/21 AI 세무사 회계학개론 만점·90점 이상 33배 (ES) |
 | silla.jpg | Kok Leng Yeo (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Daeneungwon-Tumuli_Park-01.jpg | CC BY 2.0 (Wikimedia Commons) | 11/21 경주 인왕동 4세기 신라 지배층 덧널무덤·순장 (ES) |
+| bungeoppang.jpg | Chae Ji-young (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:%EC%8B%9C%EC%9E%A5_2.jpg | CC BY 4.0 (Wikimedia Commons) | 11/22 초저가 붕어빵집 4개 1천원 (TR·ES) |
+| ramyeonshelf.jpg | Zoshua Colah | https://unsplash.com/photos/MP1w4QdqTBA | Unsplash License | 11/22 K-라면 수출 20억달러 육박 (TR·ES) |
