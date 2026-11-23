@@ -822,5 +822,45 @@
    "follows": 0
   },
   "at": "2026-11-22T22:50:12+00:00"
+ },
+ "tr/261122-ramyeon/reel": {
+  "metrics": {
+   "reach": 107,
+   "views": 112,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 3968,
+   "ig_reels_video_view_total_time": 420711
+  },
+  "at": "2026-11-23T03:22:00+00:00"
+ },
+ "es/261122-bungeoppang/reel": {
+  "metrics": {
+   "reach": 99,
+   "views": 106,
+   "saved": 1,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 3094,
+   "ig_reels_video_view_total_time": 309402
+  },
+  "at": "2026-11-23T03:22:00+00:00"
+ },
+ "es/story_digest_261122.jpg/story": {
+  "metrics": {
+   "reach": null,
+   "views": null,
+   "replies": null,
+   "shares": null,
+   "navigation": null,
+   "likes": 0,
+   "comments": 0
+  },
+  "at": "2026-11-23T03:22:00+00:00"
  }
 }
