@@ -1,0 +1,1219 @@
+{
+ "collected_at": "2026-11-23T07:44:32+00:00",
+ "accounts": {
+  "tr": {
+   "account": {
+    "username": "korede.bugun",
+    "followers_count": 0,
+    "follows_count": 0,
+    "media_count": 14
+   },
+   "account_day": {
+    "reach": 218,
+    "views": 229,
+    "accounts_engaged": 1,
+    "total_interactions": 2,
+    "profile_views": 1,
+    "follows_and_unfollows": null
+   },
+   "media": [
+    {
+     "id": "18104052236185786",
+     "key": "tr/261122-ramyeon/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-22T22:48:04+0000",
+     "permalink": "https://www.instagram.com/reel/DgD6b7KjPeU/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 107,
+      "views": 112,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3968,
+      "ig_reels_video_view_total_time": 420711
+     }
+    },
+    {
+     "id": "18081737024417421",
+     "key": "tr/261122-ramyeon/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T17:40:40+0000",
+     "permalink": "https://www.instagram.com/p/DgDXS-liZ3U/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18505395331103575",
+     "key": "tr/261122-bungeoppang/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-22T17:39:45+0000",
+     "permalink": "https://www.instagram.com/reel/DgDXJpsEz3b/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 112,
+      "views": 118,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3390,
+      "ig_reels_video_view_total_time": 379742
+     }
+    },
+    {
+     "id": "18030493334870565",
+     "key": "tr/261122-bungeoppang/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T10:00:33+0000",
+     "permalink": "https://www.instagram.com/p/DgCioYvEod0/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18012762930005909",
+     "key": "tr/261109-delivery/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-09T20:54:27+0000",
+     "permalink": "https://www.instagram.com/p/DfiPI7vAAqc/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18091604285251979",
+     "key": "tr/261108-fireworks/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-09T10:19:57+0000",
+     "permalink": "https://www.instagram.com/p/DfhGhrXDtVv/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18142236238615327",
+     "key": "tr/261104-packimage/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-04T16:27:30+0000",
+     "permalink": "https://www.instagram.com/reel/DfU4kealQSR/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 109,
+      "views": 123,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3890,
+      "ig_reels_video_view_total_time": 431883
+     }
+    },
+    {
+     "id": "18124256014980639",
+     "key": "tr/261103-seoulspend/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-03T16:43:07+0000",
+     "permalink": "https://www.instagram.com/reel/DfSVkXfEmL9/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 102,
+      "views": 108,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3924,
+      "ig_reels_video_view_total_time": 408139
+     }
+    },
+    {
+     "id": "18119552414104500",
+     "key": "tr/261102-pensiongap/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-02T19:52:43+0000",
+     "permalink": "https://www.instagram.com/reel/DfQGdiWk-Yq/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 104,
+      "views": 111,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4546,
+      "ig_reels_video_view_total_time": 472813
+     }
+    },
+    {
+     "id": "18350343583248935",
+     "key": "tr/261102-pensiongap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-02T09:46:38+0000",
+     "permalink": "https://www.instagram.com/p/DfPBI_jFzUo/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18119816155791143",
+     "key": "tr/261101-aiglasses/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-01T19:38:11+0000",
+     "permalink": "https://www.instagram.com/reel/DfNgALMIE5e/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 107,
+      "views": 119,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3410,
+      "ig_reels_video_view_total_time": 378538
+     }
+    },
+    {
+     "id": "17886692598688675",
+     "key": "tr/261101-aiglasses/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-01T15:05:13+0000",
+     "permalink": "https://www.instagram.com/p/DfNAziVl9_h/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "17988920973093187",
+     "key": "tr/halloween/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-01T15:04:15+0000",
+     "permalink": "https://www.instagram.com/reel/DfNAp0yCJZ1/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 104,
+      "views": 115,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4628,
+      "ig_reels_video_view_total_time": 486000
+     }
+    },
+    {
+     "id": "17981142144137953",
+     "key": "tr/halloween/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-10-31T16:08:35+0000",
+     "permalink": "https://www.instagram.com/p/DfKjQQqF5nz/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    }
+   ],
+   "errors": []
+  },
+  "es": {
+   "account": {
+    "username": "hoy.encorea",
+    "followers_count": 2,
+    "follows_count": 0,
+    "media_count": 46
+   },
+   "account_day": {
+    "reach": 337,
+    "views": 364,
+    "accounts_engaged": 5,
+    "total_interactions": 5,
+    "profile_views": 1,
+    "follows_and_unfollows": null
+   },
+   "media": [
+    {
+     "id": "18049414655634781",
+     "key": "es/261122-ramyeon/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-23T03:21:55+0000",
+     "permalink": "https://www.instagram.com/reel/DgEZxgEgkxo/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 105,
+      "views": 114,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4197,
+      "ig_reels_video_view_total_time": 432355
+     }
+    },
+    {
+     "id": "17908581564355974",
+     "key": "es/261122-bungeoppang/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-23T03:21:13+0000",
+     "permalink": "https://www.instagram.com/p/DgEZvB6lwT6/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18105394418437726",
+     "key": "es/261122-bungeoppang/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-22T22:49:50+0000",
+     "permalink": "https://www.instagram.com/reel/DgD6oLriK4c/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 99,
+      "views": 106,
+      "saved": 1,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 1,
+      "ig_reels_avg_watch_time": 3094,
+      "ig_reels_video_view_total_time": 309402
+     }
+    },
+    {
+     "id": "18087970832326515",
+     "key": "es/261121-silla/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T17:37:57+0000",
+     "permalink": "https://www.instagram.com/p/DgDW-utDsVh/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18072171422630058",
+     "key": "es/261121-silla/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-22T02:26:32+0000",
+     "permalink": "https://www.instagram.com/reel/DgBupbUFJur/",
+     "like_count": 1,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 111,
+      "views": 122,
+      "saved": 0,
+      "shares": 0,
+      "likes": 1,
+      "comments": 0,
+      "total_interactions": 1,
+      "ig_reels_avg_watch_time": 4740,
+      "ig_reels_video_view_total_time": 545193
+     }
+    },
+    {
+     "id": "17946671958090961",
+     "key": "es/261121-iaexamen/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-22T02:25:58+0000",
+     "permalink": "https://www.instagram.com/p/DgBunbViTJd/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18093799544678289",
+     "key": "es/261121-iaexamen/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-21T22:23:22+0000",
+     "permalink": "https://www.instagram.com/reel/DgBS0CKk9BD/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 6,
+      "views": 7,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 5715,
+      "ig_reels_video_view_total_time": 40009
+     }
+    },
+    {
+     "id": "17979547496934525",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-21T17:42:12+0000",
+     "permalink": "https://www.instagram.com/p/DgAyqxFjdou/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "17883470688549012",
+     "key": "es/261120-ardilla/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-21T02:52:11+0000",
+     "permalink": "https://www.instagram.com/reel/Df_MxKECJlC/",
+     "like_count": 2,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 103,
+      "views": 106,
+      "saved": 0,
+      "shares": 0,
+      "likes": 2,
+      "comments": 0,
+      "total_interactions": 2,
+      "ig_reels_avg_watch_time": 3798,
+      "ig_reels_video_view_total_time": 395082
+     }
+    },
+    {
+     "id": "17953077627302381",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-21T02:51:26+0000",
+     "permalink": "https://www.instagram.com/p/Df_MugCksu6/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18119007932326833",
+     "key": "es/261120-frio/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-20T21:32:35+0000",
+     "permalink": "https://www.instagram.com/reel/Df-oNv_oVwN/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 29,
+      "views": 30,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 6210,
+      "ig_reels_video_view_total_time": 173889
+     }
+    },
+    {
+     "id": "17931728196184736",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-20T13:37:20+0000",
+     "permalink": "https://www.instagram.com/p/Df9x2eplyXP/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18115247606128457",
+     "key": "es/261119-mochi/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-20T04:41:57+0000",
+     "permalink": "https://www.instagram.com/reel/Df80iVZCnU7/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 38,
+      "views": 39,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4765,
+      "ig_reels_video_view_total_time": 185844
+     }
+    },
+    {
+     "id": "18111017333205172",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-20T04:41:11+0000",
+     "permalink": "https://www.instagram.com/p/Df80f6eCaMN/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18123103033996023",
+     "key": "es/261119-alarma/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-19T23:48:36+0000",
+     "permalink": "https://www.instagram.com/reel/Df8S-8AjEYB/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 3,
+      "views": 6,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 7234,
+      "ig_reels_video_view_total_time": 21703
+     }
+    },
+    {
+     "id": "18120593671795738",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-19T01:09:18+0000",
+     "permalink": "https://www.instagram.com/p/Df53dTYjBkj/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18110708045359097",
+     "key": "es/261117-aicheat/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-18T02:40:14+0000",
+     "permalink": "https://www.instagram.com/reel/Df3dBzND5C-/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 5,
+      "views": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 853,
+      "ig_reels_video_view_total_time": 3412
+     }
+    },
+    {
+     "id": "18081769058738436",
+     "key": null,
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-18T02:39:34+0000",
+     "permalink": "https://www.instagram.com/p/Df3c_mmjQWI/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18110551358619058",
+     "key": "es/261117-atm/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-17T20:52:15+0000",
+     "permalink": "https://www.instagram.com/reel/Df21NVdjMgY/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 0,
+      "views": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 0,
+      "ig_reels_video_view_total_time": 0
+     }
+    },
+    {
+     "id": "18134982292769462",
+     "key": "es/261115-tanuki/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-16T03:07:10+0000",
+     "permalink": "https://www.instagram.com/p/DfyWjPaGqCU/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18155756698542923",
+     "key": "es/261115-tanuki/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-15T19:54:31+0000",
+     "permalink": "https://www.instagram.com/reel/Dfxk97UABJJ/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 35,
+      "views": 35,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3289,
+      "ig_reels_video_view_total_time": 115123
+     }
+    },
+    {
+     "id": "18125251055064794",
+     "key": "es/261114-googlemap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-15T06:53:52+0000",
+     "permalink": "https://www.instagram.com/p/DfwLsdtk3SV/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 1,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "17920122078525638",
+     "key": "es/261114-googlemap/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-14T20:41:51+0000",
+     "permalink": "https://www.instagram.com/reel/DfvFlxUjNDS/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 8,
+      "views": 9,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2176,
+      "ig_reels_video_view_total_time": 19588
+     }
+    },
+    {
+     "id": "18470730676141813",
+     "key": "es/261113-scarf/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-14T02:48:14+0000",
+     "permalink": "https://www.instagram.com/p/DftKy4vDQZc/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18210246643371323",
+     "key": "es/261113-scarf/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-13T22:52:58+0000",
+     "permalink": "https://www.instagram.com/reel/Dfsv1tPAnE2/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 115,
+      "views": 121,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 8490,
+      "ig_reels_video_view_total_time": 967909
+     }
+    },
+    {
+     "id": "18162581017508086",
+     "key": "es/261112-medicine/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-13T02:44:43+0000",
+     "permalink": "https://www.instagram.com/p/DfqlmVrjTco/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 3,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18142186396745196",
+     "key": "es/261112-medicine/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-12T22:22:05+0000",
+     "permalink": "https://www.instagram.com/reel/DfqHgQ5AR-Q/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3662,
+      "ig_reels_video_view_total_time": 3662
+     }
+    },
+    {
+     "id": "18011713712778569",
+     "key": "es/261110-ramyeon/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-11T03:02:37+0000",
+     "permalink": "https://www.instagram.com/p/DfleDaFFOop/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "17940208872127483",
+     "key": "es/261110-ramyeon/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-10T23:43:53+0000",
+     "permalink": "https://www.instagram.com/reel/DflHR7RE877/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 5,
+      "views": 5,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2154,
+      "ig_reels_video_view_total_time": 12925
+     }
+    },
+    {
+     "id": "17929599555441289",
+     "key": "es/261109-delivery/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-10T03:02:57+0000",
+     "permalink": "https://www.instagram.com/reel/Dfi5Qsngm7U/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 35,
+      "views": 35,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3138,
+      "ig_reels_video_view_total_time": 109844
+     }
+    },
+    {
+     "id": "18015039074994685",
+     "key": "es/261109-delivery/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-09T20:53:39+0000",
+     "permalink": "https://www.instagram.com/p/DfiPDG0jU9b/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 5,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18376093039244223",
+     "key": "es/261108-kbofinal/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-09T02:39:13+0000",
+     "permalink": "https://www.instagram.com/reel/DfgRwBoFTZj/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 9,
+      "views": 10,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3343,
+      "ig_reels_video_view_total_time": 30095
+     }
+    },
+    {
+     "id": "18114898421601869",
+     "key": "es/261108-kbofinal/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-08T19:39:25+0000",
+     "permalink": "https://www.instagram.com/p/DffhvqemE4L/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 5,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18155365018538769",
+     "key": "es/261104-packimage/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-05T02:22:45+0000",
+     "permalink": "https://www.instagram.com/reel/DfV8sULE8o6/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 13,
+      "views": 11,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 1860,
+      "ig_reels_video_view_total_time": 22322
+     }
+    },
+    {
+     "id": "18118252085105560",
+     "key": "es/261104-packimage/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-04T22:02:53+0000",
+     "permalink": "https://www.instagram.com/p/DfVe_zHgIaO/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 5,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18106910339306680",
+     "key": "es/261103-seoulspend/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-04T01:57:16+0000",
+     "permalink": "https://www.instagram.com/reel/DfTU-XCiJXM/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 5,
+      "views": 6,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4441,
+      "ig_reels_video_view_total_time": 22205
+     }
+    },
+    {
+     "id": "18494096260106924",
+     "key": "es/261103-seoulspend/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-03T22:03:57+0000",
+     "permalink": "https://www.instagram.com/p/DfS6UJaF4WW/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 3,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 1,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18034598234890656",
+     "key": "es/261102-pensiongap/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-03T01:56:22+0000",
+     "permalink": "https://www.instagram.com/reel/DfQwFOMEYnX/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 11,
+      "views": 12,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 5110,
+      "ig_reels_video_view_total_time": 66437
+     }
+    },
+    {
+     "id": "18147901807600758",
+     "key": "es/261102-pensiongap/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-02T19:53:39+0000",
+     "permalink": "https://www.instagram.com/p/DfQGmxDmkVW/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 2,
+      "views": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18063635069800329",
+     "key": "es/halloween/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-02T02:28:17+0000",
+     "permalink": "https://www.instagram.com/reel/DfOO73oEyda/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2682,
+      "ig_reels_video_view_total_time": 5365
+     }
+    },
+    {
+     "id": "18103280525645514",
+     "key": "es/261101-aiglasses/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-11-01T19:38:58+0000",
+     "permalink": "https://www.instagram.com/p/DfNgIWgmpop/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 3,
+      "views": 5,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    },
+    {
+     "id": "18117991334013708",
+     "key": "es/halloween/carousel",
+     "type": "CAROUSEL_ALBUM",
+     "product": "FEED",
+     "timestamp": "2026-10-31T16:35:17+0000",
+     "permalink": "https://www.instagram.com/p/DfKmUytG9Kg/",
+     "like_count": 0,
+     "comments_count": 1,
+     "metrics": {
+      "reach": 3,
+      "views": 6,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 1,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+     }
+    }
+   ],
+   "errors": []
+  }
+ }
+}
