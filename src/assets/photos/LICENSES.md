@@ -33,3 +33,6 @@
 | silla.jpg | Kok Leng Yeo (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Daeneungwon-Tumuli_Park-01.jpg | CC BY 2.0 (Wikimedia Commons) | 11/21 경주 인왕동 4세기 신라 지배층 덧널무덤·순장 (ES) |
 | bungeoppang.jpg | Chae Ji-young (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:%EC%8B%9C%EC%9E%A5_2.jpg | CC BY 4.0 (Wikimedia Commons) | 11/22 초저가 붕어빵집 4개 1천원 (TR·ES) |
 | ramyeonshelf.jpg | Zoshua Colah | https://unsplash.com/photos/MP1w4QdqTBA | Unsplash License | 11/22 K-라면 수출 20억달러 육박 (TR·ES) |
+| tourists.jpg | SKTakek (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Myeongdong-7gil-2023.jpg | CC0 (Wikimedia Commons) | 11/23 방한 외국인 관광객 연간 2천만명 첫 돌파 (TR·ES) |
+| coatroom.jpg | Kanchi1979 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG | CC BY 2.5 (Wikimedia Commons) | 11/23 대한항공 코트룸 서비스 5일 무료 (TR) |
+| leekangin.jpg | Werner100359 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_78_(Lee_Kang-in).jpg | CC BY-SA 4.0 (Wikimedia Commons) | 11/23 이강인 아틀레티코 헤타페전 3-0 (ES) |

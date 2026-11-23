@@ -1,21 +1,25 @@
-// 2026-11-22 한국 뉴스 (TR·ES 공통 2건). 출처: 연합뉴스
-//  - 261122-bungeoppang: 11/22 06:00 '[소셜＋] "여전히 4개에 1천원?"…SNS 타고 입소문 난 초저가 붕어빵집' (AKR20261119119600505)
-//    종로 견지동 노점: 팥 4개 1천원, 슈크림 3개 1천원. 요즘 1개 1천원인 곳 많음. SNS 영상 보고 일산·의정부에서도 옴. 예전엔 1개 200원 시절.
-//    회기동 상인(63, 7년째): 올해 1월 1천원당 5개→4개. 20kg LPG 7년 전 3만→6만원. 하루 이윤 10만→7~8만원. "비싸면 안 사간다".
-//    청량리 상인(62, 23년째): 3년 전 5개→4개. 손님 70% 어르신. 이은희 교수: 연 매출 5천만원 미만 영세 상인 재료비·연료비 지원 검토 제안.
-//  - 261122-ramyeon: 11/22 06:10 '중·미 넘어 유럽·중남미까지…K-라면 연간 수출 20억달러 육박' (AKR20261121023200030)
-//    aT: 1~10월 라면 수출 15억8천510만달러(+26.3%). 작년 연간 15억2천만달러(역대 최대)를 10개월 만에 추월, 연간 20억달러 근접 전망. 2023년 9억5천200만달러. 2014년 이후 12년 연속 증가.
-//    중국 3억9천550만(+23.9%), 미국 2억7천652만(+29.1%), 네덜란드 9천572만(+41.3%, 3위), 영국 6천39만(+41.9%), 독일 3천360만(+17.4%), 멕시코 5천194만(+190.4%).
-//    농심 부산 녹산 수출공장 10월 말 가동, 국내 수출 공급력 연 7억→12억개. 삼양 중국 자싱 공장 내년 1월 가동, 베트남 2천186억원 투자. 삼양 1~3분기 해외매출 1조8천170억원(+36.6%), 농심 1조1천109억원(+14.7%). 오뚜기 구미 2029년까지 2천억원.
-// 사진: Wikimedia Commons(Chae Ji-young, 시장 2.jpg, CC BY 4.0) / Unsplash(Zoshua Colah, 라면 진열대) → 둘 다 temsili görsel / imagen ilustrativa.
-// TR: 11/10부터 인스타 API 게시 제한(code 25)으로 11/11~11/21 게시물 없음. 12일이 지나 오늘은 TR도 만들어 queue에 넣고, 실패하면 워크플로 로그로 확인.
-// ES: 11/17부터 캐러셀 media_publish가 403(code 4, subcode 2207051 "행동이 차단되었습니다")을 돌려주지만 실제로는 게시됨(insights의 '?' 게시물 6건이 실패 시각과 일치). uploader가 이 경우를 게시됨으로 기록하도록 보완.
-// 인사이트(11/22): 표본 충분한 제안 중 'CONSUMO 비중 확대'를 반영 → 오늘 2건 모두 소비자 주제(붕어빵 가격, 라면 수출). 릴스 우선 배치(ES)는 유지.
+// 2026-11-23 한국 뉴스 (TR·ES 공통 1건 + 언어별 1건). 출처: 연합뉴스
+//  - 261123-tourists20m (TR·ES): 11/22 06:31 '[웰컴 2천만] ① 명소 넘어 K-일상으로…판도 바뀐 방한 관광' (AKR20261121042100030) + ② (AKR20261121039600030)
+//    방한객 1975년 63만→1978년 100만→2000년 500만→2012년 1천만→2026년 2천만(사상 처음). 100만→1천만 34년, 1천만→2천만 14년.
+//    2021년 96만7천(코로나), 2025년 1천893만7천(역대 최대, 2019년 1천750만3천 넘음). 2016년 중국인 46.8%. 2025년 대만 +50.1%, 미국 +42.1%(2019 대비). 장거리 비중 15.2→19.0%.
+//    2026년 1~9월 증가분 302만8천 중 중국 40.8%, 대만 15.1%, 일본 14.9%. 1~10월 외국인 카드 소비 18조259억원(+47.2%), 한류관광 소비 11조6천507억(+58.2%), 약국 소비 2천668억(+190.7%).
+//    편의점 바나나우유 조합·한강 라면 유행. 서울 방문율 76.8%, 명동 17.3%·홍대 7.4%·경복궁 7.0%·성수 5.0%·강남 4.5%. 외국인 카드 소비 70.9% 서울. 지방공항 입국 29.0%.
+//  - 261123-coatroom (TR): 11/23 09:30 '"두꺼운 외투 맡기고 가볍게"…대한항공, 코트룸 서비스 운영' (AKR20261123035100003)
+//    12/1~내년 2/28, 인천·김해, 대한항공 국제선 출국객. 1인 1벌, 접수일 포함 최대 5일 무료(2/28 접수 시 3/4까지). 탑승 수속 후 접수처, KE 탑승권 제시.
+//    초과 시 인천 하루 한 벌 2,500원 또는 350마일, 김해 3,000원. 2005년 동계 시즌부터.
+//  - 261123-leekangin (ES): 11/23 07:04 '이강인 벤치서 출발해 45분 뛴 아틀레티코, 헤타페에 3-0 완승' (AKR20261123008700007)
+//    라리가 13R 헤타페 원정(콜리세움), 후반 시작 조니 카르도주와 교체, 4-2-3-1 공격형 MF. 시즌 공식전 16경기 중 15경기, 2골 1도움, 9/17 오사수나전 이후 공격포인트 없음.
+//    슈팅 2(유효 0), 패스 18/20(90%), 결정적 기회 2, 롱패스 2/2, 크로스 1/1. 후반 38분 쇠를로트 킬패스(선방), 3분 뒤 패스→다코남 퇴장·PK→그리말도.
+//    바에나 전 10분, 카르도주 전 30분(알바레스 도움 2). 아틀레티코 10승1무2패 승점 31 3위(바르사 36, 레알 33). 헤타페 승점 12 17위. 이강인 25세. 리그 벤치 출발 3번째.
+//    관련: 'AFC 국제선수 최초 2년 연속 수상'.
+// 사진: Wikimedia Commons(SKTakek, 명동7길 2023, CC0) / Wikimedia Commons(Kanchi1979, 인천공항 출국장, CC BY 2.5) / Wikimedia Commons(Werner100359, 잘츠부르크-PSG 이강인, CC BY-SA 4.0).
+// 인사이트(11/23): 표본 충분한 제안 중 "저장률 0% → '왜 중요한가' 장을 더 실용적으로(숫자·비교·해 볼 방법)"를 반영.
+//   오늘은 모든 게시물의 2장을 ① 배경 ② 현지 숫자 비교(터키·스페인·멕시코 관광객 수 등) ③ 직접 해 볼 방법(구체 시간·금액)으로 고정.
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "22 KASIM 2026",
+    date: "23 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -24,68 +28,68 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261122-bungeoppang",
-        cat: "TÜKETİCİ",
-        photo: "bungeoppang.jpg",
-        pos: "center 60%",
+        id: "261123-tourists20m",
+        cat: "TURİZM",
+        photo: "tourists.jpg",
+        pos: "center 70%",
         source: "Yonhap Haber Ajansı",
-        credit: "Foto: Chae Ji-young / Wikimedia Commons, CC BY 4.0 · temsili görsel",
-        headline: "<em>1.000</em> wona <em>4</em> bungeoppang: Seul'ün en ucuz tezgâhları sosyal medyada",
-        sub: "Kışın sokak tatlısı bungeoppang'ın fiyatı çoğu yerde tanesi 1.000 won. Hâlâ dörtlü satanlar var ve videoları izleyenler başka şehirlerden geliyor.",
-        short: "Ucuz bungeoppang",
+        credit: "Foto: SKTakek / Wikimedia Commons, CC0 · temsili görsel",
+        headline: "Kore bir yılda ilk kez <em>20</em> milyon yabancı turist ağırladı",
+        sub: "Ziyaretçiler artık ünlü noktaları gezmekle yetinmiyor; Koreliler gibi yiyor, giyiniyor ve eğleniyor. Harcama da buna göre değişti.",
+        short: "20 milyon turist",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Seul Jongno'daki bir tezgâhta <b>4</b> kırmızı fasulyeli bungeoppang <b>1.000</b> won, yani 1 dolardan az. Şehrin çoğu yerinde tanesi 1.000 won. 'En ucuz tezgâh' videoları yayılınca önünde kuyruk oluştu.",
-              "Dongdaemun'daki bir satıcı <b>7</b> yıldır aynı köşede. Ocakta 1.000 wona verdiği sayıyı <b>5</b>'ten <b>4</b>'e indirdi: 20 kiloluk gaz tüpü 7 yılda 30.000 wondan 60.000 wona çıktı.",
-              "Günlük kazancı 100.000 wondan 70-80.000 wona düştü ama fiyatı artırmıyor: 'Pahalı olursa kimse almaz.' 23 yıllık başka bir satıcı, müşterilerinin yüzde <b>70</b>'inin yaşlı olduğunu söylüyor.",
+              "Güney Kore'ye gelen yabancı ziyaretçi sayısı yıl bitmeden <b>20</b> milyonu geçti; bu bir ilk. 1975'te 630 bin, 2012'de 10 milyondu. 1 milyondan 10 milyona 34 yılda, 10 milyondan 20 milyona 14 yılda çıktı.",
+              "Pandemide, 2021'de 967 bine düşen sayı geçen yıl <b>18,9</b> milyonla rekor kırmıştı. Bu yılın ocak-eylül artışının yüzde <b>40,8</b>'i Çin'den geldi; Tayvan yüzde 15,1, Japonya yüzde 14,9 pay aldı.",
+              "Yabancıların ocak-ekim arasındaki kart harcaması <b>18</b> trilyon wonu aştı, yüzde 47,2 artış. En hızlı büyüyen kalem eczaneler: kozmetik ve bakım ürünleri için harcama yüzde <b>190,7</b> arttı.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Bungeoppang 'sazan ekmeği' demek: balık kalıbında pişen, içi tatlı kırmızı fasulye ya da krema dolu bir kış tatlısı. Yüksek enflasyon döneminde ucuz kalan tezgâhlar gençler için keşif içeriğine dönüştü.",
-              "Korecede yakınında tezgâh olan mahalleyi anlatan bir argo bile var: 'bungsegwon'. Uzmanlar, yıllık cirosu 50 milyon wonun altındaki küçük satıcılara malzeme ve yakıt desteği öneriyor.",
-              "Kore'ye gidersen kasım-şubat arasında metro çıkışlarındaki tezgâhlara bak. Yanında bozuk para olsun. Kırmızı fasulye için 'pat', krema için 'syukeurim' de.",
+              "İlgi dizi setlerinden gündelik hayata kaydı: markette muzlu sütü dondurmayla karıştırmak, Han Nehri kıyısında ramyeon pişirmek. Uzmanlar buna 'yerli gibi yaşama' turizmi diyor; Kore'nin sıradan sokakları bile turistik varlık oldu.",
+              "Ziyaretçilerin yüzde <b>76,8</b>'i Seul'e gidiyor; en sevilen 5 yer de Seul'de: Myeongdong, Hongdae, Gyeongbokgung Sarayı, Seongsu, Gangnam. Kart harcamasının yüzde 70,9'u başkentte kalıyor. Kıyas: Türkiye 2024'te yaklaşık 52 milyon yabancı ziyaretçi ağırladı.",
+              "Gidersen kalabalığın dışına çık: Seul'den KTX hızlı treniyle Busan yaklaşık 2,5 saat, Gyeongju yaklaşık 2 saat. Yabancıların yalnızca yüzde <b>29</b>'u taşra havalimanlarından giriyor; Busan'a uçmak genelde daha sakin.",
             ],
           },
         ],
-        reelWhy: "Kore'ye gidersen kasım-şubat arasında metro çıkışlarındaki tezgâhlara bak. Yanında bozuk para olsun. Kırmızı fasulye için 'pat', krema için 'syukeurim' de.",
-        word: { ko: "붕어빵", rom: "bungeoppang", mean: "balık şeklinde çörek; mecazen 'birbirinin kopyası'", exKo: "아빠랑 아들이 붕어빵이에요.", exTr: "Baba ile oğul birbirinin kopyası." },
-        question: "Senin şehrinde kışın en ucuz sokak lezzeti ne, kaça satılıyor?",
+        reelWhy: "Gidersen kalabalığın dışına çık: Seul'den KTX hızlı treniyle Busan yaklaşık 2,5 saat, Gyeongju yaklaşık 2 saat. Yabancıların yalnızca yüzde 29'u taşra havalimanlarından giriyor; Busan'a uçmak genelde daha sakin.",
+        word: { ko: "관광객", rom: "gwangwanggaek", mean: "turist, ziyaretçi", exKo: "올해 외국인 관광객이 2천만 명을 넘었어요.", exTr: "Bu yıl yabancı turist sayısı 20 milyonu geçti." },
+        question: "Kore'ye gitsen ilk durağın Seul mü olurdu, yoksa başka bir şehir mi?",
       },
       {
-        id: "261122-ramyeon",
-        cat: "TÜKETİCİ",
-        photo: "ramyeonshelf.jpg",
+        id: "261123-coatroom",
+        cat: "YAŞAM",
+        photo: "coatroom.jpg",
         pos: "center 50%",
         source: "Yonhap Haber Ajansı",
-        credit: "Foto: Zoshua Colah / Unsplash · temsili görsel",
-        headline: "Kore ramyeon ihracatı 10 ayda <em>1,59</em> milyar dolar: Avrupa'da yüzde <em>40</em>'ı aşan artış",
-        sub: "Ocak-ekim satışları 2025'in tamamını geride bıraktı. Yıl sonunda 2 milyar dolara yaklaşması bekleniyor; fabrikalar peş peşe açılıyor.",
-        short: "Ramyeon ihracatı",
+        credit: "Foto: Kanchi1979 / Wikimedia Commons, CC BY 2.5 · temsili görsel",
+        headline: "Kışın sıcak ülkeye uçan Koreliler montunu havalimanına bırakıyor: <em>5</em> gün ücretsiz",
+        sub: "Korean Air, 1 Aralık'tan itibaren Incheon ve Busan havalimanlarında 'mont odası' hizmetini yeniden açıyor. 2005'ten beri her kış sürüyor.",
+        short: "Havalimanında mont odası",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Kore'nin ramyeon ihracatı ocak-ekim arasında <b>1,59</b> milyar dolara ulaştı; geçen yılın aynı dönemine göre yüzde <b>26,3</b> artış. 10 ayda 2025'in tamamı (1,52 milyar dolar) geride kaldı.",
-              "En büyük pazar Çin (<b>396</b> milyon dolar), ikinci ABD (<b>277</b> milyon). Avrupa hızlı büyüyor: Hollanda yüzde 41,3 artışla üçüncü sırada, İngiltere yüzde 41,9, Almanya yüzde 17,4 arttı.",
-              "Üreticiler kapasite kuruyor. Nongshim Busan'daki ihracat fabrikasını ekimde çalıştırdı; yıllık kapasite <b>700</b> milyondan <b>1,2</b> milyar pakete çıkıyor. Samyang ocakta Çin'de üretime başlıyor.",
+              "Korean Air, <b>1</b> Aralık ile <b>28</b> Şubat arasında dış hat yolcularının kışlık montunu Incheon ve Busan Gimhae havalimanlarında saklayacak. Yolcu başına bir mont, teslim günü dahil <b>5</b> gün ücretsiz.",
+              "Kullanımı basit: check-in'den sonra havalimanındaki teslim noktasına git, KE kodlu uçuşun biniş kartını göster ve montu bırak. Dönüşte aynı noktadan alıyorsun.",
+              "5 günden sonra ücret başlıyor: Incheon'da günde mont başına <b>2.500</b> won (2 dolardan az) ya da 350 mil, Gimhae'de 3.000 won. Hizmet 2005 kışından beri her yıl sunuluyor.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "2023'te ihracat 952 milyon dolardı; bu yıl 2 milyara yaklaşıyor, yani 3 yılda iki kat. Artış 2014'ten beri <b>12</b> yıldır kesintisiz: K-pop ve dizilerle başlayan merak mutfağa indi.",
-              "Buldak'ın sahibi Samyang, yurt dışında fabrikası olmadan 9 ayda <b>1,8</b> trilyon won yurt dışı satış yaptı (yüzde 36,6 artış). Vietnam'a 218,6 milyar wonluk fabrika da planlıyor.",
-              "Denemek istersen Asya marketlerinde Shin, Buldak ya da Jin paketlerine bak. Korelilerin tarifi: 550 ml su, 4,5 dakika kaynatma ve sonunda bir yumurta.",
+              "Kore kışı sert: Seul'de ocak ortalaması sıfırın altında, bazı günler eksi 10'u görür. Bu yüzden kış tatilinde Tayland, Vietnam ve Filipinler gibi sıcak ülkeler tercih edilir; kalın mont valizde boşuna yer kaplar.",
+              "Havalimanına kadar mont, uçakta tişört: Koreli yolcuların kışlık alışkanlığı bu. Incheon Havalimanı böyle küçük hizmetlerle bilinir; aktarma yolcularına ücretsiz duş, dinlenme alanı ve geleneksel kültür atölyeleri de var.",
+              "Kore'den Korean Air ile sıcak bir ülkeye uçacaksan: montu check-in'den hemen sonra bırak, dönüşte bagajını aldıktan sonra aynı noktaya uğra. Tatil 10 günse ek 5 gün için Incheon'da <b>12.500</b> won ödersin.",
             ],
           },
         ],
-        reelWhy: "Denemek istersen Asya marketlerinde Shin, Buldak ya da Jin paketlerine bak. Korelilerin tarifi: 550 ml su, 4,5 dakika kaynatma ve sonunda bir yumurta.",
-        word: { ko: "수출", rom: "suchul", mean: "ihracat", exKo: "한국 라면 수출이 12년 연속 늘었어요.", exTr: "Kore ramyeon ihracatı 12 yıldır üst üste arttı." },
-        question: "Kore ramyeonu denedin mi? Hangisi favorin?",
+        reelWhy: "Kore'den Korean Air ile sıcak bir ülkeye uçacaksan: montu check-in'den hemen sonra bırak, dönüşte bagajını aldıktan sonra aynı noktaya uğra. Tatil 10 günse ek 5 gün için Incheon'da 12.500 won ödersin.",
+        word: { ko: "외투", rom: "oetu", mean: "mont, palto", exKo: "공항에 외투를 맡기고 떠났어요.", exTr: "Montu havalimanına bırakıp yola çıktım." },
+        question: "Senin havalimanında böyle bir hizmet olsa kullanır mıydın?",
       },
     ],
   },
@@ -93,7 +97,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "22 NOV 2026",
+    date: "23 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -102,68 +106,68 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261122-bungeoppang",
-        cat: "CONSUMO",
-        photo: "bungeoppang.jpg",
-        pos: "center 60%",
+        id: "261123-tourists20m",
+        cat: "TURISMO",
+        photo: "tourists.jpg",
+        pos: "center 70%",
         source: "Agencia Yonhap",
-        credit: "Foto: Chae Ji-young / Wikimedia Commons, CC BY 4.0 · imagen ilustrativa",
-        headline: "<em>4</em> bungeoppang por <em>1.000</em> wones: los puestos más baratos de Seúl, virales en redes",
-        sub: "El dulce callejero del invierno coreano ya cuesta 1.000 wones la pieza en muchas esquinas. Los puestos que aún dan cuatro atraen a clientes de otras ciudades.",
-        short: "Bungeoppang a 1.000",
+        credit: "Foto: SKTakek / Wikimedia Commons, CC0 · imagen ilustrativa",
+        headline: "Corea recibe por primera vez <em>20</em> millones de turistas extranjeros en un año",
+        sub: "Los visitantes ya no se conforman con los monumentos: comen, se visten y se divierten como coreanos. El gasto cambió con ellos.",
+        short: "20 millones de turistas",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "En un puesto del centro de Seúl, <b>4</b> bungeoppang de judía roja cuestan <b>1.000</b> wones, menos de un dólar. En gran parte de la ciudad uno solo ya vale eso. Los videos de 'el puesto más barato' llenan las redes y las filas.",
-              "Un vendedor con <b>7</b> años en la misma esquina bajó en enero de <b>5</b> a <b>4</b> piezas por 1.000 wones: el tanque de gas de 20 kilos pasó de 30.000 a 60.000 wones en siete años.",
-              "Su ganancia diaria cayó de 100.000 a entre 70.000 y 80.000 wones, pero no sube el precio: 'Si es caro, nadie compra'. Otro vendedor, con 23 años en el oficio, dice que el <b>70</b> % de sus clientes son mayores.",
+              "Corea del Sur superó los <b>20</b> millones de visitantes extranjeros antes de terminar el año, algo nunca visto. En 1975 fueron 630.000 y en 2012, 10 millones. De 1 a 10 millones tardó 34 años; de 10 a 20, solo 14.",
+              "En 2021, en plena pandemia, la cifra cayó a 967.000. El año pasado ya marcó récord con <b>18,9</b> millones. Este año, el <b>40,8</b> % del aumento de enero a septiembre vino de China; Taiwán aportó el 15,1 % y Japón el 14,9 %.",
+              "El gasto con tarjeta de los extranjeros entre enero y octubre pasó de <b>18</b> billones de wones, un 47,2 % más. Lo que más crece son las farmacias: un <b>190,7</b> %, por cosméticos y productos de belleza.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "Bungeoppang significa 'pan de carpa': una masa cocida en molde con forma de pez, rellena de judía roja dulce o crema. Con la inflación alta, los puestos baratos se volvieron contenido viral entre los jóvenes.",
-              "Hay hasta una palabra para vivir cerca de un puesto: bungsegwon. Expertos piden al Gobierno ayudar con ingredientes y gas a los vendedores que facturan menos de 50 millones de wones al año.",
-              "Si viajas a Corea entre noviembre y febrero, busca los puestos junto a las salidas del metro. Lleva monedas y billetes pequeños. Pide 'pat' si quieres judía roja o 'syukeurim' si prefieres crema.",
+              "El interés pasó de las locaciones de series a la vida diaria: mezclar leche de plátano con helado en una tienda 24 horas o cocinar ramyeon a orillas del río Han. Expertos lo llaman 'viajar como un local': hasta las calles comunes de Corea ya son un atractivo.",
+              "El <b>76,8</b> % de los visitantes va a Seúl y los cinco lugares favoritos están allí: Myeongdong, Hongdae, el palacio Gyeongbokgung, Seongsu y Gangnam. El 70,9 % del gasto se queda en la capital. Para comparar: España recibió unos 94 millones de turistas en 2024 y México, unos 45 millones.",
+              "Si viajas, sal de la multitud: desde Seúl, el tren rápido KTX llega a Busan en unas 2 horas y media y a Gyeongju en unas 2. Solo el <b>29</b> % de los extranjeros entra por aeropuertos regionales; volar a Busan suele ser más tranquilo.",
             ],
           },
         ],
-        reelWhy: "Si viajas a Corea entre noviembre y febrero, busca los puestos junto a las salidas del metro. Lleva monedas y billetes pequeños. Pide 'pat' si quieres judía roja o 'syukeurim' si prefieres crema.",
-        word: { ko: "붕어빵", rom: "bungeoppang", mean: "pastel con forma de pez; también 'dos gotas de agua'", exKo: "아빠랑 아들이 붕어빵이에요.", exTr: "Padre e hijo son como dos gotas de agua." },
-        question: "¿Cuál es el antojo callejero de invierno más barato en tu ciudad?",
+        reelWhy: "Si viajas, sal de la multitud: desde Seúl, el tren rápido KTX llega a Busan en unas 2 horas y media y a Gyeongju en unas 2. Solo el 29 % de los extranjeros entra por aeropuertos regionales; volar a Busan suele ser más tranquilo.",
+        word: { ko: "관광객", rom: "gwangwanggaek", mean: "turista, visitante", exKo: "올해 외국인 관광객이 2천만 명을 넘었어요.", exTr: "Este año los turistas extranjeros superaron los 20 millones." },
+        question: "Si fueras a Corea, ¿empezarías por Seúl o por otra ciudad?",
       },
       {
-        id: "261122-ramyeon",
-        cat: "CONSUMO",
-        photo: "ramyeonshelf.jpg",
-        pos: "center 50%",
+        id: "261123-leekangin",
+        cat: "FÚTBOL",
+        photo: "leekangin.jpg",
+        pos: "center 30%",
         source: "Agencia Yonhap",
-        credit: "Foto: Zoshua Colah / Unsplash · imagen ilustrativa",
-        headline: "El ramyeon coreano exporta <em>1.585</em> millones de dólares en 10 meses y México crece un <em>190</em> %",
-        sub: "Las ventas de enero a octubre ya superan todo 2025. El año cerrará cerca de los 2.000 millones y las fábricas se multiplican.",
-        short: "Exportación de ramyeon",
+        credit: "Foto: Werner100359 / Wikimedia Commons, CC BY-SA 4.0 · imagen de archivo",
+        headline: "Lee Kang-in sale en el segundo tiempo y el Atlético golea <em>3-0</em> al Getafe",
+        sub: "El coreano jugó 45 minutos como mediapunta y creó dos ocasiones claras. El Atlético sigue tercero, a cinco puntos del Barcelona.",
+        short: "Lee Kang-in, 45 minutos",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "Corea exportó ramyeon por <b>1.585</b> millones de dólares entre enero y octubre, un <b>26,3</b> % más que un año antes. En 10 meses ya superó todo 2025, que fue récord con 1.520 millones.",
-              "China es el mayor mercado (<b>396</b> millones) y Estados Unidos el segundo (<b>277</b>). México es el que más crece: <b>51,9</b> millones de dólares, un <b>190,4</b> % más. Países Bajos ya es el tercer destino.",
-              "Las fábricas se amplían. Nongshim abrió en octubre una planta solo para exportar en Busan: de <b>700</b> a <b>1.200</b> millones de paquetes al año. Samyang arranca en enero su primera fábrica fuera de Corea, en China.",
+              "Lee Kang-in, de <b>25</b> años, entró al inicio del segundo tiempo por Johnny Cardoso en el Coliseum de Getafe, jornada 13 de LaLiga. Jugó de mediapunta en el 4-2-3-1 de Simeone y el Atlético ganó <b>3-0</b>.",
+              "No marcó ni asistió, pero completó <b>18</b> de 20 pases (90 %), creó 2 ocasiones claras y acertó todos sus pases largos y centros. En el minuto 83 dejó solo a Sørloth ante el portero; el noruego falló.",
+              "Los goles: Baena al minuto 10 y Cardoso al 30, los dos con asistencia de Julián Álvarez, y Grimaldo de penalti al final, tras la expulsión de Djené. El Atlético suma <b>31</b> puntos, tercero tras Barcelona (36) y Real Madrid (33).",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "En 2023 la exportación fue de 952 millones; este año roza los 2.000, el doble en tres años. Lleva <b>12</b> años seguidos subiendo desde 2014: lo que empezó con el K-pop y las series llegó a la cocina.",
-              "Samyang, dueña de Buldak, vendió fuera de Corea <b>1,8</b> billones de wones en nueve meses (un 36,6 % más) sin tener aún fábricas en el extranjero. Ottogi invertirá 200.000 millones de wones en una planta hasta 2029.",
-              "Si quieres probarlo, busca Shin, Buldak o Jin en tiendas asiáticas o grandes supermercados. La receta coreana: 550 ml de agua, 4 minutos y medio de hervor y un huevo al final.",
+              "Lee es el futbolista coreano con más historia en España: llegó a la cantera del Valencia con 10 años, debutó en LaLiga con el Valencia, pasó por el Mallorca y el PSG, y este verano fichó por el Atlético.",
+              "Esta temporada ha jugado <b>15</b> de los 16 partidos oficiales del Atlético, con 2 goles y 1 asistencia, pero no suma desde el gol a Osasuna del 17 de septiembre. Es la tercera vez que empieza en el banquillo en liga.",
+              "Para seguirlo desde Corea hay que madrugar: un partido de las 21:00 en España empieza a las <b>5:00</b> en Seúl. Lee acaba de ser elegido mejor jugador internacional de Asia por la AFC por segundo año seguido, el primero en lograrlo.",
             ],
           },
         ],
-        reelWhy: "Si quieres probarlo, busca Shin, Buldak o Jin en tiendas asiáticas o grandes supermercados. La receta coreana: 550 ml de agua, 4 minutos y medio de hervor y un huevo al final.",
-        word: { ko: "수출", rom: "suchul", mean: "exportación", exKo: "한국 라면 수출이 12년 연속 늘었어요.", exTr: "Las exportaciones de ramyeon coreano llevan 12 años seguidos creciendo." },
-        question: "¿Cuál es tu ramyeon coreano favorito y dónde lo compras?",
+        reelWhy: "Para seguirlo desde Corea hay que madrugar: un partido de las 21:00 en España empieza a las 5:00 en Seúl. Lee acaba de ser elegido mejor jugador internacional de Asia por la AFC por segundo año seguido, el primero en lograrlo.",
+        word: { ko: "교체", rom: "gyoche", mean: "cambio, sustitución", exKo: "이강인이 후반에 교체로 들어갔어요.", exTr: "Lee Kang-in entró como cambio en el segundo tiempo." },
+        question: "¿Lee Kang-in debería ser titular fijo en el Atlético? ¿Qué opinas?",
       },
     ],
   },
