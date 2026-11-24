@@ -1,22 +1,43 @@
 {
- "collected_at": "2026-11-23T23:56:57+00:00",
+ "collected_at": "2026-11-24T09:59:40+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 14
+    "media_count": 15
    },
    "account_day": {
-    "reach": 219,
-    "views": 230,
-    "accounts_engaged": 1,
-    "total_interactions": 2,
-    "profile_views": 1,
+    "reach": 108,
+    "views": 126,
+    "accounts_engaged": 0,
+    "total_interactions": 0,
+    "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18076381589494681",
+     "key": "tr/261124-riders/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-24T07:21:02+0000",
+     "permalink": "https://www.instagram.com/reel/DgHZ7gxjhvl/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 107,
+      "views": 128,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 7043,
+      "ig_reels_video_view_total_time": 739617
+     }
+    },
     {
      "id": "18104052236185786",
      "key": "tr/261122-ramyeon/reel",
@@ -34,8 +55,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3938,
-      "ig_reels_video_view_total_time": 421456
+      "ig_reels_avg_watch_time": 5019,
+      "ig_reels_video_view_total_time": 542072
      }
     },
     {
@@ -76,8 +97,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3390,
-      "ig_reels_video_view_total_time": 379742
+      "ig_reels_avg_watch_time": 3396,
+      "ig_reels_video_view_total_time": 383812
      }
     },
     {
@@ -319,17 +340,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 46
+    "media_count": 47
    },
    "account_day": {
-    "reach": 284,
-    "views": 306,
-    "accounts_engaged": 4,
-    "total_interactions": 4,
+    "reach": 2,
+    "views": 2,
+    "accounts_engaged": 0,
+    "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18113944481268329",
+     "key": "es/261124-oldmaps/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-24T07:23:47+0000",
+     "permalink": "https://www.instagram.com/reel/DgHaPY4gg_N/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 1,
+      "views": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2715,
+      "ig_reels_video_view_total_time": 2715
+     }
+    },
     {
      "id": "18049414655634781",
      "key": "es/261122-ramyeon/reel",
@@ -725,8 +767,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 0,
-      "ig_reels_video_view_total_time": 0
+      "ig_reels_avg_watch_time": 5926,
+      "ig_reels_video_view_total_time": 5926
      }
     },
     {
