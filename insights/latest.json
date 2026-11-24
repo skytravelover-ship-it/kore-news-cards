@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-23T07:44:32+00:00",
+ "collected_at": "2026-11-23T23:56:57+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 14
    },
    "account_day": {
-    "reach": 218,
-    "views": 229,
+    "reach": 219,
+    "views": 230,
     "accounts_engaged": 1,
     "total_interactions": 2,
     "profile_views": 1,
@@ -27,15 +27,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 107,
-      "views": 112,
+      "reach": 108,
+      "views": 113,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3968,
-      "ig_reels_video_view_total_time": 420711
+      "ig_reels_avg_watch_time": 3938,
+      "ig_reels_video_view_total_time": 421456
      }
     },
     {
@@ -322,11 +322,11 @@
     "media_count": 46
    },
    "account_day": {
-    "reach": 337,
-    "views": 364,
-    "accounts_engaged": 5,
-    "total_interactions": 5,
-    "profile_views": 1,
+    "reach": 284,
+    "views": 306,
+    "accounts_engaged": 4,
+    "total_interactions": 4,
+    "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
@@ -403,8 +403,8 @@
      "like_count": 0,
      "comments_count": 1,
      "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 1,
       "saved": 0,
       "shares": 0,
       "likes": 0,
