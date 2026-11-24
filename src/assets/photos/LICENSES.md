@@ -36,3 +36,6 @@
 | tourists.jpg | SKTakek (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Myeongdong-7gil-2023.jpg | CC0 (Wikimedia Commons) | 11/23 방한 외국인 관광객 연간 2천만명 첫 돌파 (TR·ES) |
 | coatroom.jpg | Kanchi1979 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG | CC BY 2.5 (Wikimedia Commons) | 11/23 대한항공 코트룸 서비스 5일 무료 (TR) |
 | leekangin.jpg | Werner100359 (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_78_(Lee_Kang-in).jpg | CC BY-SA 4.0 (Wikimedia Commons) | 11/23 이강인 아틀레티코 헤타페전 3-0 (ES) |
+| hansign.jpg | lee seunghyub | https://unsplash.com/photos/1CWACe2tpX8 | Unsplash License | 11/24 '.HAN' 도메인 한중 분쟁 (TR·ES) |
+| rider.jpg | Huy Q. Tran | https://unsplash.com/photos/XxX5AGKV2pA | Unsplash License | 11/24 배달 라이더 하루 10.9시간 노동·5.4시간 수면 연구 (TR) |
+| oldmap.jpg | Jean-Baptiste Croisey, 1764 (BnF, Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Carte_du_royaume_de_Kau-li_ou_Cor%C3%A9e,_copi%C3%A9e_sur_la_carte_angloise_-_Croisey,_Sc._-_btv1b59631136.jpg | Public domain (Wikimedia Commons), sips -Z 1800 축소 | 11/24 국립중앙박물관 서양 고지도 전시 (ES) |
