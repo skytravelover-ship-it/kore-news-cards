@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-24T09:59:40+00:00",
+ "collected_at": "2026-11-24T22:30:17+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 15
    },
    "account_day": {
-    "reach": 108,
-    "views": 126,
+    "reach": 109,
+    "views": 127,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
@@ -27,15 +27,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 107,
-      "views": 128,
+      "reach": 108,
+      "views": 129,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 7043,
-      "ig_reels_video_view_total_time": 739617
+      "ig_reels_avg_watch_time": 7016,
+      "ig_reels_video_view_total_time": 743764
      }
     },
     {
@@ -343,8 +343,8 @@
     "media_count": 47
    },
    "account_day": {
-    "reach": 2,
-    "views": 2,
+    "reach": 12,
+    "views": 14,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
@@ -361,15 +361,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 1,
-      "views": 1,
+      "reach": 11,
+      "views": 13,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2715,
-      "ig_reels_video_view_total_time": 2715
+      "ig_reels_avg_watch_time": 8317,
+      "ig_reels_video_view_total_time": 99808
      }
     },
     {
@@ -389,8 +389,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4197,
-      "ig_reels_video_view_total_time": 432355
+      "ig_reels_avg_watch_time": 4193,
+      "ig_reels_video_view_total_time": 436078
      }
     },
     {
@@ -935,8 +935,8 @@
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3662,
-      "ig_reels_video_view_total_time": 3662
+      "ig_reels_avg_watch_time": 4789,
+      "ig_reels_video_view_total_time": 9578
      }
     },
     {
