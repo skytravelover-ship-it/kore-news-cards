@@ -61,10 +61,10 @@ jobs:
         run: cd uploader && python3 post_report.py
       - name: Save state
         run: |
-          if [ -n "$(git status --porcelain uploader/state.json insights/post_reports)" ]; then
+          if [ -n "$(git status --porcelain uploader/state.json uploader/guard.json insights/post_reports)" ]; then
             git config user.name "news-bot"
             git config user.email "news-bot@users.noreply.github.com"
-            git add uploader/state.json insights/post_reports
+            git add uploader/state.json uploader/guard.json insights/post_reports
             git commit -m "Record published items / 2h reports"
             git pull --rebase && git push
           fi

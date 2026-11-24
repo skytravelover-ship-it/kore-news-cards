@@ -36,6 +36,48 @@ POSTS = HERE.parent / "posts"
 STATE = HERE / "state.json"
 MAX_LATE_HOURS = 6
 
+# ── 계정 보호 장치 (2026-11-24) ─────────────────────────────
+# 11/22 하루 5개 → 11/23 두 계정 모두 code 25 제한. 그래서 속도를 코드로 묶는다.
+GUARD = HERE / "guard.json"      # {"tr": {"blocked_at": ISO}, ...}  마지막 제한 시각
+COOLDOWN = timedelta(hours=24)   # 제한 뒤 24시간은 아예 안 올림
+WINDOW = timedelta(hours=20)     # '하루' 개수를 셀 창 (매일 같은 슬롯이 몇 분 당겨져도 걸리지 않게 20시간)
+MIN_GAP = timedelta(hours=4)     # 같은 계정 게시 사이 최소 간격
+BLOCK_SIGNS = ('"code":25', "2207050", "2207051")
+
+
+def daily_cap(lang, guard, now):
+    """마지막 제한 뒤 7일 미만: 1개, 21일 미만: 2개, 그 뒤: 3개."""
+    b = guard.get(lang, {}).get("blocked_at")
+    if not b:
+        return 2
+    age = now - datetime.fromisoformat(b)
+    return 1 if age < timedelta(days=7) else 2 if age < timedelta(days=21) else 3
+
+
+def recent_posts(lang, state, now, span):
+    out = []
+    for k, v in state.items():
+        if k.startswith(lang + "/") and k.split("/")[-1] in ("carousel", "reel", "story") and v.get("published_at"):
+            t = datetime.fromisoformat(v["published_at"])
+            if now - t < span:
+                out.append(t)
+    return sorted(out)
+
+
+def guard_reason(lang, guard, state, now):
+    """올리면 안 되는 이유(문자열) 또는 None."""
+    b = guard.get(lang, {}).get("blocked_at")
+    ok_after = b and any(t > datetime.fromisoformat(b) for t in recent_posts(lang, state, now, COOLDOWN))
+    if b and now - datetime.fromisoformat(b) < COOLDOWN and not ok_after:  # 제한 뒤 정상 게시가 이미 됐으면 대기 끝
+        return f"제한 뒤 대기 중 ({b[:16]} 제한, {COOLDOWN.seconds // 3600 or 24}시간 쉼)"
+    cap = daily_cap(lang, guard, now)
+    day = recent_posts(lang, state, now, WINDOW)
+    if len(day) >= cap:
+        return f"하루 한도 {cap}개 채움"
+    if day and now - day[-1] < MIN_GAP:
+        return f"직전 게시와 {MIN_GAP.seconds // 3600}시간 간격 필요"
+    return None
+
 
 def jload(p, default=None):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else default
@@ -207,13 +249,26 @@ class Threads(Api):
             return None, None
 
 
+def kind_is_ig(it):
+    return it["type"] in ("carousel", "reel", "story")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--only")
     ap.add_argument("--ping", action="store_true", help="게시 없이 토큰·계정·한도만 확인")
+    ap.add_argument("--status", action="store_true", help="계정 보호 장치 상태(오늘 한도)만 출력")
     a = ap.parse_args()
+    guard = jload(GUARD, {})
+
+    if a.status:
+        st, now = jload(STATE, {}), datetime.now(timezone.utc)
+        for lang in ("tr", "es"):
+            print(f"[{lang}] 하루 한도 {daily_cap(lang, guard, now)}개 · 최근 20시간 게시 {len(recent_posts(lang, st, now, WINDOW))}개 · "
+                  f"지금 게시 가능: {guard_reason(lang, guard, st, now) or '예'}")
+        return
 
     if a.ping:
         for lang in ("tr", "es"):
@@ -268,6 +323,11 @@ def main():
         if it["lang"] in blocked:
             print(f"[{k}] 계정 제한 중이라 건너뜀")
             continue
+        if kind_is_ig(it) and not a.dry_run:
+            why = guard_reason(it["lang"], guard, state, datetime.now(timezone.utc))
+            if why:
+                print(f"[{k}] 보호 장치로 건너뜀: {why}")
+                continue
         if probs:
             print(f"[{k}] 문제가 있어 건너뜀")
             continue
@@ -299,10 +359,17 @@ def main():
                     print(f"    ⚠ 최근 게시물 확인 실패: {e2}")
             if not mid:
                 print(f"[{k}] 게시 실패: {e}")
-                if '"code":25' in str(e).replace(" ", ""):
+                if any(x in str(e).replace(" ", "") for x in BLOCK_SIGNS):
                     blocked.add(it["lang"])
+                    guard.setdefault(it["lang"], {})["blocked_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+                    GUARD.write_text(json.dumps(guard, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+                    print(f"    ⚠ 계정 제한 신호 → {it['lang']} 24시간 쉬고, 7일 동안 하루 1개")
                 continue
             print(f"[{k}] media_publish 오류가 났지만 게시물이 생겼음 → 게시됨으로 기록 ({str(e)[:160]})")
+            if "2207051" in str(e):  # '행동이 차단' 경고는 게시가 돼도 노란불로 본다
+                guard.setdefault(it["lang"], {})["blocked_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+                GUARD.write_text(json.dumps(guard, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+                print(f"    ⚠ 차단 경고 → {it['lang']} 24시간 쉬고, 7일 동안 하루 1개")
         state[k] = {"media_id": mid, "published_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
         STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         cid, link = api.after(mid, comment)
