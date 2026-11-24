@@ -890,5 +890,33 @@
    "ig_reels_video_view_total_time": 432355
   },
   "at": "2026-11-23T13:21:51+00:00"
+ },
+ "tr/261124-riders/reel": {
+  "metrics": {
+   "reach": 107,
+   "views": 128,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 7043,
+   "ig_reels_video_view_total_time": 739617
+  },
+  "at": "2026-11-24T10:53:37+00:00"
+ },
+ "es/261124-oldmaps/reel": {
+  "metrics": {
+   "reach": 2,
+   "views": 2,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 2940,
+   "ig_reels_video_view_total_time": 5880
+  },
+  "at": "2026-11-24T10:53:37+00:00"
  }
 }
