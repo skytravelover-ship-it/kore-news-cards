@@ -44,6 +44,13 @@
   .row img{width:210px;height:210px;object-fit:cover;flex:0 0 210px}
   .row .c{font-weight:800;font-size:24px;letter-spacing:.2em;color:#ff4d5e;margin-bottom:12px}
   .row .t{font-family:"SERIF";font-weight:700;font-size:46px;line-height:1.15}
+  .hook{position:absolute;left:80px;right:80px;bottom:520px}
+  .hook .hl{font-size:118px;line-height:1.04;text-shadow:0 4px 30px rgba(0,0,0,.55)}
+  .hook .hl em{color:#ff4d5e}
+  .tag{display:inline-block;background:var(--red);font-weight:800;font-size:30px;letter-spacing:.18em;padding:12px 22px;margin-bottom:34px}
+  .qq{font-family:"SERIF";font-weight:700;font-size:86px;line-height:1.12}
+  .fw{margin-top:90px;padding-top:44px;border-top:1px solid var(--rule);font-size:42px;line-height:1.4;color:rgba(255,255,255,.85)}
+  .fw b{color:#fff}
   .tap{position:absolute;left:80px;bottom:300px;font-weight:600;font-size:34px;color:var(--mut)}
   `;
   document.head.insertAdjacentHTML("beforeend", `<style>${css}</style>`);
@@ -57,6 +64,19 @@
       <div class="dg"><div class="kick">${L.date}</div><h1>${L.digestTitle}</h1>
       ${ps.map((p) => `<div class="row"><img src="assets/photos/${p.photo}" style="object-position:${p.pos || "center"}"><div><div class="c">${p.cat}</div><div class="t">${p.short}</div></div></div>`).join("")}
       </div><div class="tap">${L.digestTap}</div>`;
+  } else if (scene === "hook") {
+    // 첫 2~3초: 사진 꽉 채움 + 큰 한 줄. 위아래는 인스타 UI가 덮으므로 비워 둔다
+    html = `${photo(false)}<div class="shade"></div>
+      <div class="hook" id="fit"><div class="tag">${L.brand}</div><div class="hl">${P.hook || P.headline}</div></div>`;
+  } else if (/^r\d$/.test(scene)) {
+    const i = +scene[1] - 1;
+    const text = (P.reel && P.reel[i]) || P.slides[0].items[i];
+    html = `${photo(true)}${brand}
+      <div class="mid" id="fit"><div class="kick">${P.cat}</div><div class="num">0${i + 1}</div><div class="big" style="font-size:80px;line-height:1.28">${text}</div></div>`;
+  } else if (scene === "q") {
+    html = `${photo(true)}${brand}
+      <div class="mid"><div class="kick">${L.askLabel || "?"}</div><div class="qq">${P.question}</div>
+      <div class="fw">${L.ctaA}<br><b>@${L.handle}</b></div></div>`;
   } else if (scene === "cover") {
     html = `${photo(false)}<div class="shade"></div>${brand}
       <div class="low" id="fit"><div class="kick">${P.cat}</div><div class="hl">${P.headline}</div></div>`;
@@ -80,6 +100,7 @@
   const fit = document.getElementById("fit");
   if (fit) document.fonts.ready.then(() => {
     const t = fit.querySelector(".hl,.big");
+    if (scene === "hook") { let g = 118; while (fit.getBoundingClientRect().top < 420 && g > 70) { g -= 3; t.style.fontSize = g + "px"; } return; }
     let f = parseInt(getComputedStyle(t).fontSize, 10);
     const limit = scene === "cover" ? 360 : 1500; // 표지는 로고 아래까지만, 본문은 화면 안
     while ((scene === "cover" ? fit.getBoundingClientRect().top < limit : fit.offsetHeight > 1100) && f > 44) { f -= 2; t.style.fontSize = f + "px"; }

@@ -262,8 +262,12 @@ def main():
     base = os.environ.get("MEDIA_BASE_URL", "<MEDIA_BASE_URL>").rstrip("/")
     url = lambda f: f"{base}/{urllib.parse.quote(str(f.relative_to(POSTS)))}"
     apis = {}
+    blocked = set()  # 계정 제한(code 25)이 나온 언어는 이번 실행에서 더 시도하지 않는다
     for it, media, caption, comment, probs in todo:
         k = key(it)
+        if it["lang"] in blocked:
+            print(f"[{k}] 계정 제한 중이라 건너뜀")
+            continue
         if probs:
             print(f"[{k}] 문제가 있어 건너뜀")
             continue
@@ -295,6 +299,8 @@ def main():
                     print(f"    ⚠ 최근 게시물 확인 실패: {e2}")
             if not mid:
                 print(f"[{k}] 게시 실패: {e}")
+                if '"code":25' in str(e).replace(" ", ""):
+                    blocked.add(it["lang"])
                 continue
             print(f"[{k}] media_publish 오류가 났지만 게시물이 생겼음 → 게시됨으로 기록 ({str(e)[:160]})")
         state[k] = {"media_id": mid, "published_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}

@@ -24,11 +24,18 @@ window.NEWS = {
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
     ctaA: "Kore'den her gün haberler için takip et",
+    askLabel: "SENCE?",
     digestTitle: "Bugün Kore'den haberler",
     digestTap: "Dokun, oku",
     posts: [
       {
         id: "261124-handomain",
+        hook: "Çin, Kore'den <em>.HAN</em> adresini değiştirmesini istiyor",
+        reel: [
+          "Koreli bir şirket internet uzantısı olarak <b>.HAN</b> istedi. 'Han', Kore'nin adındaki hece (韓).",
+          "Çin itiraz ediyor: Çincede 'Han' (漢), Han halkı ve Han Hanedanı demek.",
+          "Şirket geri adım atmadı. İtirazlar <b>16 Mart 2027</b>'ye kadar kabul edilecek.",
+        ],
         cat: "TEKNOLOJİ",
         photo: "hansign.jpg",
         pos: "center 45%",
@@ -61,6 +68,12 @@ window.NEWS = {
       },
       {
         id: "261124-riders",
+        hook: "Kore'de kuryeler günde sadece <em>5 saat</em> uyuyor",
+        reel: [
+          "Günde ortalama <b>10,9</b> saat çalışıyorlar. Kore'de normal iş günü 8,1 saat.",
+          "Uyku ortalaması <b>5,4</b> saat. Ülke ortalamasından 2,5 saatten fazla eksik.",
+          "Mesai 12 saati geçince her ek saat uykudan <b>11,5</b> dakika götürüyor.",
+        ],
         cat: "SAĞLIK",
         photo: "rider.jpg",
         pos: "center 55%",
@@ -102,11 +115,18 @@ window.NEWS = {
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
     ctaA: "Síguenos para noticias de Corea cada día",
+    askLabel: "¿Y TÚ?",
     digestTitle: "Las noticias de Corea hoy",
     digestTap: "Toca para leer",
     posts: [
       {
         id: "261124-handomain",
+        hook: "China pide a Corea cambiar el dominio <em>.HAN</em>",
+        reel: [
+          "Una empresa coreana pidió la terminación web <b>.HAN</b>. 'Han' es la sílaba 韓 del nombre de Corea.",
+          "China se opone: en chino 'Han' (漢) es el nombre de su etnia mayoritaria y de una dinastía.",
+          "La empresa no cambió nada. Las objeciones se reciben hasta el <b>16 de marzo de 2027</b>.",
+        ],
         cat: "TECNOLOGÍA",
         photo: "hansign.jpg",
         pos: "center 45%",
@@ -139,6 +159,12 @@ window.NEWS = {
       },
       {
         id: "261124-oldmaps",
+        hook: "Un mapa de <em>1747</em> ya decía 'Reino de Corea'",
+        reel: [
+          "Fue impreso en Londres en <b>1747</b> y llama a la península 'Reino de Kau-li o Corea'.",
+          "'Corea' viene de Goryeo, el reino que gobernó la península entre <b>918</b> y 1392.",
+          "El mapa y otros 12 se exhiben en el Museo Nacional de Corea, en Seúl, hasta el <b>28 de marzo</b>.",
+        ],
         cat: "HISTORIA",
         photo: "oldmap.jpg",
         pos: "center 40%",

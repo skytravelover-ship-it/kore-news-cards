@@ -17,10 +17,11 @@ const fs=require("fs");global.window={};eval(fs.readFileSync("src/data.js","utf8
 const w=(h)=>h.replace(/<[^>]+>/g,"").split(/\s+/).length;
 const d=(n,min,max)=>Math.min(max,Math.max(min,n/3.6)).toFixed(1);
 for(const [l,v] of Object.entries(window.NEWS)) for(const p of v.posts){
-  const sc=[["cover",d(w(p.headline),3,4.5)]];
-  p.slides[0].items.forEach((t,i)=>sc.push(["f"+(i+1),d(w(t),3,6)]));
-  sc.push(["why",d(w(p.reelWhy||p.slides[1].items[0]),3.5,6.5)]);
-  sc.push(["word","3.2"]);
+  // v3 (11/24): 시청 3~5초에서 이탈 → 12~16초짜리로. 훅 한 줄 → 짧은 사실 3개 → 질문
+  const lines=p.reel||p.slides[0].items;
+  const sc=[["hook",d(w(p.hook||p.headline),2.4,3)]];
+  lines.slice(0,3).forEach((t,i)=>sc.push(["r"+(i+1),d(w(t),2.4,3.8)]));
+  sc.push(["q","3.0"]);
   console.log(l,p.id,sc.map(s=>s.join(":")).join(","));
 }')
 
@@ -34,7 +35,7 @@ echo "$plan" | while read lang id scenes; do
     s=${sd%%:*}; dur=${sd##*:}
     shot "$(pwd)/$dir/$s.png" "file://$SRC/reel.html?lang=$lang&id=$id&scene=$s"
     frames=$(node -e "console.log(Math.round(($dur+0.4)*$FPS))")
-    zmax=$([ "$s" = cover ] && echo 1.10 || echo 1.035)
+    zmax=$([ "$s" = hook ] && echo 1.12 || echo 1.035)
     inputs+=(-i "$dir/$s.png")
     filters+="[$n:v]scale=2160:3840,zoompan=z='1+($zmax-1)*on/$frames':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=$frames:s=1080x1920:fps=$FPS,setsar=1[v$n];"
     if [ $n -eq 0 ]; then prev="v0"; offset=$dur
@@ -49,6 +50,8 @@ echo "$plan" | while read lang id scenes; do
     -filter_complex "${filters%;}" -map "[$prev]" -map "$n:a" \
     -c:v libx264 -profile:v high -pix_fmt yuv420p -r $FPS -b:v 6M -c:a aac -b:a 128k -shortest -movflags +faststart \
     "out/$lang/$id/reel.mp4"
+  # 프로필 격자용 표지는 기존 신문형 표지 그대로
+  shot "$(pwd)/$dir/cover.png" "file://$SRC/reel.html?lang=$lang&id=$id&scene=cover"
   sips -s format jpeg "$dir/cover.png" --out "out/$lang/$id/reel_cover.jpg" >/dev/null
   echo "out/$lang/$id/reel.mp4 (${total}s)"
 done

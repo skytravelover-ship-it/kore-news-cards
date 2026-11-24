@@ -4,7 +4,8 @@
   python3 make_queue.py --start 2026-11-03 --lang tr --ids halloween,temple,basicincome,altman
   python3 make_queue.py --start 2026-11-03 --lang es --ids halloween,temple,basicincome,roh --append
 
-하루 구성 (리서치 03: 첫 2주는 하루 1~2건 + 스토리 [업계 통념])
+기본(11/24~): 뉴스 하나 = 릴스 하나. --with-carousel 이면 예전 구성:
+예전 하루 구성 (리서치 03: 첫 2주는 하루 1~2건 + 스토리 [업계 통념])
   - 슬롯1: 캐러셀 1개 (+ Threads 같은 글)
   - 슬롯2: 그 뉴스의 릴스 1개
   - 첫날: 첫 캐러셀 30분 뒤 스토리 '오늘의 3줄'
@@ -36,6 +37,7 @@ def main():
     ap.add_argument("--ids", required=True)
     ap.add_argument("--per-day", type=int, default=1)
     ap.add_argument("--no-threads", action="store_true")
+    ap.add_argument("--with-carousel", action="store_true", help="예전 방식: 캐러셀+Threads+릴스")
     ap.add_argument("--append", action="store_true")
     a = ap.parse_args()
 
@@ -44,6 +46,18 @@ def main():
     day = datetime.strptime(a.start, "%Y-%m-%d")
     ids = a.ids.split(",")
     slots = SLOTS[a.lang]
+    if not a.with_carousel:
+        # 2026-11-24부터 기본: 릴스만. 캐러셀은 팔로워 0명이라 도달이 늘 0이었다.
+        # 뉴스 하나 = 릴스 하나, 하루 per_day개를 슬롯 순서대로 배치
+        for n in range(0, len(ids), a.per_day):
+            for i, pid in enumerate(ids[n:n + a.per_day]):
+                t = slots[i % len(slots)]
+                d = day + timedelta(days=1) if t < "06:00" else day
+                queue.append({"lang": a.lang, "id": pid, "type": "reel", "at": f"{d:%Y-%m-%d} {jitter(t)}", "share_to_feed": True})
+            day += timedelta(days=1)
+        qf.write_text(json.dumps(queue, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        print(f"queue.json: {len(queue)}개 항목 (릴스만)")
+        return
     for n in range(0, len(ids), a.per_day):
         batch = ids[n:n + a.per_day]
         for i, pid in enumerate(batch):
