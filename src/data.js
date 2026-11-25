@@ -1,25 +1,23 @@
-// 2026-11-24 한국 뉴스 (TR·ES 공통 1건 + 언어별 1건). 출처: 연합뉴스
-//  - 261124-handomain (TR·ES): 11/23 09:43 '韓이냐 漢이냐…'.HAN' 도메인 놓고 한중 국제분쟁 벌어지나' (AKR20261123028500017)
-//    가비아, 올해 7월 ICANN 신규 gTLD 절차로 '.HAN' 신청. 중국인터넷협회(ISC) 10/20 서한: 'Han'이 漢(한족·한자·한나라) 병음과 겹쳐 혼동 → 철자 변경 요구,
-//    불응 시 ICANN 통한 공식 이의제기·GAC 중국 대표 조기경보·이사회 전달 예고. 10/26 CNNIC 왕웨이 수석전문가도 개인 서한. 가비아 거부("韓의 영문 표기, 나라 이름 쓰지 말라는 요구 따를 이유 없음").
-//    ICANN 문자 규칙에서 'Han'은 중국 한자·한국 한자·일본 간지를 함께 가리키는 문자 체계 명칭. 11/17 정식 심사 대상 확정(철자 그대로). 의견·이의제기 접수 내년 3/16까지, 접수되면 전문가 패널 심리.
-//    올해 신청 전 세계 481곳 1,615건, '.HAN' 신청은 가비아 유일. 승인되면 'gabia.han' 같은 주소 가능.
-//  - 261124-riders (TR): 11/24 06:13 '[김길원의 헬스노트] 하루 11시간 일하고 5시간 잔다…배달 라이더의 위험한 일상' (AKR20261123114300530)
-//    BMC Public Health, 순천향대·중앙대 간호학과 + 미국 일리노이대. 국내 플랫폼 음식배달 라이더 55명, 손목 활동량 측정기 14일, 근무 전후 설문.
-//    하루 평균 노동 10.9시간, 수면 5.4시간. 전체 근로자 근무일 평균 8.1시간(고용부 2025; 월 153.8h, 19.1일) 대비 약 2시간50분 김. 국민 평균 수면 8시간1분(2024 생활시간조사) 대비 2시간37분 짧음.
-//    노동 12시간 미만: 1시간 늘 때 수면 3.6분 감소 / 12시간 이상: 11.5분 감소(3.2배). 전날 노동↑ → 수면↓ → 다음 날 퇴근 시 피로↑(수면 부족이 매개). 플랫폼 차원 피로 경고·휴식 권고 기능 제안.
-//  - 261124-oldmaps (ES): 11/23 12:40 '서양 옛 지도에 담긴 조선 팔도·'한국해'…국립중앙박물관 전시' (AKR20261123089900005)
-//    국립중앙박물관 상설전시관 기증 4실, 11/23~내년 3/28 '새로 맞이한 기증유물전 3 - 서양 고지도에 표현된 한국'. 소피아 강(강희숙, 뉴욕시 정부·코리아소사이어티) 기증 27점 중 지도 13점 공개.
-//    1747년 런던 제작 '조선 지도': 당빌(1697~1782) 지리 정보 바탕, 'KINGDOM of KAU-LI or COREA', 'SEA OF KOREA', 울릉도·우산도(독도 옛 이름) 위치.
-//    1655년 네덜란드 '중국 지도': 평안도·함경도·황해도·경기도 등 팔도 명칭, 압록강·제주도. 1858년경 영국 제임스 와일드(1812~1887) 지도: '한국해', 'Str. of Corea', 울릉도 'Dagelet'.
-// 사진: Unsplash(lee seunghyub, 서울 간판 골목) / Unsplash(Huy Q. Tran, 서울 거리 오토바이) / Wikimedia Commons(Croisey 1764 'Carte du royaume de Kau-li ou Corée', BnF, 공유저작물).
-// 인사이트(11/24): 표본 충분한 제안 중 "[ES] 반응 1위 'La tumba de Silla'(캐러셀, HISTORIA) → 같은 형식으로 주제만 바꿔 반복"을 반영.
-//   오늘 ES 두 번째 게시물을 HISTORIA(서양 고지도 전시)로 잡음. 2장(왜 중요한가)은 어제처럼 ① 배경 ② 현지 비교 ③ 해 볼 방법 구조 유지.
+// 2026-11-25 한국 뉴스 (언어별 1건, 하루 한도 1개). 출처: 연합뉴스
+//  - 261125-cold (TR): 11/25 08:06 '서울 최저 -4.2도 전국 영하의 추위…한낮 4∼12도 그쳐' (AKR20261125023000530)
+//    + 11/25 09:00 '[내일날씨] 전국 영하권 추위…빙판길·도로 살얼음 주의' (AKR20261125008200004), 원 데이터 기상청.
+//    25일 아침 서해안·제주 제외 전국 영하권. 서울(종로 관측소) -4.2도, 노원구 -7.6도. 설악산(1,603m) -14.5도·체감 -24.7도.
+//    횡성(둔내) -11.6, 포천(일동) -10.2, 파주(판문점) -10.1. 인천 -2.5, 대전 -2.0, 광주 1.0, 대구 -0.6, 울산·부산 -0.9.
+//    낮 최고 4~12도(평년 8~15도). 순간풍속 시속 55km 안팎. 26일(목) 최저 -3~9도, 최고 13~18도, 서울 5~16도. 27일 1~12도 / 14~21도.
+//    26일 새벽~아침 경기 북동부·강원 중북부 내륙·산지 비 또는 눈 → 빙판길·도로 살얼음 주의.
+//  - 261125-kimchiday (ES): 11/23 11:42 '[르포] 부채춤 공연·한국어 생일축하…아르헨 한국문화원 20돌 잔치' (AKR20261123078600009)
+//    11/22(현지) 부에노스아이레스 팔라시오 리베르타드. 주아르헨티나 한국문화원(2006년 개원, 중남미 첫 한국문화원) 20주년 + 김치의 날(11/22).
+//    국립남도국악원: 춘앵전, 부채춤, 태평무, 입춤, 벅구춤. 기립박수. 한국어 '생일 축하합니다' 합창, 떡 선물.
+//    김치+밀라네사 시식, 한국·아르헨티나 식재료 20가지 비빔밥. 11월 '한국 문화의 달': 영화 상영·문학 대담.
+//    아르헨티나는 김치의 날을 국가 단위 기념일로 법제화(연합 표현 '세계 최초') → 한국 자체가 2020년 법정기념일이라 원고에는 '한국 밖 첫 나라'로 씀.
+// 사진: Wikimedia Commons(Huntsmanleader, 2023년 12월 광화문, CC0) / Wikimedia Commons(chomjong, 배추김치·깍두기, CC BY 2.0). 둘 다 자료 사진.
+// 인사이트(11/25): "저장률 0% → '왜 중요한가'를 더 실용적으로(숫자·비교·해 볼 방법)" 제안(TR 릴스 8개, ES 릴스 22개로 표본 충분)을 반영.
+//   릴스 3번째 줄을 사실 나열 대신 '보는 사람이 바로 쓸 정보'(내일 기온·옷차림 / 이어지는 행사)로 씀. 그 외 구조는 그대로.
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "24 KASIM 2026",
+    date: "25 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -29,80 +27,42 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261124-handomain",
-        hook: "Çin, Kore'den <em>.HAN</em> adresini değiştirmesini istiyor",
+        id: "261125-cold",
+        hook: "Seul'de bu sabah termometre <em>-4,2°C</em> gösterdi",
         reel: [
-          "Koreli bir şirket internet uzantısı olarak <b>.HAN</b> istedi. 'Han', Kore'nin adındaki hece (韓).",
-          "Çin itiraz ediyor: Çincede 'Han' (漢), Han halkı ve Han Hanedanı demek.",
-          "Şirket geri adım atmadı. İtirazlar <b>16 Mart 2027</b>'ye kadar kabul edilecek.",
+          "Seorak Dağı'nda <b>-14,5°C</b> ölçüldü. Hissedilen sıcaklık <b>-24,7°C</b>.",
+          "Batı kıyısı ve Jeju dışında bütün ülke sıfırın altında. Busan'da bile <b>-0,9°C</b>.",
+          "Perşembe ısınıyor: Seul'de <b>5-16°C</b>. Kat kat giyin, öğlen bir katı çıkar.",
         ],
-        cat: "TEKNOLOJİ",
-        photo: "hansign.jpg",
-        pos: "center 45%",
+        cat: "HAVA DURUMU",
+        photo: "gwanghwamun.jpg",
+        pos: "center 60%",
         source: "Yonhap Haber Ajansı",
-        credit: "Foto: lee seunghyub / Unsplash · temsili görsel",
-        headline: "Kore'nin <em>.HAN</em> alan adına Çin itiraz etti: 'Han' kimin?",
-        sub: "Koreli bir şirket internet adresleri için '.HAN' uzantısını istedi. Çin tarafı aynı hecenin kendi dilinde 'Han' anlamına geldiğini söyleyip değiştirilmesini talep ediyor.",
-        short: ".HAN alan adı tartışması",
+        credit: "Foto: Huntsmanleader / Wikimedia Commons, CC0 · temsili görsel",
+        headline: "Seul'de sabah <em>-4,2°C</em>: Kore'nin neredeyse tamamı sıfırın altında",
+        sub: "25 Kasım sabahı batı kıyısı ve Jeju dışında bütün Kore dondu. Dağlarda hissedilen sıcaklık -24,7°C'ye indi. Soğuk kısa sürecek, perşembe günü hava ısınıyor.",
+        short: "Kore'de sıfırın altı soğuk",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Koreli alan adı şirketi Gabia, temmuzda internet adreslerinin sonuna gelecek yeni uzantı olarak <b>.HAN</b> için başvurdu. 'Han', Kore'nin adındaki 'Han' (韓) hecesinin Latin harfleriyle yazımı. Onaylanırsa 'gabia.han' gibi adresler kullanılabilecek.",
-              "Çin İnternet Derneği 20 Ekim'de şirkete mektup gönderdi: 'Han' aynı zamanda Çincede Han halkını, Çin yazısını ve Han Hanedanı'nı anlatan 漢'in yazımı; Çinli kullanıcılar karışır, yazımı değiştirin. Aksi hâlde uluslararası kuruluş ICANN'e resmi itiraz edileceği bildirildi.",
-              "Gabia reddetti: 'Han', Kore'nin resmi adının yazımı; yazım aynı diye bir ülkenin adını kullanma demek kabul edilemez. ICANN başvuruyu <b>17</b> Kasım'da aynı yazımla incelemeye aldı. İtirazlar 16 Mart 2027'ye kadar kabul edilecek; itiraz gelirse uzman kurulu karar verecek.",
+              "25 Kasım sabahı Seul'de en düşük sıcaklık <b>-4,2°C</b> ölçüldü. Şehrin kuzeydoğusundaki Nowon ilçesinde termometre -7,6°C'ye kadar indi. Batı kıyısı ve Jeju Adası dışında ülkenin tamamı sıfırın altına düştü.",
+              "En soğuk nokta, 1.603 metredeki Seorak Dağı istasyonu oldu: <b>-14,5°C</b>, hissedilen sıcaklık -24,7°C. Hoengseong'da -11,6°C, Kuzey Kore sınırındaki Panmunjom'da -10,1°C kaydedildi. Güneydeki liman kenti Busan'da bile -0,9°C görüldü.",
+              "Gündüz için tahmin edilen en yüksek sıcaklık <b>4-12°C</b>; bu dönemin normali 8-15°C. Tahminlerde saatte 55 kilometreye varan rüzgâr da var. Kore Meteoroloji İdaresi soğuğun uzun sürmeyeceğini bildirdi.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Kore'de 'han' her yerde: ülkenin adı Hanguk, alfabe Hangıl, geleneksel kıyafet hanbok, Kore dalgası hallyu. Çincede ise 'Han' nüfusun büyük çoğunluğunu oluşturan halkın ve yazı sisteminin adı. Aynı ses, iki ülkede iki ayrı yazı karakteri: 韓 ve 漢.",
-              "Türkiye bu tartışmayı tanıyor: 2022'de ülkenin uluslararası adı 'Turkey'den 'Türkiye'ye çevrildi ve BM bunu kabul etti. Burada da mesele bir hece değil, bir ülkenin kendi adını internette nasıl yazacağı. ICANN kurallarında 'Han' Çin, Kore ve Japon yazı karakterlerinin ortak adı; yani tek başına Çin'e ait değil.",
-              "Bu yıl ICANN'e dünya genelinde <b>481</b> başvurucudan <b>1.615</b> yeni uzantı başvurusu geldi; '.HAN'ı isteyen tek şirket Gabia. İtiraz yoksa karar daha hızlı çıkar; itiraz olursa uzman kurulu süreci aylarca uzatabilir. Sonuç ne olursa olsun, yeni adresler en erken 2027'de görünür.",
+              "Kore'de kış, kuzeyden inen kuru ve soğuk havayla gelir. Sıcaklık bir iki gün içinde 10 derece düşebilir, birkaç gün sonra yeniden yükselir. Kasım sonu, bu iniş çıkışların başladığı dönemdir.",
+              "İstanbul'da kasım sonunda geceler genellikle 8-10°C civarındadır. Seul bu sabah bundan yaklaşık 13 derece daha soğuktu. Kışın Kore'ye gideceksen bavulunu İstanbul kışına göre değil, Ankara ya da Erzurum kışına göre hazırla.",
+              "Perşembe günü (26 Kasım) hava ısınıyor: Seul'de 5-16°C, ülke genelinde gündüz <b>13-18°C</b>. Sabah ile öğlen arasındaki fark 10 dereceyi geçtiği için kat kat giyinmek en pratik yol. Yağış beklenen Gangwon ve Gyeonggi'nin kuzeydoğusunda yollarda gizli buzlanma uyarısı var.",
             ],
           },
         ],
-        reelWhy: "Türkiye bu tartışmayı tanıyor: 2022'de ülkenin uluslararası adı 'Turkey'den 'Türkiye'ye çevrildi ve BM bunu kabul etti. Burada da mesele bir hece değil, bir ülkenin kendi adını internette nasıl yazacağı. ICANN kurallarında 'Han' Çin, Kore ve Japon yazı karakterlerinin ortak adı.",
-        word: { ko: "한국", rom: "hanguk", mean: "Kore (Güney Kore'nin Korece adı)", exKo: "'.HAN'의 '한'은 한국을 뜻해요.", exTr: "'.HAN'daki 'han', Kore anlamına geliyor." },
-        question: "Sence bir ülke kendi adını internet uzantısı olarak alabilmeli mi?",
-      },
-      {
-        id: "261124-riders",
-        hook: "Kore'de kuryeler günde sadece <em>5 saat</em> uyuyor",
-        reel: [
-          "Günde ortalama <b>10,9</b> saat çalışıyorlar. Kore'de normal iş günü 8,1 saat.",
-          "Uyku ortalaması <b>5,4</b> saat. Ülke ortalamasından 2,5 saatten fazla eksik.",
-          "Mesai 12 saati geçince her ek saat uykudan <b>11,5</b> dakika götürüyor.",
-        ],
-        cat: "SAĞLIK",
-        photo: "rider.jpg",
-        pos: "center 55%",
-        source: "Yonhap Haber Ajansı",
-        credit: "Foto: Huy Q. Tran / Unsplash · temsili görsel",
-        headline: "Kore'de moto kuryeler günde <em>11</em> saat çalışıp 5 saat uyuyor",
-        sub: "Koreli ve Amerikalı araştırmacılar 55 yemek kuryesini iki hafta boyunca bilek sensörüyle izledi. Mesai uzadıkça uyku azalıyor, ertesi gün yorgunluk katlanıyor.",
-        short: "Kuryeler 5 saat uyuyor",
-        slides: [
-          {
-            label: "NE OLDU?",
-            items: [
-              "Soonchunhyang ve Chung-Ang üniversitelerinin hemşirelik bölümleri ile ABD'deki Illinois Üniversitesi, Kore'de uygulama üzerinden çalışan <b>55</b> yemek kuryesini inceledi. Kuryeler <b>14</b> gün bilek sensörü taktı, her mesai öncesi ve sonrası anket doldurdu.",
-              "Sonuç: günde ortalama <b>10,9</b> saat çalışma, <b>5,4</b> saat uyku. Kore'de çalışanların iş günü ortalaması 8,1 saat; kuryeler yaklaşık 2 saat 50 dakika daha uzun çalışıyor. Ülke ortalaması 8 saat 1 dakika uykuya karşı kuryeler 2 saat 37 dakika daha az uyuyor.",
-              "Mesai 12 saatin altındayken her ek saat uykuyu 3,6 dakika kısaltıyor; 12 saati geçince ek saat başına kayıp <b>11,5</b> dakikaya çıkıyor, yani 3,2 kat. Uzun mesai, kısa uyku ve ertesi gün daha ağır yorgunluk birbirine zincirleniyor.",
-            ],
-          },
-          {
-            label: "NEDEN ÖNEMLİ?",
-            items: [
-              "Kore'de yemek siparişi gündelik hayatın parçası; Baemin, Coupang Eats ve Yogiyo gibi uygulamalar milyonlarca siparişi motosikletli kuryelerle taşıyor. Kuryelerin büyük bölümü maaşlı değil, teslimat başına ücret alan serbest çalışan. Daha çok kazanmanın tek yolu daha uzun sürmek.",
-              "Türkiye'de de moto kurye her köşede. Fark şu: Kore'de haftalık çalışma üst sınırı 52 saat, ama bu kural ücretli çalışanlar için; uygulama kuryeleri kapsam dışında. Araştırmadaki günde 10,9 saat, haftada altı gün çalışan biri için 65 saat demek.",
-              "Araştırmacıların önerisi somut: uygulamalar kuryeye yorgunluk uyarısı ve mola hatırlatması göndersin. Sürücüler için kural basit, 12 saat eşiğini geçme; uyku kaybı o noktadan sonra üçe katlanıyor. Sipariş veren için de bir not: gece geç saatte gelen sipariş, çoğu zaman 10 saattir yoldaki birinin elinden geliyor.",
-            ],
-          },
-        ],
-        reelWhy: "Türkiye'de de moto kurye her köşede. Fark şu: Kore'de haftalık çalışma üst sınırı 52 saat, ama bu kural ücretli çalışanlar için; uygulama kuryeleri kapsam dışında. Günde 10,9 saat, haftada altı gün çalışan biri için 65 saat demek.",
-        word: { ko: "배달", rom: "baedal", mean: "teslimat, eve servis", exKo: "배달 라이더는 하루 11시간 일해요.", exTr: "Teslimat kuryeleri günde 11 saat çalışıyor." },
-        question: "Senin şehrinde kuryeler günde kaç saat çalışıyor, biliyor musun?",
+        reelWhy: "İstanbul'da kasım sonunda geceler genellikle 8-10°C civarındadır. Seul bu sabah bundan yaklaşık 13 derece daha soğuktu. Kışın Kore'ye gideceksen bavulunu İstanbul kışına göre değil, Ankara ya da Erzurum kışına göre hazırla.",
+        word: { ko: "추위", rom: "chuwi", mean: "soğuk, soğuk hava", exKo: "오늘 서울은 추위가 심해요.", exTr: "Bugün Seul'de soğuk çok şiddetli." },
+        question: "Senin şehrinde bu sabah hava kaç dereceydi?",
       },
     ],
   },
@@ -110,7 +70,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "24 NOV 2026",
+    date: "25 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -120,80 +80,42 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261124-handomain",
-        hook: "China pide a Corea cambiar el dominio <em>.HAN</em>",
+        id: "261125-kimchiday",
+        hook: "Argentina celebra el Día del Kimchi <em>por ley</em>",
         reel: [
-          "Una empresa coreana pidió la terminación web <b>.HAN</b>. 'Han' es la sílaba 韓 del nombre de Corea.",
-          "China se opone: en chino 'Han' (漢) es el nombre de su etnia mayoritaria y de una dinastía.",
-          "La empresa no cambió nada. Las objeciones se reciben hasta el <b>16 de marzo de 2027</b>.",
+          "Fue el primer país fuera de Corea en declararlo fecha nacional: el <b>22 de noviembre</b>.",
+          "Coincidió con los <b>20 años</b> del Centro Cultural Coreano de Buenos Aires, primero de Latinoamérica.",
+          "Probaron kimchi con milanesa. En noviembre el centro sigue con cine y literatura coreana.",
         ],
-        cat: "TECNOLOGÍA",
-        photo: "hansign.jpg",
-        pos: "center 45%",
+        cat: "CULTURA",
+        photo: "kimchi.jpg",
+        pos: "center 50%",
         source: "Agencia Yonhap",
-        credit: "Foto: lee seunghyub / Unsplash · imagen ilustrativa",
-        headline: "China objeta el dominio <em>.HAN</em> de Corea: ¿de quién es la palabra 'Han'?",
-        sub: "Una empresa coreana pidió la terminación '.HAN' para direcciones de internet. China responde que la misma sílaba significa 'Han' en su idioma y exige cambiarla.",
-        short: "La disputa por '.HAN'",
+        credit: "Foto: chomjong / Wikimedia Commons, CC BY 2.0 · imagen ilustrativa",
+        headline: "Argentina celebra el Día del Kimchi y los <em>20</em> años de su centro coreano",
+        sub: "El Centro Cultural Coreano de Buenos Aires, el primero de Latinoamérica, festejó su aniversario el 22 de noviembre con danza tradicional, bibimbap y kimchi con milanesa.",
+        short: "Día del Kimchi en Argentina",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "Gabia, empresa coreana de dominios, solicitó en julio la nueva terminación <b>.HAN</b> para direcciones web. 'Han' es la escritura en letras latinas de la sílaba 韓, la que da nombre a Corea. Si se aprueba, existirán direcciones como 'gabia.han'.",
-              "El 20 de octubre, la Sociedad de Internet de China envió una carta a la empresa: 'Han' también se escribe así en chino para 漢, el nombre de la etnia mayoritaria, de los caracteres chinos y de la dinastía Han. Pidió cambiar la ortografía y amenazó con una objeción formal ante ICANN, el organismo que administra los dominios.",
-              "Gabia se negó: 'Han' es la forma oficial del nombre de Corea y nadie puede pedir a un país que no use su propio nombre. ICANN admitió la solicitud a revisión el <b>17</b> de noviembre, sin cambios. Las objeciones se reciben hasta el 16 de marzo de 2027; si llega una, decidirá un panel de expertos.",
+              "El <b>22</b> de noviembre, el Palacio Libertad de Buenos Aires acogió una función especial por los 20 años del Centro Cultural Coreano en Argentina. Ese mismo día el país celebra el Día Nacional del Kimchi.",
+              "El Centro Nacional de Gugak de Namdo, llegado desde Corea, presentó la danza de corte Chunaengjeon, la danza de abanicos (buchaechum) y otras tres piezas tradicionales. El público despidió a los bailarines de pie.",
+              "En la ceremonia, los asistentes cantaron el 'Cumpleaños feliz' en coreano. Después probaron kimchi con milanesa y prepararon bibimbap con <b>20</b> ingredientes coreanos y argentinos, por los 20 años del centro. Al salir recibieron tteok, el pastel de arroz de las fiestas coreanas.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "En Corea, 'han' está en todas partes: el nombre del país es Hanguk (한국), el alfabeto es hangul (한글), el traje tradicional es hanbok y la ola cultural es hallyu. En chino, 'Han' nombra a la etnia que forma la gran mayoría de la población y a su sistema de escritura. Mismo sonido, dos caracteres distintos: 韓 y 漢.",
-              "España ya vivió algo parecido con '.cat', aprobado en 2005 como el primer dominio para una lengua y una cultura, el catalán. Aquí el fondo es el mismo: cómo escribe un país su nombre en internet. En las reglas de ICANN, 'Han' es el nombre conjunto de los caracteres chinos, coreanos y japoneses, no una propiedad de China.",
-              "Este año ICANN recibió <b>1.615</b> solicitudes de nuevas terminaciones de <b>481</b> solicitantes de todo el mundo; Gabia es la única que pidió '.HAN'. Sin objeción, la decisión sale antes; con objeción, el panel puede alargar el proceso meses. En cualquier caso, las nuevas direcciones no se verán antes de 2027.",
+              "El 22 de noviembre es el Día del Kimchi en Corea desde 2020. Argentina fue el primer país fuera de Corea en convertirlo en fecha nacional por ley. El kimchi es col fermentada con pimiento rojo picante, ajo y otros condimentos, y acompaña casi todas las comidas coreanas.",
+              "El centro de Buenos Aires abrió en <b>2006</b> y fue el primer centro cultural coreano de Latinoamérica. Hoy también los hay en Ciudad de México, São Paulo y Madrid, con clases de coreano, cine y cocina.",
+              "Si vives en Buenos Aires, el centro declaró noviembre 'Mes de la Cultura Coreana' y sigue con proyecciones de cine y charlas de literatura. En otros países, busca el centro cultural coreano más cercano: suelen ofrecer actividades abiertas al público.",
             ],
           },
         ],
-        reelWhy: "España ya vivió algo parecido con '.cat', aprobado en 2005 como el primer dominio para una lengua y una cultura. Aquí el fondo es el mismo: cómo escribe un país su nombre en internet. En las reglas de ICANN, 'Han' es el nombre conjunto de los caracteres chinos, coreanos y japoneses.",
-        word: { ko: "한국", rom: "hanguk", mean: "Corea (nombre coreano de Corea del Sur)", exKo: "'.HAN'의 '한'은 한국을 뜻해요.", exTr: "El 'han' de '.HAN' significa Corea." },
-        question: "¿Crees que un país debería poder usar su propio nombre como terminación de internet?",
-      },
-      {
-        id: "261124-oldmaps",
-        hook: "Un mapa de <em>1747</em> ya decía 'Reino de Corea'",
-        reel: [
-          "Fue impreso en Londres en <b>1747</b> y llama a la península 'Reino de Kau-li o Corea'.",
-          "'Corea' viene de Goryeo, el reino que gobernó la península entre <b>918</b> y 1392.",
-          "El mapa y otros 12 se exhiben en el Museo Nacional de Corea, en Seúl, hasta el <b>28 de marzo</b>.",
-        ],
-        cat: "HISTORIA",
-        photo: "oldmap.jpg",
-        pos: "center 40%",
-        source: "Agencia Yonhap",
-        credit: "Mapa: Croisey, 1764 / BnF vía Wikimedia Commons, dominio público · imagen ilustrativa",
-        headline: "'Reino de Kau-li o Corea': mapas europeos de <em>1747</em> llegan al museo nacional",
-        sub: "El Museo Nacional de Corea expone 13 mapas antiguos donados por una coleccionista coreano-estadounidense. Muestran cómo Occidente nombraba a Corea y a sus mares hace tres siglos.",
-        short: "Corea en mapas de hace 300 años",
-        slides: [
-          {
-            label: "¿QUÉ PASÓ?",
-            items: [
-              "Desde el 23 de noviembre y hasta el <b>28</b> de marzo de 2027, el Museo Nacional de Corea, en Seúl, exhibe 'Corea en los mapas antiguos de Occidente'. Son <b>13</b> piezas elegidas entre los 27 mapas que donó Sophia Kang, que trabajó para el gobierno de Nueva York y la Korea Society.",
-              "La joya es un mapa impreso en Londres en <b>1747</b>, basado en los datos del geógrafo francés d'Anville. Llama a la península 'Reino de Kau-li o Corea' y al mar entre Corea y Japón 'Mar de Corea'. También sitúa las islas Ulleungdo y Usando, el nombre antiguo de Dokdo.",
-              "Un mapa holandés de <b>1655</b> ya anota las ocho provincias de la dinastía Joseon, como Pyeongan, Hamgyeong, Hwanghae y Gyeonggi, además del río Yalu y la isla de Jeju. Otro, del británico James Wyld hacia 1858, repite 'Mar de Corea' y escribe 'Estrecho de Corea'.",
-            ],
-          },
-          {
-            label: "¿POR QUÉ IMPORTA?",
-            items: [
-              "'Kau-li' es Goryeo, el reino que gobernó la península entre 918 y 1392. De ese nombre, pronunciado por los comerciantes y misioneros que llegaban desde China, salió la palabra 'Corea'. Los mapas muestran que la grafía con C, la misma que usa el español, fue la primera en Europa.",
-              "Para un lector en español, el detalle llama la atención: los cartógrafos de Londres y Ámsterdam escribían 'COREA', no 'KOREA'. La forma con K se impuso en inglés mucho después. Y el nombre del mar sigue en disputa hoy: Corea lo llama Mar del Este y Japón, Mar de Japón; por eso estos mapas se citan tanto.",
-              "Si estás en Seúl, la sala de donaciones está dentro de la exposición permanente del museo, que es gratuita. El museo queda junto a la estación de Ichon, línea 4. Cierra algunos lunes del año, así que revisa el calendario en su web antes de ir.",
-            ],
-          },
-        ],
-        reelWhy: "'Kau-li' es Goryeo, el reino que gobernó la península entre 918 y 1392. De ese nombre salió la palabra 'Corea'. Los mapas muestran que la grafía con C, la misma que usa el español, fue la primera en Europa.",
-        word: { ko: "지도", rom: "jido", mean: "mapa", exKo: "옛 지도에 '한국해'라고 적혀 있어요.", exTr: "En el mapa antiguo dice 'Mar de Corea'." },
-        question: "¿Sabías que 'Corea' viene de Goryeo? ¿Qué otro nombre de país conoces con una historia así?",
+        reelWhy: "El centro de Buenos Aires abrió en 2006 y fue el primer centro cultural coreano de Latinoamérica. Hoy también los hay en Ciudad de México, São Paulo y Madrid, con clases de coreano, cine y cocina.",
+        word: { ko: "김치", rom: "gimchi", mean: "kimchi, verdura fermentada y picante", exKo: "아르헨티나에는 김치의 날이 있어요.", exTr: "En Argentina existe el Día del Kimchi." },
+        question: "¿Ya probaste el kimchi? ¿Con qué plato de tu país lo combinarías?",
       },
     ],
   },

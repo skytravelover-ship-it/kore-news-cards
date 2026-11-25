@@ -39,3 +39,5 @@
 | hansign.jpg | lee seunghyub | https://unsplash.com/photos/1CWACe2tpX8 | Unsplash License | 11/24 '.HAN' 도메인 한중 분쟁 (TR·ES) |
 | rider.jpg | Huy Q. Tran | https://unsplash.com/photos/XxX5AGKV2pA | Unsplash License | 11/24 배달 라이더 하루 10.9시간 노동·5.4시간 수면 연구 (TR) |
 | oldmap.jpg | Jean-Baptiste Croisey, 1764 (BnF, Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Carte_du_royaume_de_Kau-li_ou_Cor%C3%A9e,_copi%C3%A9e_sur_la_carte_angloise_-_Croisey,_Sc._-_btv1b59631136.jpg | Public domain (Wikimedia Commons), sips -Z 1800 축소 | 11/24 국립중앙박물관 서양 고지도 전시 (ES) |
+| gwanghwamun.jpg | Huntsmanleader (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Gwanghwamun_December_2023.jpg | CC0 (Wikimedia Commons), sips -Z 1600 축소 | 11/25 서울 아침 -4.2도 전국 영하권 추위 (TR) |
+| kimchi.jpg | chomjong (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Baechu-gimchi_and_kkaldugi.jpg | CC BY 2.0 (Wikimedia Commons), sips -Z 1600 축소 | 11/25 아르헨티나 김치의 날·한국문화원 20주년 (ES) |
