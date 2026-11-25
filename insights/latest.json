@@ -1,22 +1,43 @@
 {
- "collected_at": "2026-11-25T08:40:40+00:00",
+ "collected_at": "2026-11-25T21:45:06+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 15
+    "media_count": 16
    },
    "account_day": {
-    "reach": 61,
-    "views": 72,
+    "reach": 118,
+    "views": 135,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18123207530075687",
+     "key": "tr/261125-cold/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-25T13:43:28+0000",
+     "permalink": "https://www.instagram.com/reel/DgKqfFro_ni/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 52,
+      "views": 64,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 3827,
+      "ig_reels_video_view_total_time": 214329
+     }
+    },
     {
      "id": "18076381589494681",
      "key": "tr/261124-riders/reel",
