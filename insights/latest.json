@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-25T21:45:06+00:00",
+ "collected_at": "2026-11-26T08:25:05+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 16
    },
    "account_day": {
-    "reach": 118,
-    "views": 135,
+    "reach": 106,
+    "views": 115,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
@@ -27,15 +27,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 52,
-      "views": 64,
+      "reach": 105,
+      "views": 115,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 3827,
-      "ig_reels_video_view_total_time": 214329
+      "ig_reels_avg_watch_time": 3501,
+      "ig_reels_video_view_total_time": 364160
      }
     },
     {
@@ -361,17 +361,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 47
+    "media_count": 48
    },
    "account_day": {
-    "reach": 19,
-    "views": 24,
+    "reach": 3,
+    "views": 3,
     "accounts_engaged": 0,
     "total_interactions": 0,
-    "profile_views": 0,
+    "profile_views": 1,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18145944160613805",
+     "key": "es/261125-kimchiday/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-25T22:46:53+0000",
+     "permalink": "https://www.instagram.com/reel/DgLorl-x-nB/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 3,
+      "views": 3,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 2294,
+      "ig_reels_video_view_total_time": 9177
+     }
+    },
     {
      "id": "18113944481268329",
      "key": "es/261124-oldmaps/reel",
