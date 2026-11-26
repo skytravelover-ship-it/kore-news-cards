@@ -946,5 +946,19 @@
    "ig_reels_video_view_total_time": 2099
   },
   "at": "2026-11-26T04:27:30+00:00"
+ },
+ "tr/261126-railslow/reel": {
+  "metrics": {
+   "reach": 67,
+   "views": 71,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 2441,
+   "ig_reels_video_view_total_time": 163573
+  },
+  "at": "2026-11-26T22:59:46+00:00"
  }
 }
