@@ -1,23 +1,21 @@
-// 2026-11-25 한국 뉴스 (언어별 1건, 하루 한도 1개). 출처: 연합뉴스
-//  - 261125-cold (TR): 11/25 08:06 '서울 최저 -4.2도 전국 영하의 추위…한낮 4∼12도 그쳐' (AKR20261125023000530)
-//    + 11/25 09:00 '[내일날씨] 전국 영하권 추위…빙판길·도로 살얼음 주의' (AKR20261125008200004), 원 데이터 기상청.
-//    25일 아침 서해안·제주 제외 전국 영하권. 서울(종로 관측소) -4.2도, 노원구 -7.6도. 설악산(1,603m) -14.5도·체감 -24.7도.
-//    횡성(둔내) -11.6, 포천(일동) -10.2, 파주(판문점) -10.1. 인천 -2.5, 대전 -2.0, 광주 1.0, 대구 -0.6, 울산·부산 -0.9.
-//    낮 최고 4~12도(평년 8~15도). 순간풍속 시속 55km 안팎. 26일(목) 최저 -3~9도, 최고 13~18도, 서울 5~16도. 27일 1~12도 / 14~21도.
-//    26일 새벽~아침 경기 북동부·강원 중북부 내륙·산지 비 또는 눈 → 빙판길·도로 살얼음 주의.
-//  - 261125-kimchiday (ES): 11/23 11:42 '[르포] 부채춤 공연·한국어 생일축하…아르헨 한국문화원 20돌 잔치' (AKR20261123078600009)
-//    11/22(현지) 부에노스아이레스 팔라시오 리베르타드. 주아르헨티나 한국문화원(2006년 개원, 중남미 첫 한국문화원) 20주년 + 김치의 날(11/22).
-//    국립남도국악원: 춘앵전, 부채춤, 태평무, 입춤, 벅구춤. 기립박수. 한국어 '생일 축하합니다' 합창, 떡 선물.
-//    김치+밀라네사 시식, 한국·아르헨티나 식재료 20가지 비빔밥. 11월 '한국 문화의 달': 영화 상영·문학 대담.
-//    아르헨티나는 김치의 날을 국가 단위 기념일로 법제화(연합 표현 '세계 최초') → 한국 자체가 2020년 법정기념일이라 원고에는 '한국 밖 첫 나라'로 씀.
-// 사진: Wikimedia Commons(Huntsmanleader, 2023년 12월 광화문, CC0) / Wikimedia Commons(chomjong, 배추김치·깍두기, CC BY 2.0). 둘 다 자료 사진.
-// 인사이트(11/25): "저장률 0% → '왜 중요한가'를 더 실용적으로(숫자·비교·해 볼 방법)" 제안(TR 릴스 8개, ES 릴스 22개로 표본 충분)을 반영.
-//   릴스 3번째 줄을 사실 나열 대신 '보는 사람이 바로 쓸 정보'(내일 기온·옷차림 / 이어지는 행사)로 씀. 그 외 구조는 그대로.
+// 2026-11-26 한국 뉴스 (언어별 1건, 하루 한도 1개). 출처: 연합뉴스
+//  - 261126-railslow (TR): 11/26 09:00 '철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)' (AKR20261125182951063)
+//    26일 09시 돌입. 요구: 승진 제도 개선·추가 수당·인력 확충. 미수용 시 12/10부터 무기한 총파업.
+//    기관사: 회복 운전 안 함, 제한속도보다 감속. 출고점검 이상 시 출고 안 함. 시간 외·휴일 근무 거부.
+//    영향: KTX 등 고속열차, ITX-새마을 등 일반열차, 수도권 광역전철. 2024년 준법투쟁 때 하루 최대 200여 편 이상이 5~20분 이상 지연.
+//    09시 시작이라 출근길 영향 미미, 저녁 퇴근길·금요일 출근길·주말 이동객 영향권. 코레일: korail.com·'코레일+' 앱 확인, 지연 증명서 발급.
+//  - 261126-births (ES): 11/25 12:09 'Births in S. Korea jump 12.2 pct in September, fastest nine-month growth on record' (AEN20261125004700320)
+//    9월 출생아 25,113명(+12.2%, +2,731명), 27개월 연속 증가. 9월 기준 8년 만에 최다, 증가율은 2007년(16.6%) 다음.
+//    1~9월 218,896명(전년 191,593명, +14.3%), 1981년 통계 작성 이래 최대 증가율. 3분기 합계출산율 0.9(+0.09), 3분기 기준 2018년 이후 처음.
+//    4분기도 이어지면 연간 0.9, 2019년(0.92) 이후 처음. 9월 혼인 16,299건(-11.7%, 두 달 연속 감소: 추석·내년 신혼부부 지원 발표로 신고 미룸).
+//    '대체출산율 약 2.1'은 기사 밖 일반 상식으로 덧붙임.
+// 사진: Wikimedia Commons(Luke Ma, 2012년 서울역 KTX, CC BY 2.0) / Wikimedia Commons(Evan-Amos, 신생아 발, 퍼블릭 도메인). 둘 다 자료 사진.
+// 인사이트(11/26): 새 변경 없음. 11/25에 넣은 '릴스 3번째 줄 = 보는 사람이 바로 쓸 정보/이유'를 그대로 유지(바꾼 뒤 표본이 언어별 1개뿐이라 결과 판단 불가).
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "25 KASIM 2026",
+    date: "26 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -27,42 +25,42 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261125-cold",
-        hook: "Seul'de bu sabah termometre <em>-4,2°C</em> gösterdi",
+        id: "261126-railslow",
+        hook: "Kore'de KTX yolcularına uyarı: trenler <em>gecikebilir</em>",
         reel: [
-          "Seorak Dağı'nda <b>-14,5°C</b> ölçüldü. Hissedilen sıcaklık <b>-24,7°C</b>.",
-          "Batı kıyısı ve Jeju dışında bütün ülke sıfırın altında. Busan'da bile <b>-0,9°C</b>.",
-          "Perşembe ısınıyor: Seul'de <b>5-16°C</b>. Kat kat giyin, öğlen bir katı çıkar.",
+          "Demiryolu sendikası <b>26 Kasım</b> saat 09.00'da 'kurallara harfiyen uyma' eylemine başladı.",
+          "Makinistler gecikmeyi kapatmak için hızlanmıyor. KTX, şehirlerarası trenler ve Seul banliyö hatları etkilenebilir.",
+          "Anlaşma olmazsa <b>10 Aralık</b>'ta süresiz grev var. Binmeden önce Korail uygulamasından seferine bak.",
         ],
-        cat: "HAVA DURUMU",
-        photo: "gwanghwamun.jpg",
-        pos: "center 60%",
+        cat: "ULAŞIM",
+        photo: "ktx.jpg",
+        pos: "45% center",
         source: "Yonhap Haber Ajansı",
-        credit: "Foto: Huntsmanleader / Wikimedia Commons, CC0 · temsili görsel",
-        headline: "Seul'de sabah <em>-4,2°C</em>: Kore'nin neredeyse tamamı sıfırın altında",
-        sub: "25 Kasım sabahı batı kıyısı ve Jeju dışında bütün Kore dondu. Dağlarda hissedilen sıcaklık -24,7°C'ye indi. Soğuk kısa sürecek, perşembe günü hava ısınıyor.",
-        short: "Kore'de sıfırın altı soğuk",
+        credit: "Foto: Luke Ma / Wikimedia Commons, CC BY 2.0 · temsili görsel",
+        headline: "Kore'de demiryolu eylemi başladı: KTX'te <em>gecikme</em> uyarısı",
+        sub: "Sendika 26 Kasım sabahı 'güvenli sefer' eylemine başladı. Talepleri kabul edilmezse 10 Aralık'ta süresiz greve gidecek. Korail, yolculara sefer durumunu önceden kontrol etmelerini önerdi.",
+        short: "Kore'de trenlerde gecikme uyarısı",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "25 Kasım sabahı Seul'de en düşük sıcaklık <b>-4,2°C</b> ölçüldü. Şehrin kuzeydoğusundaki Nowon ilçesinde termometre -7,6°C'ye kadar indi. Batı kıyısı ve Jeju Adası dışında ülkenin tamamı sıfırın altına düştü.",
-              "En soğuk nokta, 1.603 metredeki Seorak Dağı istasyonu oldu: <b>-14,5°C</b>, hissedilen sıcaklık -24,7°C. Hoengseong'da -11,6°C, Kuzey Kore sınırındaki Panmunjom'da -10,1°C kaydedildi. Güneydeki liman kenti Busan'da bile -0,9°C görüldü.",
-              "Gündüz için tahmin edilen en yüksek sıcaklık <b>4-12°C</b>; bu dönemin normali 8-15°C. Tahminlerde saatte 55 kilometreye varan rüzgâr da var. Kore Meteoroloji İdaresi soğuğun uzun sürmeyeceğini bildirdi.",
+              "Kore Demiryolu İşçileri Sendikası, <b>26 Kasım</b> saat 09.00'da 'güvenli sefer mücadelesi' adını verdiği eyleme başladı. Bu bir grev değil: çalışanlar iş kurallarını ve sefer yönetmeliklerini eksiksiz uyguluyor. Talepler: terfi sisteminin düzeltilmesi, ek ödenek ve daha fazla personel.",
+              "Makinistler gecikmeyi kapatmak için hızlanmıyor ve hız sınırının altında gidiyor. Çıkış kontrolünde arıza görülen tren sefere verilmiyor. Fazla mesai ve tatil günü çalışması da reddediliyor.",
+              "Etkilenmesi beklenenler: hızlı tren KTX, ITX-Saemaeul gibi şehirlerarası trenler ve Seul çevresindeki banliyö hatları. <b>2024</b>'teki benzer eylemde günde 200'den fazla tren 5-20 dakika veya daha uzun süre gecikmişti.",
             ],
           },
           {
             label: "NEDEN ÖNEMLİ?",
             items: [
-              "Kore'de kış, kuzeyden inen kuru ve soğuk havayla gelir. Sıcaklık bir iki gün içinde 10 derece düşebilir, birkaç gün sonra yeniden yükselir. Kasım sonu, bu iniş çıkışların başladığı dönemdir.",
-              "İstanbul'da kasım sonunda geceler genellikle 8-10°C civarındadır. Seul bu sabah bundan yaklaşık 13 derece daha soğuktu. Kışın Kore'ye gideceksen bavulunu İstanbul kışına göre değil, Ankara ya da Erzurum kışına göre hazırla.",
-              "Perşembe günü (26 Kasım) hava ısınıyor: Seul'de 5-16°C, ülke genelinde gündüz <b>13-18°C</b>. Sabah ile öğlen arasındaki fark 10 dereceyi geçtiği için kat kat giyinmek en pratik yol. Yağış beklenen Gangwon ve Gyeonggi'nin kuzeydoğusunda yollarda gizli buzlanma uyarısı var.",
+              "Seul banliyö hatlarının bir bölümü ve Seul-Busan hattı zaten tam kapasite çalışıyor. Öndeki trendeki küçük bir gecikme arkadaki trenlere domino gibi yayılıyor. Sendikaya göre kurallara uyulunca trenlerin gecikmesi, personelin yetersiz olduğunun kanıtı.",
+              "Eylem 09.00'da başladığı için sabah işe gidişler pek etkilenmedi. Asıl etkinin bu akşamki dönüş saatinde, cuma sabahı ve hafta sonu şehir dışına çıkanlarda görülmesi bekleniyor. Talepler kabul edilmezse sendika <b>10 Aralık</b>'ta süresiz greve gidecek.",
+              "Bu günlerde Kore'deysen trene binmeden önce korail.com sitesinden ya da 'Korail+' uygulamasından sefer durumuna bak. Önemli bir randevun varsa başka bir ulaşım seçeneğini de düşün. Gecikme belgesi aynı uygulamadan ve istasyonlardan alınabiliyor.",
             ],
           },
         ],
-        reelWhy: "İstanbul'da kasım sonunda geceler genellikle 8-10°C civarındadır. Seul bu sabah bundan yaklaşık 13 derece daha soğuktu. Kışın Kore'ye gideceksen bavulunu İstanbul kışına göre değil, Ankara ya da Erzurum kışına göre hazırla.",
-        word: { ko: "추위", rom: "chuwi", mean: "soğuk, soğuk hava", exKo: "오늘 서울은 추위가 심해요.", exTr: "Bugün Seul'de soğuk çok şiddetli." },
-        question: "Senin şehrinde bu sabah hava kaç dereceydi?",
+        reelWhy: "Bu günlerde Kore'deysen trene binmeden önce korail.com sitesinden ya da 'Korail+' uygulamasından sefer durumuna bak. Önemli bir randevun varsa başka bir ulaşım seçeneğini de düşün.",
+        word: { ko: "지연", rom: "jiyeon", mean: "gecikme, rötar", exKo: "열차가 20분 지연됐어요.", exTr: "Tren 20 dakika gecikti." },
+        question: "Trenin gecikince bekler misin, yoksa başka yol mu ararsın?",
       },
     ],
   },
@@ -70,7 +68,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "25 NOV 2026",
+    date: "26 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -80,42 +78,42 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261125-kimchiday",
-        hook: "Argentina celebra el Día del Kimchi <em>por ley</em>",
+        id: "261126-births",
+        hook: "Corea suma <em>27 meses</em> seguidos con más nacimientos",
         reel: [
-          "Fue el primer país fuera de Corea en declararlo fecha nacional: el <b>22 de noviembre</b>.",
-          "Coincidió con los <b>20 años</b> del Centro Cultural Coreano de Buenos Aires, primero de Latinoamérica.",
-          "Probaron kimchi con milanesa. En noviembre el centro sigue con cine y literatura coreana.",
+          "En septiembre nacieron <b>25.113</b> bebés, un <b>12,2 %</b> más que un año antes.",
+          "De enero a septiembre: <b>218.896</b>, un 14,3 % más. Es el mayor aumento desde 1981.",
+          "Coincide con más bodas y más treintañeros. La fecundidad sube a <b>0,9</b> hijos por mujer.",
         ],
-        cat: "CULTURA",
-        photo: "kimchi.jpg",
-        pos: "center 50%",
+        cat: "SOCIEDAD",
+        photo: "babyfeet.jpg",
+        pos: "center 25%",
         source: "Agencia Yonhap",
-        credit: "Foto: chomjong / Wikimedia Commons, CC BY 2.0 · imagen ilustrativa",
-        headline: "Argentina celebra el Día del Kimchi y los <em>20</em> años de su centro coreano",
-        sub: "El Centro Cultural Coreano de Buenos Aires, el primero de Latinoamérica, festejó su aniversario el 22 de noviembre con danza tradicional, bibimbap y kimchi con milanesa.",
-        short: "Día del Kimchi en Argentina",
+        credit: "Foto: Evan-Amos / Wikimedia Commons, dominio público · imagen ilustrativa",
+        headline: "Corea suma <em>27</em> meses seguidos con más nacimientos",
+        sub: "En septiembre nacieron 25.113 bebés, un 12,2 % más que un año antes. De enero a septiembre el aumento fue del 14,3 %, el mayor desde que empezó la estadística en 1981.",
+        short: "Más nacimientos en Corea",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "El <b>22</b> de noviembre, el Palacio Libertad de Buenos Aires acogió una función especial por los 20 años del Centro Cultural Coreano en Argentina. Ese mismo día el país celebra el Día Nacional del Kimchi.",
-              "El Centro Nacional de Gugak de Namdo, llegado desde Corea, presentó la danza de corte Chunaengjeon, la danza de abanicos (buchaechum) y otras tres piezas tradicionales. El público despidió a los bailarines de pie.",
-              "En la ceremonia, los asistentes cantaron el 'Cumpleaños feliz' en coreano. Después probaron kimchi con milanesa y prepararon bibimbap con <b>20</b> ingredientes coreanos y argentinos, por los 20 años del centro. Al salir recibieron tteok, el pastel de arroz de las fiestas coreanas.",
+              "En septiembre nacieron en Corea del Sur <b>25.113</b> bebés, un 12,2 % más que un año antes (2.731 más). Son 27 meses seguidos de aumento, según los datos oficiales publicados el 25 de noviembre.",
+              "Es la cifra más alta para un mes de septiembre en ocho años. El ritmo de crecimiento es el segundo mayor para ese mes, por detrás del 16,6 % de 2007.",
+              "De enero a septiembre nacieron <b>218.896</b> bebés, frente a 191.593 en el mismo periodo del año anterior. Es un 14,3 % más y el mayor aumento desde que empezó la estadística, en 1981.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "El 22 de noviembre es el Día del Kimchi en Corea desde 2020. Argentina fue el primer país fuera de Corea en convertirlo en fecha nacional por ley. El kimchi es col fermentada con pimiento rojo picante, ajo y otros condimentos, y acompaña casi todas las comidas coreanas.",
-              "El centro de Buenos Aires abrió en <b>2006</b> y fue el primer centro cultural coreano de Latinoamérica. Hoy también los hay en Ciudad de México, São Paulo y Madrid, con clases de coreano, cine y cocina.",
-              "Si vives en Buenos Aires, el centro declaró noviembre 'Mes de la Cultura Coreana' y sigue con proyecciones de cine y charlas de literatura. En otros países, busca el centro cultural coreano más cercano: suelen ofrecer actividades abiertas al público.",
+              "La tasa de fecundidad, el número medio de hijos que se espera que tenga una mujer, subió a <b>0,9</b> en el tercer trimestre, 0,09 más que un año antes. Un tercer trimestre no llegaba a 0,9 desde 2018.",
+              "El aumento coincide con más matrimonios, más población de treinta y tantos años y una actitud más favorable hacia tener hijos. Si la tendencia sigue en el cuarto trimestre, la tasa anual llegaría a 0,9 por primera vez desde 2019, cuando fue de 0,92.",
+              "Aun así, 0,9 queda muy por debajo de los 2,1 hijos por mujer que mantienen estable una población. Y las bodas de septiembre bajaron un 11,7 %, hasta <b>16.299</b>: muchas parejas aplazaron el registro por el festivo de Chuseok y por ayudas que empiezan el próximo año.",
             ],
           },
         ],
-        reelWhy: "El centro de Buenos Aires abrió en 2006 y fue el primer centro cultural coreano de Latinoamérica. Hoy también los hay en Ciudad de México, São Paulo y Madrid, con clases de coreano, cine y cocina.",
-        word: { ko: "김치", rom: "gimchi", mean: "kimchi, verdura fermentada y picante", exKo: "아르헨티나에는 김치의 날이 있어요.", exTr: "En Argentina existe el Día del Kimchi." },
-        question: "¿Ya probaste el kimchi? ¿Con qué plato de tu país lo combinarías?",
+        reelWhy: "El aumento coincide con más matrimonios, más población de treinta y tantos años y una actitud más favorable hacia tener hijos. Aun así, 0,9 queda muy por debajo de los 2,1 hijos por mujer que mantienen estable una población.",
+        word: { ko: "아기", rom: "agi", mean: "bebé", exKo: "한국에서 아기가 더 많이 태어나요.", exTr: "En Corea nacen más bebés." },
+        question: "¿En tu país nacen más o menos bebés que antes?",
       },
     ],
   },
