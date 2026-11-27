@@ -1,22 +1,43 @@
 {
- "collected_at": "2026-11-27T08:39:28+00:00",
+ "collected_at": "2026-11-27T21:21:38+00:00",
  "accounts": {
   "tr": {
    "account": {
     "username": "korede.bugun",
     "followers_count": 0,
     "follows_count": 0,
-    "media_count": 17
+    "media_count": 18
    },
    "account_day": {
-    "reach": 92,
-    "views": 101,
-    "accounts_engaged": 0,
-    "total_interactions": 0,
+    "reach": 204,
+    "views": 222,
+    "accounts_engaged": 1,
+    "total_interactions": 1,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "17913611850578553",
+     "key": "tr/261127-gangneung/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-27T14:23:28+0000",
+     "permalink": "https://www.instagram.com/reel/DgP4p9vzwdE/",
+     "like_count": 1,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 103,
+      "views": 110,
+      "saved": 0,
+      "shares": 0,
+      "likes": 1,
+      "comments": 0,
+      "total_interactions": 1,
+      "ig_reels_avg_watch_time": 2587,
+      "ig_reels_video_view_total_time": 266501
+     }
+    },
     {
      "id": "18120952592019360",
      "key": "tr/261126-railslow/reel",
@@ -27,15 +48,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 91,
-      "views": 101,
+      "reach": 101,
+      "views": 108,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2450,
-      "ig_reels_video_view_total_time": 225419
+      "ig_reels_avg_watch_time": 2406,
+      "ig_reels_video_view_total_time": 245489
      }
     },
     {
@@ -385,8 +406,8 @@
     "media_count": 49
    },
    "account_day": {
-    "reach": 7,
-    "views": 7,
+    "reach": 8,
+    "views": 8,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
@@ -403,15 +424,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 6,
-      "views": 6,
+      "reach": 7,
+      "views": 7,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4137,
-      "ig_reels_video_view_total_time": 24825
+      "ig_reels_avg_watch_time": 4881,
+      "ig_reels_video_view_total_time": 34170
      }
     },
     {
