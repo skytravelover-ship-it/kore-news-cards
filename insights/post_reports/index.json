@@ -974,5 +974,19 @@
    "ig_reels_video_view_total_time": 22826
   },
   "at": "2026-11-27T04:43:36+00:00"
+ },
+ "tr/261127-gangneung/reel": {
+  "metrics": {
+   "reach": 103,
+   "views": 110,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 2587,
+   "ig_reels_video_view_total_time": 266501
+  },
+  "at": "2026-11-27T22:50:01+00:00"
  }
 }
