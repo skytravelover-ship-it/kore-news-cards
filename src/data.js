@@ -1,21 +1,22 @@
-// 2026-11-26 한국 뉴스 (언어별 1건, 하루 한도 1개). 출처: 연합뉴스
-//  - 261126-railslow (TR): 11/26 09:00 '철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)' (AKR20261125182951063)
-//    26일 09시 돌입. 요구: 승진 제도 개선·추가 수당·인력 확충. 미수용 시 12/10부터 무기한 총파업.
-//    기관사: 회복 운전 안 함, 제한속도보다 감속. 출고점검 이상 시 출고 안 함. 시간 외·휴일 근무 거부.
-//    영향: KTX 등 고속열차, ITX-새마을 등 일반열차, 수도권 광역전철. 2024년 준법투쟁 때 하루 최대 200여 편 이상이 5~20분 이상 지연.
-//    09시 시작이라 출근길 영향 미미, 저녁 퇴근길·금요일 출근길·주말 이동객 영향권. 코레일: korail.com·'코레일+' 앱 확인, 지연 증명서 발급.
-//  - 261126-births (ES): 11/25 12:09 'Births in S. Korea jump 12.2 pct in September, fastest nine-month growth on record' (AEN20261125004700320)
-//    9월 출생아 25,113명(+12.2%, +2,731명), 27개월 연속 증가. 9월 기준 8년 만에 최다, 증가율은 2007년(16.6%) 다음.
-//    1~9월 218,896명(전년 191,593명, +14.3%), 1981년 통계 작성 이래 최대 증가율. 3분기 합계출산율 0.9(+0.09), 3분기 기준 2018년 이후 처음.
-//    4분기도 이어지면 연간 0.9, 2019년(0.92) 이후 처음. 9월 혼인 16,299건(-11.7%, 두 달 연속 감소: 추석·내년 신혼부부 지원 발표로 신고 미룸).
-//    '대체출산율 약 2.1'은 기사 밖 일반 상식으로 덧붙임.
-// 사진: Wikimedia Commons(Luke Ma, 2012년 서울역 KTX, CC BY 2.0) / Wikimedia Commons(Evan-Amos, 신생아 발, 퍼블릭 도메인). 둘 다 자료 사진.
-// 인사이트(11/26): 새 변경 없음. 11/25에 넣은 '릴스 3번째 줄 = 보는 사람이 바로 쓸 정보/이유'를 그대로 유지(바꾼 뒤 표본이 언어별 1개뿐이라 결과 판단 불가).
+// 2026-11-27 한국 뉴스 (언어별 1건, 하루 한도 1개). 출처: 연합뉴스
+//  - 261127-gangneung (TR): 11/27 08:58 '강릉시 "12월엔 겨울 바다로"…도깨비촬영지·정동진역 추천' (AKR20261127026100062)
+//    '2026∼2027 강릉 방문의 해' 12월 추천 여행지 = 도깨비 촬영지(주문진 방파제) + 정동진역. 주제: 겨울 바다.
+//    추천 순서: 도깨비 촬영지 → 사근진 해중공원 전망대 → 안목커피거리 → 정동진역.
+//    12/23 제6회 강릉크리스마스겨울축제(월화거리·안목해변 등), 12/31 1/1 주문진·경포·정동진 2027년 해맞이 행사.
+//    '서울 강릉 KTX 약 2시간'은 기사 밖 일반 정보. 철도 준법투쟁(11/26 )은 어제 게시물과 같은 연합 기사 기준.
+//  - 261127-tempdrop (ES): 11/27 08:51 '오늘 낮 최고 21도 포근…중부 약한 비·저녁부터 서쪽 미세먼지' (AKR20261127026000530)
+//    + 11/27 09:00 '[내일날씨] 다시 추워지는 주말…충청·호남·제주 비나 눈' (AKR20261127004300004). 원 데이터는 기상청 예보.
+//    27일 낮 15 21도(08시 서울 10.6, 부산 12.7). 28일 최저 0 9·최고 7 13, 수도권 아침 5 8도 하락·강풍, 서울 4 8.
+//    29일 최저 -6 4·최고 6 13. 원인: 기압골 전면 남서풍 → 후면 북서풍 + 대륙고기압 확장.
+//    28일 충청·호남·제주 비/눈, 적설 전북 동부·전남광주 북동부 1 3cm, 제주 높은 산지(1천m 이상) 1 5cm.
+//    미세먼지: 수도권·충남 27일 저녁부터 '나쁨', 대전·세종·충북·광주·전북 늦은 밤부터.
+// 사진: Wikimedia Commons(최광모, 2015년 정동진역, CC0) / Unsplash(rawkkim, 겨울 밤 거리, 자료 사진).
+// 인사이트(11/27): 새 변경 없음. 11/25에 넣은 '릴스 3번째 줄 = 보는 사람이 바로 쓸 정보'를 유지(바뀐 뒤 표본 TR 2개·ES 2개, 도달만 있고 반응 0이라 판단 불가).
 window.NEWS = {
   tr: {
     brand: "KORE'DE BUGÜN",
     handle: "korede.bugun",
-    date: "26 KASIM 2026",
+    date: "27 KASIM 2026",
     srcLabel: "Kaynak",
     swipe: "KAYDIR",
     wordLabel: "GÜNÜN KORECESİ",
@@ -25,42 +26,42 @@ window.NEWS = {
     digestTap: "Dokun, oku",
     posts: [
       {
-        id: "261126-railslow",
-        hook: "Kore'de KTX yolcularına uyarı: trenler <em>gecikebilir</em>",
+        id: "261127-gangneung",
+        hook: "'Goblin' dizisinin çekildiği sahil <em>Aralık</em> ayının rotası seçildi",
         reel: [
-          "Demiryolu sendikası <b>26 Kasım</b> saat 09.00'da 'kurallara harfiyen uyma' eylemine başladı.",
-          "Makinistler gecikmeyi kapatmak için hızlanmıyor. KTX, şehirlerarası trenler ve Seul banliyö hatları etkilenebilir.",
-          "Anlaşma olmazsa <b>10 Aralık</b>'ta süresiz grev var. Binmeden önce Korail uygulamasından seferine bak.",
+          "Gangneung şehri Aralık için iki yer önerdi: Jumunjin dalgakıranı ve deniz kenarındaki Jeongdongjin İstasyonu.",
+          "<b>23 Aralık</b>'ta Noel kış festivali, <b>31 Aralık</b>'ta yeni yılın ilk gün doğumu etkinliği var.",
+          "Önerilen sıra: dalgakıran, Anmok kahve sokağı, Jeongdongjin. Kışın deniz kenarı soğuk olur, kalın giyin.",
         ],
-        cat: "ULAŞIM",
-        photo: "ktx.jpg",
-        pos: "45% center",
+        cat: "GEZİ",
+        photo: "jeongdongjin.jpg",
+        pos: "center center",
         source: "Yonhap Haber Ajansı",
-        credit: "Foto: Luke Ma / Wikimedia Commons, CC BY 2.0 · temsili görsel",
-        headline: "Kore'de demiryolu eylemi başladı: KTX'te <em>gecikme</em> uyarısı",
-        sub: "Sendika 26 Kasım sabahı 'güvenli sefer' eylemine başladı. Talepleri kabul edilmezse 10 Aralık'ta süresiz greve gidecek. Korail, yolculara sefer durumunu önceden kontrol etmelerini önerdi.",
-        short: "Kore'de trenlerde gecikme uyarısı",
+        credit: "Foto: Choi Kwang-mo / Wikimedia Commons, CC0 · arşiv, Jeongdongjin İstasyonu",
+        headline: "'Goblin' sahili ve deniz kenarındaki istasyon: Gangneung'un <em>Aralık</em> rotası",
+        sub: "Kore'nin doğu kıyısındaki Gangneung, Aralık ayı için 'Goblin' dizisinin çekildiği Jumunjin dalgakıranını ve Jeongdongjin İstasyonu'nu önerdi. Yıl sonunda iki etkinlik var.",
+        short: "Gangneung'un Aralık gezi rotası",
         slides: [
           {
             label: "NE OLDU?",
             items: [
-              "Kore Demiryolu İşçileri Sendikası, <b>26 Kasım</b> saat 09.00'da 'güvenli sefer mücadelesi' adını verdiği eyleme başladı. Bu bir grev değil: çalışanlar iş kurallarını ve sefer yönetmeliklerini eksiksiz uyguluyor. Talepler: terfi sisteminin düzeltilmesi, ek ödenek ve daha fazla personel.",
-              "Makinistler gecikmeyi kapatmak için hızlanmıyor ve hız sınırının altında gidiyor. Çıkış kontrolünde arıza görülen tren sefere verilmiyor. Fazla mesai ve tatil günü çalışması da reddediliyor.",
-              "Etkilenmesi beklenenler: hızlı tren KTX, ITX-Saemaeul gibi şehirlerarası trenler ve Seul çevresindeki banliyö hatları. <b>2024</b>'teki benzer eylemde günde 200'den fazla tren 5-20 dakika veya daha uzun süre gecikmişti.",
+              "Gangneung Belediyesi, '2026-2027 Gangneung'u Ziyaret Yılı' kapsamında <b>Aralık</b> ayının önerilen gezi noktalarını açıkladı: 'Goblin' dizisinin çekim yeri ve Jeongdongjin İstasyonu. Tema kış denizi.",
+              "Çekim yeri, Jumunjin'deki dalgakıran. Dizi yayınlandıktan sonra Koreli ve yabancı ziyaretçiler buraya gelmeye devam ediyor. Çoğu, dizideki sahneyi canlandırıp fotoğraf çekiyor.",
+              "Jeongdongjin İstasyonu'nda raylar denizin hemen yanından geçiyor. Burası Kore'de gün doğumunu izlemek için en bilinen yerlerden biri. Bu yüzden yılbaşı döneminde çok ziyaretçi alıyor.",
             ],
           },
           {
-            label: "NEDEN ÖNEMLİ?",
+            label: "GİDECEKSEN",
             items: [
-              "Seul banliyö hatlarının bir bölümü ve Seul-Busan hattı zaten tam kapasite çalışıyor. Öndeki trendeki küçük bir gecikme arkadaki trenlere domino gibi yayılıyor. Sendikaya göre kurallara uyulunca trenlerin gecikmesi, personelin yetersiz olduğunun kanıtı.",
-              "Eylem 09.00'da başladığı için sabah işe gidişler pek etkilenmedi. Asıl etkinin bu akşamki dönüş saatinde, cuma sabahı ve hafta sonu şehir dışına çıkanlarda görülmesi bekleniyor. Talepler kabul edilmezse sendika <b>10 Aralık</b>'ta süresiz greve gidecek.",
-              "Bu günlerde Kore'deysen trene binmeden önce korail.com sitesinden ya da 'Korail+' uygulamasından sefer durumuna bak. Önemli bir randevun varsa başka bir ulaşım seçeneğini de düşün. Gecikme belgesi aynı uygulamadan ve istasyonlardan alınabiliyor.",
+              "Belediyenin önerdiği sıra: önce dalgakıran, sonra Sageunjin'deki deniz seyir terası ve Anmok kahve sokağı, en son Jeongdongjin İstasyonu.",
+              "Takvim: <b>23 Aralık</b>'ta Wolhwa Sokağı ve Anmok Sahili'nde 6. Gangneung Noel Kış Festivali var. <b>31 Aralık</b>'tan 1 Ocak'a kadar Jumunjin, Gyeongpo ve Jeongdongjin'de 2027'nin ilk gün doğumu etkinliği düzenlenecek.",
+              "Seul'den Gangneung'a KTX hızlı treniyle yaklaşık <b>2 saatte</b> gidiliyor. 26 Kasım'da başlayan demiryolu eylemi nedeniyle binmeden önce sefer durumuna bak. Kışın deniz kenarı soğuk olur, kalın giyin.",
             ],
           },
         ],
-        reelWhy: "Bu günlerde Kore'deysen trene binmeden önce korail.com sitesinden ya da 'Korail+' uygulamasından sefer durumuna bak. Önemli bir randevun varsa başka bir ulaşım seçeneğini de düşün.",
-        word: { ko: "지연", rom: "jiyeon", mean: "gecikme, rötar", exKo: "열차가 20분 지연됐어요.", exTr: "Tren 20 dakika gecikti." },
-        question: "Trenin gecikince bekler misin, yoksa başka yol mu ararsın?",
+        reelWhy: "Seul'den Gangneung'a KTX hızlı treniyle yaklaşık 2 saatte gidiliyor. Demiryolu eylemi nedeniyle binmeden önce sefer durumuna bak. Kışın deniz kenarı soğuk olur, kalın giyin.",
+        word: { ko: "겨울 바다", rom: "gyeoul bada", mean: "kış denizi", exKo: "겨울 바다를 보러 강릉에 가요.", exTr: "Kış denizini görmeye Gangneung'a gidiyorum." },
+        question: "Kore'de bir dizi mekânına gitsen, ilk hangisini seçerdin?",
       },
     ],
   },
@@ -68,7 +69,7 @@ window.NEWS = {
   es: {
     brand: "HOY EN COREA",
     handle: "hoy.encorea",
-    date: "26 NOV 2026",
+    date: "27 NOV 2026",
     srcLabel: "Fuente",
     swipe: "DESLIZA",
     wordLabel: "PALABRA DEL DÍA",
@@ -78,42 +79,42 @@ window.NEWS = {
     digestTap: "Toca para leer",
     posts: [
       {
-        id: "261126-births",
-        hook: "Corea suma <em>27 meses</em> seguidos con más nacimientos",
+        id: "261127-tempdrop",
+        hook: "Corea pasa de <em>21 °C</em> a -6 °C en dos días",
         reel: [
-          "En septiembre nacieron <b>25.113</b> bebés, un <b>12,2 %</b> más que un año antes.",
-          "De enero a septiembre: <b>218.896</b>, un 14,3 % más. Es el mayor aumento desde 1981.",
-          "Coincide con más bodas y más treintañeros. La fecundidad sube a <b>0,9</b> hijos por mujer.",
+          "Para el viernes 27 se pronosticaron máximas de hasta <b>21 °C</b>, más de lo habitual.",
+          "El sábado 28 las máximas bajan a 7-13 °C. En Seúl se esperan entre <b>4 y 8 °C</b>.",
+          "El domingo 29 las mínimas irán de <b>-6</b> a 4 °C. Si viajas a Corea, lleva abrigo.",
         ],
-        cat: "SOCIEDAD",
-        photo: "babyfeet.jpg",
-        pos: "center 25%",
+        cat: "CLIMA",
+        photo: "street.jpg",
+        pos: "center center",
         source: "Agencia Yonhap",
-        credit: "Foto: Evan-Amos / Wikimedia Commons, dominio público · imagen ilustrativa",
-        headline: "Corea suma <em>27</em> meses seguidos con más nacimientos",
-        sub: "En septiembre nacieron 25.113 bebés, un 12,2 % más que un año antes. De enero a septiembre el aumento fue del 14,3 %, el mayor desde que empezó la estadística en 1981.",
-        short: "Más nacimientos en Corea",
+        credit: "Foto: rawkkim / Unsplash · imagen ilustrativa",
+        headline: "Corea pasa de <em>21 °C</em> a -6 °C en dos días",
+        sub: "Tras un viernes templado, con máximas previstas de hasta 21 °C, el aire frío del noroeste hará caer las temperaturas el fin de semana. Para el domingo se esperan mínimas de hasta -6 °C.",
+        short: "De 21 °C a -6 °C en dos días",
         slides: [
           {
             label: "¿QUÉ PASÓ?",
             items: [
-              "En septiembre nacieron en Corea del Sur <b>25.113</b> bebés, un 12,2 % más que un año antes (2.731 más). Son 27 meses seguidos de aumento, según los datos oficiales publicados el 25 de noviembre.",
-              "Es la cifra más alta para un mes de septiembre en ocho años. El ritmo de crecimiento es el segundo mayor para ese mes, por detrás del 16,6 % de 2007.",
-              "De enero a septiembre nacieron <b>218.896</b> bebés, frente a 191.593 en el mismo periodo del año anterior. Es un 14,3 % más y el mayor aumento desde que empezó la estadística, en 1981.",
+              "Para el viernes 27 de noviembre, la agencia meteorológica de Corea pronosticó máximas de 15 a <b>21 °C</b>, por encima de lo habitual en estas fechas. A las 8 de la mañana Seúl ya tenía 10,6 °C y Busan 12,7 °C.",
+              "El sábado 28 las mínimas serán de 0 a 9 °C y las máximas de 7 a 13 °C. En Seúl y alrededores la mañana será entre 5 y 8 grados más fría que la del viernes, con viento fuerte. Para Seúl se esperan entre <b>4 y 8 °C</b>.",
+              "El domingo 29 baja todavía más: mínimas de <b>-6</b> a 4 °C y máximas de 6 a 13 °C en todo el país.",
             ],
           },
           {
             label: "¿POR QUÉ IMPORTA?",
             items: [
-              "La tasa de fecundidad, el número medio de hijos que se espera que tenga una mujer, subió a <b>0,9</b> en el tercer trimestre, 0,09 más que un año antes. Un tercer trimestre no llegaba a 0,9 desde 2018.",
-              "El aumento coincide con más matrimonios, más población de treinta y tantos años y una actitud más favorable hacia tener hijos. Si la tendencia sigue en el cuarto trimestre, la tasa anual llegaría a 0,9 por primera vez desde 2019, cuando fue de 0,92.",
-              "Aun así, 0,9 queda muy por debajo de los 2,1 hijos por mujer que mantienen estable una población. Y las bodas de septiembre bajaron un 11,7 %, hasta <b>16.299</b>: muchas parejas aplazaron el registro por el festivo de Chuseok y por ayudas que empiezan el próximo año.",
+              "La causa es una vaguada que cruza por el norte de la península. Por delante empuja viento templado del suroeste. Por detrás entra viento frío y seco del noroeste, reforzado por el anticiclón continental.",
+              "El sábado se espera lluvia o nieve en el centro y el suroeste del país y en Jeju. Podrían acumularse de <b>1 a 3 cm</b> de nieve en el este de Jeonbuk y de 1 a 5 cm en las zonas altas de Jeju, por encima de los 1.000 metros.",
+              "Con el viento del noroeste también llega polvo fino: para la noche del viernes se preveía un nivel 'malo' en Seúl y alrededores. Si estás de viaje, vístete por capas, lleva abrigo y revisa la calidad del aire antes de salir.",
             ],
           },
         ],
-        reelWhy: "El aumento coincide con más matrimonios, más población de treinta y tantos años y una actitud más favorable hacia tener hijos. Aun así, 0,9 queda muy por debajo de los 2,1 hijos por mujer que mantienen estable una población.",
-        word: { ko: "아기", rom: "agi", mean: "bebé", exKo: "한국에서 아기가 더 많이 태어나요.", exTr: "En Corea nacen más bebés." },
-        question: "¿En tu país nacen más o menos bebés que antes?",
+        reelWhy: "Con el viento del noroeste también llega polvo fino. Si estás de viaje en Corea, vístete por capas, lleva abrigo y revisa la calidad del aire antes de salir.",
+        word: { ko: "겉옷", rom: "geodot", mean: "abrigo, prenda de abrigo", exKo: "겉옷을 꼭 챙기세요.", exTr: "No olvides llevar abrigo." },
+        question: "¿Cuál es el cambio de temperatura más brusco que has vivido?",
       },
     ],
   },

@@ -43,3 +43,5 @@
 | kimchi.jpg | chomjong (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Baechu-gimchi_and_kkaldugi.jpg | CC BY 2.0 (Wikimedia Commons), sips -Z 1600 축소 | 11/25 아르헨티나 김치의 날·한국문화원 20주년 (ES) |
 | ktx.jpg | Luke Ma (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:KTX-I_with_door_opened_in_Seoul_Station.jpg | CC BY 2.0 (Wikimedia Commons), sips -Z 1600 축소. 2012년 서울역 자료 사진 | 11/26 철도노조 안전운행(준법) 투쟁 돌입 (TR) |
 | babyfeet.jpg | Evan-Amos (Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Newborn-Baby-Feet.jpg | Public domain (작가가 퍼블릭 도메인으로 공개, Wikimedia Commons), 폭 1600 축소본. 자료 사진 | 11/26 9월 출생아 12.2% 증가·27개월 연속 (ES) |
+| jeongdongjin.jpg | Choi Kwang-mo (최광모, Wikimedia Commons) | https://commons.wikimedia.org/wiki/File:Jeongdongjin_Station_1.jpg | CC0 (Wikimedia Commons), sips -Z 1600 축소. 2015년 정동진역 자료 사진 | 11/27 강릉시 12월 추천 여행지 도깨비 촬영지·정동진역 (TR) |
+| street.jpg (재사용) | rawkkim | https://unsplash.com/photos/9klnaHaMi84 | Unsplash License, 자료 사진 | 11/27 낮 21도에서 주말 -6도로 급강하 (ES) |
