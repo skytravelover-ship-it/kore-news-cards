@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-26T21:36:53+00:00",
+ "collected_at": "2026-11-27T08:39:28+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 17
    },
    "account_day": {
-    "reach": 161,
-    "views": 177,
+    "reach": 92,
+    "views": 101,
     "accounts_engaged": 0,
     "total_interactions": 0,
     "profile_views": 0,
@@ -27,15 +27,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 55,
-      "views": 65,
+      "reach": 91,
+      "views": 101,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 2271,
-      "ig_reels_video_view_total_time": 124954
+      "ig_reels_avg_watch_time": 2450,
+      "ig_reels_video_view_total_time": 225419
      }
     },
     {
@@ -382,17 +382,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 48
+    "media_count": 49
    },
    "account_day": {
-    "reach": 4,
-    "views": 4,
+    "reach": 7,
+    "views": 7,
     "accounts_engaged": 0,
     "total_interactions": 0,
-    "profile_views": 1,
+    "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18104748449679834",
+     "key": "es/261126-births/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-26T22:59:40+0000",
+     "permalink": "https://www.instagram.com/reel/DgOO8unhmMg/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 6,
+      "views": 6,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0,
+      "ig_reels_avg_watch_time": 4137,
+      "ig_reels_video_view_total_time": 24825
+     }
+    },
     {
      "id": "18145944160613805",
      "key": "es/261125-kimchiday/reel",
