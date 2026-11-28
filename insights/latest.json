@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-28T07:53:40+00:00",
+ "collected_at": "2026-11-28T20:09:12+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -9,8 +9,8 @@
     "media_count": 18
    },
    "account_day": {
-    "reach": 204,
-    "views": 222,
+    "reach": 114,
+    "views": 122,
     "accounts_engaged": 1,
     "total_interactions": 1,
     "profile_views": 0,
@@ -406,8 +406,8 @@
     "media_count": 50
    },
    "account_day": {
-    "reach": 126,
-    "views": 136,
+    "reach": 119,
+    "views": 129,
     "accounts_engaged": 4,
     "total_interactions": 5,
     "profile_views": 0,
