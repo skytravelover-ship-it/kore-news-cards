@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-27T21:21:38+00:00",
+ "collected_at": "2026-11-28T07:53:40+00:00",
  "accounts": {
   "tr": {
    "account": {
@@ -403,17 +403,38 @@
     "username": "hoy.encorea",
     "followers_count": 2,
     "follows_count": 0,
-    "media_count": 49
+    "media_count": 50
    },
    "account_day": {
-    "reach": 8,
-    "views": 8,
-    "accounts_engaged": 0,
-    "total_interactions": 0,
+    "reach": 126,
+    "views": 136,
+    "accounts_engaged": 4,
+    "total_interactions": 5,
     "profile_views": 0,
     "follows_and_unfollows": null
    },
    "media": [
+    {
+     "id": "18110587261954350",
+     "key": "es/261127-tempdrop/reel",
+     "type": "VIDEO",
+     "product": "REELS",
+     "timestamp": "2026-11-27T22:49:53+0000",
+     "permalink": "https://www.instagram.com/reel/DgQynZ6gt23/",
+     "like_count": 0,
+     "comments_count": 0,
+     "metrics": {
+      "reach": 117,
+      "views": 127,
+      "saved": 1,
+      "shares": 2,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 3,
+      "ig_reels_avg_watch_time": 4727,
+      "ig_reels_video_view_total_time": 548438
+     }
+    },
     {
      "id": "18104748449679834",
      "key": "es/261126-births/reel",
@@ -424,15 +445,15 @@
      "like_count": 0,
      "comments_count": 0,
      "metrics": {
-      "reach": 7,
-      "views": 7,
+      "reach": 8,
+      "views": 8,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0,
-      "ig_reels_avg_watch_time": 4881,
-      "ig_reels_video_view_total_time": 34170
+      "ig_reels_avg_watch_time": 4514,
+      "ig_reels_video_view_total_time": 36115
      }
     },
     {
