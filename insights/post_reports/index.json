@@ -988,5 +988,19 @@
    "ig_reels_video_view_total_time": 266501
   },
   "at": "2026-11-27T22:50:01+00:00"
+ },
+ "es/261127-tempdrop/reel": {
+  "metrics": {
+   "reach": 69,
+   "views": 78,
+   "saved": 1,
+   "shares": 1,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 3890,
+   "ig_reels_video_view_total_time": 268419
+  },
+  "at": "2026-11-28T04:24:55+00:00"
  }
 }
